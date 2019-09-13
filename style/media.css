@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1080px), only screen and (max-device-width: 1080px) {
+  html,
+  body {
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 960px), only screen and (max-device-width: 960px) {
+  html,
+  body {
+    font-size: 1rem;
+  }
+  #container {
+    width: 100% !important;
+  }
+  #container #main .content .posts .item .describe .meta .l .warp .desp {
+    display: none;
+  }
+  #container #card-wrap {
+    display: none;
+  }
+  #container .banner {
+    flex-direction: column;
+  }
+}
