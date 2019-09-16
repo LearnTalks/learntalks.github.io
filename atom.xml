@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Learn Talks</title>
+  
+  <subtitle>Awesome conference and meetup talks</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://learntalks.com/"/>
+  <updated>2019-09-16T13:14:59.887Z</updated>
+  <id>http://learntalks.com/</id>
+  
+  <author>
+    <name>Learn Talks</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Strings Seven Ways - Mattt</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Strings-Seven-Ways-Mattt/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Strings-Seven-Ways-Mattt/</id>
+    <published>2018-10-01T17:13:33.000Z</published>
+    <updated>2019-09-16T13:14:59.887Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292786900?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>(Note: Unfortunately, there were technical problems when recording this talk, as a result it has poor audio quality and some footage of the beginning is missing. But it’s still an amazing presentation that’s worth sharing. Thanks for bearing with us, we hope you enjoy it)</p><p>Strings are the most versatile type in the Swift standard library. This talk looks at seven different ways to understand and work with strings: as collections of Unicode characters, as identifiers, as paths, as natural language text, as encoded data, as structured data, and as typographic content.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/292786900?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UI Testing Infrastructure in Avito - Vladislav Alexeev</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-UI-Testing-Infrastructure-in-Avito-Vladislav-Alexeev/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-UI-Testing-Infrastructure-in-Avito-Vladislav-Alexeev/</id>
+    <published>2018-10-01T13:18:09.000Z</published>
+    <updated>2019-09-16T13:14:59.888Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292738016?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>We rely on UI testing heavily: we now have more than 500 e2e tests that we need to run and maintain. The perfect infrastructure is a key of the success. I cover what we use for testing, what problems we’ve met and how we solve them.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/292738016?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Building apps at scale - Pavel Mazurin &amp; Victor Pena</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Building-apps-at-scale-Pavel-Mazurin-and-Victor-Pena/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Building-apps-at-scale-Pavel-Mazurin-and-Victor-Pena/</id>
+    <published>2018-10-01T12:56:40.000Z</published>
+    <updated>2019-09-16T13:14:59.883Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292733041?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Slides: <a href="http://t.uber.com/nsspain2018" target="_blank" rel="noopener">http://t.uber.com/nsspain2018</a></p><p>Most well known mobile architectures start to work against you after your engineering team grows large. A new architecture paradigm is needed to support the development of mobile applications with hundreds of mobile engineers.</p><p>At Uber, we’ve been through this journey, growing from one mobile developer to hundreds. After investigating many other mobile architectures, we created RIBs: a platform-agnostic mobile architecture designed with reliability, testability, isolation and maintainability in mind. We re-wrote the Uber application in 4 months with 200 engineers.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/292733041?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>From Engineer to Manager A personal journey - Marcus Wermuth</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-From-Engineer-to-Manager-A-personal-journey-Marcus-Wermuth/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-From-Engineer-to-Manager-A-personal-journey-Marcus-Wermuth/</id>
+    <published>2018-10-01T12:15:02.000Z</published>
+    <updated>2019-09-16T13:14:59.885Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292723588?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>This talk is a story - a story of how I went from being a senior iOS/Android Developer to a Manager.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/292723588?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scaling up mobile at ING - Bart den Hollander</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Scaling-up-mobile-at-ING-Bart-den-Hollander/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Scaling-up-mobile-at-ING-Bart-den-Hollander/</id>
+    <published>2018-10-01T11:12:37.000Z</published>
+    <updated>2019-09-16T13:14:59.886Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292710821?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Want to know how a large banking app as ING creates maintainable iOS frameworks that will be used by multiple countries? I’ll share all insights about what it takes to scale up a large codebase, how to maintain it and the lessons learned.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/292710821?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solving callback hell with good old function composition - Vincent Pradeilles</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Solving-callback-hell-with-good-old-function-composition-Vincent-Pradeilles/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Solving-callback-hell-with-good-old-function-composition-Vincent-Pradeilles/</id>
+    <published>2018-10-01T10:22:52.000Z</published>
+    <updated>2019-09-16T13:14:59.886Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292702159?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>⚡️Lightning Talk</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/292702159?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Thoughts on Vapor - Pier Cifani</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Thoughts-on-Vapor-Pier-Cifani/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Thoughts-on-Vapor-Pier-Cifani/</id>
+    <published>2018-10-01T09:16:16.000Z</published>
+    <updated>2019-09-16T13:14:59.888Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292689890?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>⚡️Lightning Talk</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/292689890?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unit Testing UIViewControllers - Parveen Kaler</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Unit-Testing-UIViewControllers-Parveen-Kaler/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Unit-Testing-UIViewControllers-Parveen-Kaler/</id>
+    <published>2018-09-25T11:56:13.000Z</published>
+    <updated>2019-09-16T13:14:59.888Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291708291?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>⚡️Lightning Talk</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291708291?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Avant-garde Programming Patterns - Benedikt Terhechte, Martin Kim Dung-Pham &amp; Rich Barton</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Avant-garde-Programming-Patterns-Benedikt-Terhechte-Martin-Kim-Dung-Pham-and-Rich-Barton/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Avant-garde-Programming-Patterns-Benedikt-Terhechte-Martin-Kim-Dung-Pham-and-Rich-Barton/</id>
+    <published>2018-09-25T11:55:45.000Z</published>
+    <updated>2019-09-16T13:14:59.883Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291708190?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>⚡️Lightning Talk</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291708190?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React Native Unfiltered Insights from Introducing React Native to a Production Application - Isabel Barrera</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-React-Native-Unfiltered-Insights-from-Introducing-React-Native-to-a-Production-Application-Isabel-Barrera/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-React-Native-Unfiltered-Insights-from-Introducing-React-Native-to-a-Production-Application-Isabel-Barrera/</id>
+    <published>2018-09-25T07:02:04.000Z</published>
+    <updated>2019-09-16T13:14:59.885Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291661648?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Is your team considering introducing React Native into an existing production application? This talk will focus on some of the challenges of taking a hybrid approach to React Native, including hybrid feature architecture, performance, and team dynamics.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291661648?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Embrace your Legacy… Code - Nelida Velazquez</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Embrace-your-Legacy...-Code-Nelida-Velazquez/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Embrace-your-Legacy...-Code-Nelida-Velazquez/</id>
+    <published>2018-09-24T21:17:44.000Z</published>
+    <updated>2019-09-16T13:14:59.884Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291601850?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Working with legacy code can be challenging and sometimes a little frustrating. In this talk, I would like to explore the positive side of it and how it can help to grow your skills and become a better developer.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291601850?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Better MVC - Dave DeLong</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-A-Better-MVC-Dave-DeLong/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-A-Better-MVC-Dave-DeLong/</id>
+    <published>2018-09-24T21:17:30.000Z</published>
+    <updated>2019-09-16T13:14:59.883Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291601827?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Recent years have seen the adoption of patterns like MVVM, VIPER, DISCOVER, FRP, and React as an attempt to work around the apparently-intrinsic problems many developers face when using MVC.</p><p>In this talk, we’ll explore the philosophy that underlies MVC, and how applying the principle of decomposition can solve these problems, while at the same time promoting reusability, testability, and making your codebase a pleasant and well-organized work of art.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291601827?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Synthesizing Synths in Swift - Adam Bell</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Synthesizing-Synths-in-Swift-Adam-Bell/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Synthesizing-Synths-in-Swift-Adam-Bell/</id>
+    <published>2018-09-24T20:05:54.000Z</published>
+    <updated>2019-09-16T13:14:59.887Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291592300?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>iOS is a fantastic platform for building musical instruments, so let’s learn some audio theory and make some synthesizers in Swift!</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291592300?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Going Deep With Animations in iOS - Hector Matos</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Going-Deep-With-Animations-in-iOS-Hector-Matos/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Going-Deep-With-Animations-in-iOS-Hector-Matos/</id>
+    <published>2018-09-24T19:58:50.000Z</published>
+    <updated>2019-09-16T13:14:59.885Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291591293?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291591293?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Teaching Swift at Scale - Paul Hudson</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Teaching-Swift-at-Scale-Paul-Hudson/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Teaching-Swift-at-Scale-Paul-Hudson/</id>
+    <published>2018-09-24T19:55:18.000Z</published>
+    <updated>2019-09-16T13:14:59.887Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291590798?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Each year, one million users visit the Hacking with Swift website to learn something new about Swift, iOS, and more. In this talk I’ll walk you through the main problems people hit, what that tells us about the state of Swift development, and how trends have changed over time. More specifically, I’ll cover how people are keeping up with changes to the language, which APIs continue to be most problematic, and how our community is slowly drifting apart on architectures.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291590798?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How To Control The World - Stephen Celis</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-How-To-Control-The-World-Stephen-Celis/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-How-To-Control-The-World-Stephen-Celis/</id>
+    <published>2018-09-24T19:37:05.000Z</published>
+    <updated>2019-09-16T13:14:59.885Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291588126?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>On a daily basis we work with APIs that interact with the outside world. These APIs can be inconsistent, unreliable, or fail. As we sprinkle calls to these APIs throughout our applications, we often make our own code more difficult to work with, test, and be confidence in. This talk covers a simple, effective solution to taking control of the outside world, improving the way we work with our code in dramatic ways.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/291588126?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Stacktrace Live Podcast - John Sundell &amp; Guilherme Rambo</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Stacktrace-Live-Podcast-John-Sundell-and-Guilherme-Rambo/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Stacktrace-Live-Podcast-John-Sundell-and-Guilherme-Rambo/</id>
+    <published>2018-09-17T18:48:14.000Z</published>
+    <updated>2019-09-16T13:14:59.887Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/290365159?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><a href="https://stacktracepodcast.fm" target="_blank" rel="noopener">https://stacktracepodcast.fm</a></p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/290365159?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Art of Spelunking - Guilherme Rambo</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-The-Art-of-Spelunking-Guilherme-Rambo/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-The-Art-of-Spelunking-Guilherme-Rambo/</id>
+    <published>2018-09-17T14:54:27.000Z</published>
+    <updated>2019-09-16T13:14:59.888Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/290322018?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>The talk will start with an overview of what reverse engineering is, what you can achieve with it and what are the basic tools used. I’ll then dive into a practical demo of how I used that knowledge to find references to unreleased features on HomePod by hacking the iOS Simulator.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/290322018?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Avoiding culture shock. Designing apps for different cultures. - Daniel Munoz</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Avoiding-culture-shock.-Designing-apps-for-different-cultures.-Daniel-Munoz/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Avoiding-culture-shock.-Designing-apps-for-different-cultures.-Daniel-Munoz/</id>
+    <published>2018-09-17T13:04:08.000Z</published>
+    <updated>2019-09-16T13:14:59.883Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/290298402?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>When we need to ship apps to different countries we usually only rely on localization. Sometimes it is not enough.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/290298402?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Embracing Change - Kristina Fox</title>
+    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Embracing-Change-Kristina-Fox/"/>
+    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Embracing-Change-Kristina-Fox/</id>
+    <published>2018-09-17T12:50:55.000Z</published>
+    <updated>2019-09-16T13:14:59.884Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/290295358?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>My team has gone through a lot of changes over the last year. We went from 6 iOS engineers to a merged team of 30 and is currently going through a redesign, language rewrite and re-architecture of our app. This talk would share some of our learnings from what went well and what didn’t go well throughout this journey.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe src=&quot;https://player.vimeo.com/video/290295358?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+      
+    
+    </summary>
+    
+    
+      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+    
+    
+      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+    
+  </entry>
+  
+</feed>
