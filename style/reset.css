@@ -125,17 +125,14 @@ body {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   box-sizing: border-box;
-  background-color: #f3f4f5;
+  background-color: #fff;
   font-family: 'Varela', 'Consolas', 'Microsoft Yahei';
 }
 a {
   text-decoration: none;
   transition: all 0.2s;
   font-weight: normal;
-  color: #898989;
-}
-a:hover {
-  color: #3273dc;
+  color: #333;
 }
 .module-cmt-list {
   display: none !important;

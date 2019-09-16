@@ -98,9 +98,11 @@ define([
       loop: true // 相册循环浏览
     })
 
-    // 左侧滑块
+    // side菜单
     $(document).on('click', '.toggle-icon', function() {
-      $('#card-wrap').toggle('1000')
+      $('#side').hasClass('active')
+        ? $('#side').removeClass('active')
+        : $('#side').addClass('active')
     })
 
     // 分享
@@ -120,13 +122,45 @@ define([
 
     // 顶部滚动进度条
     $(window).scroll(function(e) {
-      var pageHeight = document.body.scrollHeight || document.documentElement.scrollHeight // 页面总高度
+      var pageHeight = document.documentElement.scrollHeight || document.body.scrollHeight // 页面总高度
       var windowHeight = document.documentElement.clientHeight || document.body.clientHeight // 浏览器视口高度
       var scrollAvail = pageHeight - windowHeight // 可滚动的高度
       var scrollTop = document.documentElement.scrollTop || document.body.scrollTop // 获取滚动条的高度
       var ratio = (scrollTop / scrollAvail) * 100 + '%'
       $('#progress > .line').css('width', ratio)
     })
+
+    var mousewheel = function(e) {
+      e = e || window.event
+
+      //判断浏览器IE，谷歌滑轮事件
+      if (e.wheelDelta) {
+        //当滑轮向上滚动时
+        if (e.wheelDelta > 0) {
+          $('#side').removeClass('active')
+        }
+
+        //当滑轮向下滚动时
+        if (e.wheelDelta < 0) {
+          $('#side').addClass('active')
+        }
+      }
+      //Firefox滑轮事件
+      else if (e.detail) {
+        //当滑轮向上滚动时
+        if (e.detail > 0) {
+          $('#side').removeClass('active')
+        }
+
+        //当滑轮向下滚动时
+        if (e.detail < 0) {
+          $('#side').addClass('active')
+        }
+      }
+    }
+
+    document.addEventListener && document.addEventListener('DOMMouseScroll', mousewheel, false) //firefox
+    window.onmousewheel = document.onmousewheel = mousewheel //滚动滑轮触发scrollFunc方法  //ie 谷歌
 
     // fiexed menu
     $(document).on('click', '#fixed-menu', function() {
@@ -135,11 +169,6 @@ define([
         behavior: 'smooth'
       })
     })
-
-    // site search
-    // $(document).on('click', '#site-search', function() {
-    //   $().search()
-    // })
 
     // pjax
     if ($.support.pjax) {
@@ -169,6 +198,21 @@ define([
       //     console.log(hits)
       //   }
       // )
+    }
+
+    // animateCSS
+    function animateCSS(element, animationName, callback) {
+      const node = document.querySelector(element)
+      node.classList.add('animated', animationName)
+
+      function handleAnimationEnd() {
+        node.classList.remove('animated', animationName)
+        node.removeEventListener('animationend', handleAnimationEnd)
+
+        if (typeof callback === 'function') callback()
+      }
+
+      node.addEventListener('animationend', handleAnimationEnd)
     }
   })
 })

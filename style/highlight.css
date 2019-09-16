@@ -348,8 +348,8 @@
   padding: 0.5rem 1rem;
   color: #4d4d4c;
   border-radius: 0.2rem;
-  background-color: #f6f8fa;
-  border-left: 0.45rem solid #09f;
+  background-color: #e3f2fd;
+  border-left: 0.45rem solid #1e88e5;
 }
 .post-entry blockquote footer,
 .post-wrap blockquote footer {
@@ -376,9 +376,10 @@
 }
 .post-entry code,
 .post-wrap code {
-  color: #1a1a1a;
+  color: #fff;
+  font-weight: 600;
   margin: 0 0.5rem;
-  background: #bbeffd;
+  background: #42a5f5;
   padding: 0.3rem 0.5rem;
   border-radius: 0.3rem;
   border: 1px solid #eee;
