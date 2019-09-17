@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://learntalks.com/"/>
-  <updated>2019-09-16T13:14:59.887Z</updated>
+  <updated>2019-09-17T08:09:38.653Z</updated>
   <id>http://learntalks.com/</id>
   
   <author>
@@ -17,522 +17,562 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Strings Seven Ways - Mattt</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Strings-Seven-Ways-Mattt/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Strings-Seven-Ways-Mattt/</id>
-    <published>2018-10-01T17:13:33.000Z</published>
-    <updated>2019-09-16T13:14:59.887Z</updated>
+    <title>Generics in protocol extension</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Generics-in-protocol-extension/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Generics-in-protocol-extension/</id>
+    <published>2019-04-17T01:17:00.000Z</published>
+    <updated>2019-09-17T08:09:38.653Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292786900?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>(Note: Unfortunately, there were technical problems when recording this talk, as a result it has poor audio quality and some footage of the beginning is missing. But it’s still an amazing presentation that’s worth sharing. Thanks for bearing with us, we hope you enjoy it)</p><p>Strings are the most versatile type in the Swift standard library. This talk looks at seven different ways to understand and work with strings: as collections of Unicode characters, as identifiers, as paths, as natural language text, as encoded data, as structured data, and as typographic content.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Urt1VJShbL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Generics in protocol extension<br>Speaker - Hikaru Yoshimura</p><p>Twitter - <a href="https://twitter.com/_yuu" target="_blank" rel="noopener">https://twitter.com/_yuu</a>_</p><p>Bio - Hikaru Yoshimura works as a Scala engineer. He used to study type systems when he was in the university so he can program using some functional languages a little bit. He sometimes brings the good parts of languages like Scala, Haskell or OCaml to Swift.</p><p>Abstract - The protocol only handle existensial type like associateType. For some protocol, when we give some functions in protocol extension, we must put a concreate type. Protocol extension will work like searching function based on type, so it’s needed concreate type in somewhere. For example, for some type called A, sometimes we want to write extension using List[A] finaly. In this talk, I’d like to consider how to create generics by force from existensial type like associatedType by using Curry-Howard correspondence.</p><p>Presentation Link - <a href="https://github.com/y-yu/try-swift-slide" target="_blank" rel="noopener">https://github.com/y-yu/try-swift-slide</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/292786900?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Urt1VJShbL4&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>UI Testing Infrastructure in Avito - Vladislav Alexeev</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-UI-Testing-Infrastructure-in-Avito-Vladislav-Alexeev/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-UI-Testing-Infrastructure-in-Avito-Vladislav-Alexeev/</id>
-    <published>2018-10-01T13:18:09.000Z</published>
-    <updated>2019-09-16T13:14:59.888Z</updated>
+    <title>Swift as Light</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Swift-as-Light/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Swift-as-Light/</id>
+    <published>2019-04-15T04:00:37.000Z</published>
+    <updated>2019-09-17T08:09:38.656Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292738016?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>We rely on UI testing heavily: we now have more than 500 e2e tests that we need to run and maintain. The perfect infrastructure is a key of the success. I cover what we use for testing, what problems we’ve met and how we solve them.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/XfDCGvnoLhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Swift as Light<br>Speaker - Jon-Tait Beason</p><p>Twitter - <a href="https://twitter.com/bugKrusha" target="_blank" rel="noopener">https://twitter.com/bugKrusha</a></p><p>Bio - Jon-Tait Beason is a iOS software engineer at Glowforge, maker of The 3D Laser Printer. Having a background in education, he enjoys teaching and learning. To that end, he spends a lot of time hanging out in iOS communities where he learns from others and helps engineers who are starting out.</p><p>Abstract - The Glowforge 3D Laser Printer creates beautiful things out of wood, leather, acrylic and more. By leveraging Coregraphics and other iOS APIs, our app allows users to create and manipulate vector graphics which they can send to their Glowforge. In this talk, we will review how we built some of these features in Swift and how Swift helps to make our solutions more robust, elegant and safe.</p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift Tokyo Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/292738016?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/XfDCGvnoLhs&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Building apps at scale - Pavel Mazurin &amp; Victor Pena</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Building-apps-at-scale-Pavel-Mazurin-and-Victor-Pena/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Building-apps-at-scale-Pavel-Mazurin-and-Victor-Pena/</id>
-    <published>2018-10-01T12:56:40.000Z</published>
-    <updated>2019-09-16T13:14:59.883Z</updated>
+    <title>Limited import clarification and its effect</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Limited-import-clarification-and-its-effect/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Limited-import-clarification-and-its-effect/</id>
+    <published>2019-04-15T04:00:37.000Z</published>
+    <updated>2019-09-17T08:09:38.654Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292733041?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Slides: <a href="http://t.uber.com/nsspain2018" target="_blank" rel="noopener">http://t.uber.com/nsspain2018</a></p><p>Most well known mobile architectures start to work against you after your engineering team grows large. A new architecture paradigm is needed to support the development of mobile applications with hundreds of mobile engineers.</p><p>At Uber, we’ve been through this journey, growing from one mobile developer to hundreds. After investigating many other mobile architectures, we created RIBs: a platform-agnostic mobile architecture designed with reliability, testability, isolation and maintainability in mind. We re-wrote the Uber application in 4 months with 200 engineers.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/8OMQ2DiS-zA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Limited import clarification and its effect<br>Speaker - Tomoya Hirano</p><p>Twitter - <a href="https://twitter.com/noppefoxwolf" target="_blank" rel="noopener">https://twitter.com/noppefoxwolf</a></p><p>Bio - Tomoya is iOS developer at DeNA and works on Pococha, which is live streaming app. He loves fox so much🦊💕</p><p>Abstract - Import is able to explicitly specify submodules or specific elements.<br>In this session, I will review the specifications of these imports and consider the impact on binary size and performance.</p><p>Presentation Link - <a href="https://speakerdeck.com/noppefoxwolf/tryswift2019" target="_blank" rel="noopener">https://speakerdeck.com/noppefoxwolf/tryswift2019</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift Tokyo Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/292733041?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/8OMQ2DiS-zA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>From Engineer to Manager A personal journey - Marcus Wermuth</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-From-Engineer-to-Manager-A-personal-journey-Marcus-Wermuth/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-From-Engineer-to-Manager-A-personal-journey-Marcus-Wermuth/</id>
-    <published>2018-10-01T12:15:02.000Z</published>
-    <updated>2019-09-16T13:14:59.885Z</updated>
+    <title>Introducing SourceKit-LSP</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Introducing-SourceKit-LSP/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Introducing-SourceKit-LSP/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.653Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292723588?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>This talk is a story - a story of how I went from being a senior iOS/Android Developer to a Manager.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/rQ7qArmbKOI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Introducing SourceKit-LSP<br>Speaker - Ryo Izumi</p><p>Twitter - <a href="https://twitter.com/izm256" target="_blank" rel="noopener">https://twitter.com/izm256</a></p><p>Bio - Ryo is an iOS Developer at Nohana. He likes to drink sake so much.</p><p>Abstract - Language Server Protocol (LSP) has attracted attention today, and some Language Server of various programming language has been developed. Swift is no exception. SourceKit-LSP was announced in 2018, and development is still continuing now. In this talk, I’d like to talk about the outline of LSP and future development environment using SourceKit-LSP.</p><p>Presentation Link - <a href="https://speakerdeck.com/rizumi/introducing-sourcekit-lsp" target="_blank" rel="noopener">https://speakerdeck.com/rizumi/introducing-sourcekit-lsp</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/292723588?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/rQ7qArmbKOI&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Scaling up mobile at ING - Bart den Hollander</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Scaling-up-mobile-at-ING-Bart-den-Hollander/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Scaling-up-mobile-at-ING-Bart-den-Hollander/</id>
-    <published>2018-10-01T11:12:37.000Z</published>
-    <updated>2019-09-16T13:14:59.886Z</updated>
+    <title>Swift Hardware Hacking</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Swift-Hardware-Hacking/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Swift-Hardware-Hacking/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.655Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292710821?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Want to know how a large banking app as ING creates maintainable iOS frameworks that will be used by multiple countries? I’ll share all insights about what it takes to scale up a large codebase, how to maintain it and the lessons learned.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/b9EVb0jEt8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Swift Hardware Hacking<br>Speaker - Sally Shepard</p><p>Twitter - <a href="https://twitter.com/mostgood" target="_blank" rel="noopener">https://twitter.com/mostgood</a></p><p>Bio - Sally Shepard is an iOS developer, accessibility consultant, writer and hardware hacker who has worked on a wide variety of award winning apps. Before the iPhone existed, she studied audio engineering, a field which combined her love of music and tinkering with expensive hardware. She lives in London and in her spare time she enjoys playing any instrument with strings, attaching sensors to her cat and taking pictures with vintage cameras.</p><p>Abstract - In this talk, we’ll explore how to use Swift to hack hardware.<br>We’ll look at expanding the functionality of a cat coin bank (the one where you place a coin on top and cat pulls it into the coin bank) using a micro-controller and various sensors.<br>We will:<br>    - Count money as it is deposited<br>    - Speak out the deposited amount/total balance<br>    - Connect to a phone via Bluetooth LE to send information between devices<br>The purpose of this talk is to understand how to get started working with Swift and hardware, it will provide enough of a foundation so you can try projects on your own.</p><p>Presentation Link - <a href="https://www.slideshare.net/mostgood/swift-hardware-hacking-try-swift" target="_blank" rel="noopener">https://www.slideshare.net/mostgood/swift-hardware-hacking-try-swift</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/292710821?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/b9EVb0jEt8E&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Solving callback hell with good old function composition - Vincent Pradeilles</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Solving-callback-hell-with-good-old-function-composition-Vincent-Pradeilles/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Solving-callback-hell-with-good-old-function-composition-Vincent-Pradeilles/</id>
-    <published>2018-10-01T10:22:52.000Z</published>
-    <updated>2019-09-16T13:14:59.886Z</updated>
+    <title>So you want to build an ARKit app</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-So-you-want-to-build-an-ARKit-app/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-So-you-want-to-build-an-ARKit-app/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.655Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292702159?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>⚡️Lightning Talk</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/RpJJEvFGGCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - So you want to build an ARKit app<br>Speaker - Namrata Bandekar</p><p>Twitter - <a href="https://twitter.com/NamrataCodes" target="_blank" rel="noopener">https://twitter.com/NamrataCodes</a></p><p>Bio - Namrata is a Principal Software Engineer at Zynga building addictive games. She is also a member of the Ray Wenderlich Tutorial Team. She is the co-author of ARKit by Tutorials and one of the Tech Editors on the Android Apprentice book. Apart from building apps, she is passionate about travelling, scuba diving and hiking with her dog.</p><p>Abstract - ARKit has shown how AR can be integrated into apps to make them more engaging and fun. If you are thinking about using ARKit in your app, this talk is for you. This talk covers challenges I experienced when building ARKit apps such as ensuring good app performance, positioning virtual objects and working with planes. Learn how to use ARKit to its full potential, keep your AR apps performant and deliver a polished end user experience.</p><p>Presentation Link - <a href="https://speakerdeck.com/namrata/so-you-want-to-build-an-arkit-app-appdevcon" target="_blank" rel="noopener">https://speakerdeck.com/namrata/so-you-want-to-build-an-arkit-app-appdevcon</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/292702159?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/RpJJEvFGGCY&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Thoughts on Vapor - Pier Cifani</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Thoughts-on-Vapor-Pier-Cifani/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Thoughts-on-Vapor-Pier-Cifani/</id>
-    <published>2018-10-01T09:16:16.000Z</published>
-    <updated>2019-09-16T13:14:59.888Z</updated>
+    <title>Shaping Sounds in Swift</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Shaping-Sounds-in-Swift/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Shaping-Sounds-in-Swift/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.655Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/292689890?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>⚡️Lightning Talk</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/lDTw6YZBDGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Shaping Sounds in Swift<br>Speaker - Adam Bell</p><p>Twitter - <a href="https://twitter.com/b3ll" target="_blank" rel="noopener">https://twitter.com/b3ll</a></p><p>Bio - Adam is a software engineer specializing in audio, animations, interactions, and gestures, currently working on Origami Studio at Facebook. When he’s not racing cars or messing with synthesizers, you’ll usually find him dabbling in the internals of Apple products or getting Doom to run on platforms it really wasn’t designed for (<a href="https://www.youtube.com/watch?v=GD0L46y3IqI" target="_blank" rel="noopener">https://www.youtube.com/watch?v=GD0L46y3IqI</a>) 🙃.</p><p>Abstract - Sound design with synthesizers is always viewed as something incredibly complicated, however with Swift it doesn’t need to be. This talk will focus on the basics of sound synthesis, design, and how you can take really basic sounds and turn them into some of the most memorable of the century.</p><p>Presentation Link - <a href="https://github.com/b3ll/try-swift-2019" target="_blank" rel="noopener">https://github.com/b3ll/try-swift-2019</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/292689890?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/lDTw6YZBDGo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Unit Testing UIViewControllers - Parveen Kaler</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Unit-Testing-UIViewControllers-Parveen-Kaler/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Unit-Testing-UIViewControllers-Parveen-Kaler/</id>
-    <published>2018-09-25T11:56:13.000Z</published>
-    <updated>2019-09-16T13:14:59.888Z</updated>
+    <title>Property-based test beginning with SwiftCheck</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Property-based-test-beginning-with-SwiftCheck/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Property-based-test-beginning-with-SwiftCheck/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.655Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291708291?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>⚡️Lightning Talk</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/PnnSQet2-Pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Property-based test beginning with SwiftCheck<br>Speaker - Yusuke Hosonuma</p><p>Twitter - <a href="https://twitter.com/tobi462" target="_blank" rel="noopener">https://twitter.com/tobi462</a></p><p>Bio - Yusuke is working at DeNA SWET group. He recognizes how beautiful of Functional Programming and study Haskell now. He likes to solve algorithm problems with Haskell, with automated testing.</p><p>Abstract - There is a method called Property-based Testing that describes the logical properties that the function should satisfy and generates random input values ​​to test. It’s based on Haskell ‘s QuickCheck is the main source, and it has been ported to many languages ​​and also Swift has an OSS called SwiftCheck.  In this talk, I’ll show you the concept of Property-based Testing and how to describe with SwiftCheck.</p><p>Presentation Link - <a href="https://speakerdeck.com/yusukehosonuma/property-based-test-beginning-with-swiftcheck" target="_blank" rel="noopener">https://speakerdeck.com/yusukehosonuma/property-based-test-beginning-with-swiftcheck</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291708291?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/PnnSQet2-Pg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Avant-garde Programming Patterns - Benedikt Terhechte, Martin Kim Dung-Pham &amp; Rich Barton</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Avant-garde-Programming-Patterns-Benedikt-Terhechte-Martin-Kim-Dung-Pham-and-Rich-Barton/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Avant-garde-Programming-Patterns-Benedikt-Terhechte-Martin-Kim-Dung-Pham-and-Rich-Barton/</id>
-    <published>2018-09-25T11:55:45.000Z</published>
-    <updated>2019-09-16T13:14:59.883Z</updated>
+    <title>Native macOS application, or the world of AppKit</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Native-macOS-application-or-the-world-of-AppKit/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Native-macOS-application-or-the-world-of-AppKit/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.654Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291708190?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>⚡️Lightning Talk</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/lSiwCAQVKQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Native macOS application, or the world of AppKit<br>Speaker - 1024jp</p><p>Twitter - <a href="https://twitter.com/1024jp" target="_blank" rel="noopener">https://twitter.com/1024jp</a></p><p>Bio - 1024jp is hobby macOS developer/designer. Besides working as a professional academic researcher in real life, 1024jp invests entire leisure time in developing macOS applications by doing every process from coding to drawing icons. The most active project is CotEditor, a native macOS plain-text editor. CotEditor is currently one of the largest open-sourced macOS application written in Swift but has been developed by 1024jp alone since CotEditor was officially taken over from the ex-developer five years ago. Besides, 1024jp organizes also “macOS native,” a community for sharing knowledge about native macOS app development in Japan.</p><p>Abstract - Swift is the language which we cannot build native application in the iOS or macOS world without, but what is the native application? Is it the native application using Cocoa framework with Swift? To be proved native merits, programmers should know frameworks well, be familier with Human Interface Guidelines and understand target OS well. By the way, we feel that Marzipan is just around corner. In this talk, I’d like to talk about the essential point of view in building beautiful macOS native applications.</p><p>Presentation Link - <a href="https://speakerdeck.com/1024jp/native-macos-application-or-the-world-of-appkit" target="_blank" rel="noopener">https://speakerdeck.com/1024jp/native-macos-application-or-the-world-of-appkit</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291708190?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/lSiwCAQVKQk&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>React Native Unfiltered Insights from Introducing React Native to a Production Application - Isabel Barrera</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-React-Native-Unfiltered-Insights-from-Introducing-React-Native-to-a-Production-Application-Isabel-Barrera/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-React-Native-Unfiltered-Insights-from-Introducing-React-Native-to-a-Production-Application-Isabel-Barrera/</id>
-    <published>2018-09-25T07:02:04.000Z</published>
-    <updated>2019-09-16T13:14:59.885Z</updated>
+    <title>Making Portrait mode yourself</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Making-Portrait-mode-yourself/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Making-Portrait-mode-yourself/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.654Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291661648?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Is your team considering introducing React Native into an existing production application? This talk will focus on some of the challenges of taking a hybrid approach to React Native, including hybrid feature architecture, performance, and team dynamics.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/_Lq0iJirT-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Making Portrait mode yourself<br>Speaker - Rina Kotake</p><p>Twitter - <a href="https://twitter.com/https://twitter.com/koooootake" target="_blank" rel="noopener">https://twitter.com/https://twitter.com/koooootake</a></p><p>Bio - Rina started to work at DeNA from 2017. From she was child, her dream is being “”Pokemon master””. In 2011 MITOU Program, which discover and develop young talents called “”Creators”” who are capable of accelerating innovation and playing a key role in creating next-generation IT markets, she adopted this program and open her eyes up to the fun in making things. She attended a lots of hackathon and contest and got over 25 awards. Now she develops “”MangaBox”” iOS app.</p><p>Abstract - On the iPhoneX series, with dual cameras, you can blur the background using depth information and finish beautiful portrait photographs.<br>In this talk I will talk about the process of separating and blurring the foreground and background from the image “”without depth information””, blurring the portrait mode, swigging with Swift, finishing beautiful pictures.</p><p>Presentation Link - <a href="https://speakerdeck.com/koooootake/making-portrait-mode-yourself" target="_blank" rel="noopener">https://speakerdeck.com/koooootake/making-portrait-mode-yourself</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291661648?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/_Lq0iJirT-E&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Embrace your Legacy… Code - Nelida Velazquez</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Embrace-your-Legacy...-Code-Nelida-Velazquez/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Embrace-your-Legacy...-Code-Nelida-Velazquez/</id>
-    <published>2018-09-24T21:17:44.000Z</published>
-    <updated>2019-09-16T13:14:59.884Z</updated>
+    <title>MachObfuscator</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-MachObfuscator/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-MachObfuscator/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.654Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291601850?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Working with legacy code can be challenging and sometimes a little frustrating. In this talk, I would like to explore the positive side of it and how it can help to grow your skills and become a better developer.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/QTS2_CcnAgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - MachObfuscator<br>Speaker - Kamil Borzym</p><p>Twitter - <a href="https://twitter.com/kam800" target="_blank" rel="noopener">https://twitter.com/kam800</a></p><p>Bio - Kamil is an iOS software developer. He is very curious of how things work internally, so he likes to decompile frameworks and apps.</p><p>Abstract - I will show you a completely new approach to iOS app obfuscation. MachObfuscator is an open-sourced binary obfuscator written in pure Swift.</p><p>Presentation Link - <a href="https://github.com/tryswift/tokyo2019slides/tree/master/KamilBorzym" target="_blank" rel="noopener">https://github.com/tryswift/tokyo2019slides/tree/master/KamilBorzym</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291601850?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/QTS2_CcnAgU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>A Better MVC - Dave DeLong</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-A-Better-MVC-Dave-DeLong/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-A-Better-MVC-Dave-DeLong/</id>
-    <published>2018-09-24T21:17:30.000Z</published>
-    <updated>2019-09-16T13:14:59.883Z</updated>
+    <title>Swift type metadata</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Swift-type-metadata/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Swift-type-metadata/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.656Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291601827?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Recent years have seen the adoption of patterns like MVVM, VIPER, DISCOVER, FRP, and React as an attempt to work around the apparently-intrinsic problems many developers face when using MVC.</p><p>In this talk, we’ll explore the philosophy that underlies MVC, and how applying the principle of decomposition can solve these problems, while at the same time promoting reusability, testability, and making your codebase a pleasant and well-organized work of art.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/2fon4YFI9Ao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Swift type metadata<br>Speaker - Yuta Saito</p><p>Twitter - <a href="https://twitter.com/kateinoigakukun" target="_blank" rel="noopener">https://twitter.com/kateinoigakukun</a></p><p>Bio - Yuta is an intern at Mercari’s iOS team. He gets lost with Swift everyday in the beautiful world of types. His hobby recently is to read the Swift compiler.</p><p>Abstract - Swift has type metadata, which can be stored type infomation on runtime. We don’t use directly not so much, but it’s important to understand the behavior of Swift runtime. In this talk, I’d like to talk about the type metadata and its implementation.</p><p>Presentation Link - <a href="https://speakerdeck.com/kateinoigakukun/swift-type-metadata" target="_blank" rel="noopener">https://speakerdeck.com/kateinoigakukun/swift-type-metadata</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291601827?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/2fon4YFI9Ao&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Synthesizing Synths in Swift - Adam Bell</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Synthesizing-Synths-in-Swift-Adam-Bell/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Synthesizing-Synths-in-Swift-Adam-Bell/</id>
-    <published>2018-09-24T20:05:54.000Z</published>
-    <updated>2019-09-16T13:14:59.887Z</updated>
+    <title>Introduction to Swift Keypaths</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Introduction-to-Swift-Keypaths/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Introduction-to-Swift-Keypaths/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.653Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291592300?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>iOS is a fantastic platform for building musical instruments, so let’s learn some audio theory and make some synthesizers in Swift!</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/z4lTKBS0ZbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Introduction to Swift Keypaths<br>Speaker - Benedikt Terhechte</p><p>Twitter - <a href="https://twitter.com/terhechte" target="_blank" rel="noopener">https://twitter.com/terhechte</a></p><p>Bio - Benedikt works as a Senior iOS Developer at the professional network XING. In previous jobs he developed solutions for customers such as Disney or Daimler-Chrysler. As an Indie Mac developer, he launched successful apps such as PhotoDesk and Hirundo. Benedikt started investigating Swift right after the 2014 release and writes about it on his popular blog. He also initiated the Core Value and SourceKittenDaemon open source projects</p><p>Abstract - Keypaths were added in Swift 4. They’re a fantastic feature but sometimes it feels difficult to find good situations for using them. However, when understood and used the right way, keypaths allow you to implement additional abstractions into your codebase that would be much harder with generics or protocols. In order to be able to do that, though, it is useful to intuitively understand when to apply the Keypath pattern.</p><p>This talk will first explain the different types of keypaths that exist and then go through real world examples to showcase how they can be leveraged in your own projects.</p><p>Presentation Link - <a href="https://speakerdeck.com/terhechte/introduction-to-swift-keypaths" target="_blank" rel="noopener">https://speakerdeck.com/terhechte/introduction-to-swift-keypaths</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291592300?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/z4lTKBS0ZbQ&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Going Deep With Animations in iOS - Hector Matos</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Going-Deep-With-Animations-in-iOS-Hector-Matos/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Going-Deep-With-Animations-in-iOS-Hector-Matos/</id>
-    <published>2018-09-24T19:58:50.000Z</published>
-    <updated>2019-09-16T13:14:59.885Z</updated>
+    <title>SwiftSyntax で便利を実現する基礎</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-SwiftSyntax-/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-SwiftSyntax-/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.656Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291591293?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/nFtShzC0n6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - SwiftSyntax で便利を実現する基礎<br>Speaker - Yuki Kokubun</p><p>Twitter - <a href="https://twitter.com/orga_chem" target="_blank" rel="noopener">https://twitter.com/orga_chem</a></p><p>Bio - iOS や Web の単体テストを専門としていて、最近は株式会社ディー・エヌ・エーで楽しく賢く価値あるテストを追求している。趣味はテストの声を聴くこと。</p><p>Presentation Link - <a href="https://speakerdeck.com/orgachem/how-to-use-swiftsyntax-for-better-productivity-japanese-version" target="_blank" rel="noopener">https://speakerdeck.com/orgachem/how-to-use-swiftsyntax-for-better-productivity-japanese-version</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291591293?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/nFtShzC0n6s&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Teaching Swift at Scale - Paul Hudson</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Teaching-Swift-at-Scale-Paul-Hudson/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Teaching-Swift-at-Scale-Paul-Hudson/</id>
-    <published>2018-09-24T19:55:18.000Z</published>
-    <updated>2019-09-16T13:14:59.887Z</updated>
+    <title>In defense of Core Data</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-In-defense-of-Core-Data/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-In-defense-of-Core-Data/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.653Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291590798?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>Each year, one million users visit the Hacking with Swift website to learn something new about Swift, iOS, and more. In this talk I’ll walk you through the main problems people hit, what that tells us about the state of Swift development, and how trends have changed over time. More specifically, I’ll cover how people are keeping up with changes to the language, which APIs continue to be most problematic, and how our community is slowly drifting apart on architectures.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/aUoT5w4JOoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - In defence of Core Data<br>Speaker - Donny Wals </p><p>Twitter - <a href="https://twitter.com/DonnyWals" target="_blank" rel="noopener">https://twitter.com/DonnyWals</a></p><p>Bio - I’m a passionate and curious iOS developer, Author and Speaker. I currently work at Disney on our internal iOS SDK. I have written three books on iOS development and have delivered several talks and workshop over the past couple of years. Next to iOS development I’m a huge cat lover and I like noodling on my guitar.</p><p>Abstract - Over the year, Core Data has gained a pretty bad reputation amongst developers who prefer to use another service like Realm for their local persistence. In this talk I will make an argument for using Core Data and why it’s not so bad. I will share some examples of where it’s easy to go wrong with Core Data, and how to avoid those pitfalls. I will also quickly go over setting up Core Data in an app and by the end the audience should have a couple of simple rules that should help them safely integrate Core Data in their apps.</p><p>Presentation Link - <a href="https://www.slideshare.net/donnywals/in-defense-of-core-data" target="_blank" rel="noopener">https://www.slideshare.net/donnywals/in-defense-of-core-data</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291590798?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/aUoT5w4JOoM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>How To Control The World - Stephen Celis</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-How-To-Control-The-World-Stephen-Celis/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-How-To-Control-The-World-Stephen-Celis/</id>
-    <published>2018-09-24T19:37:05.000Z</published>
-    <updated>2019-09-16T13:14:59.885Z</updated>
+    <title>Graphics like Pixar using Swift</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Graphics-like-Pixar-using-Swift/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Graphics-like-Pixar-using-Swift/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.653Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/291588126?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>On a daily basis we work with APIs that interact with the outside world. These APIs can be inconsistent, unreliable, or fail. As we sprinkle calls to these APIs throughout our applications, we often make our own code more difficult to work with, test, and be confidence in. This talk covers a simple, effective solution to taking control of the outside world, improving the way we work with our code in dramatic ways.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/jcshB5wM28Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Graphics like Pixar using Swift<br>Speaker - Michael Petrie</p><p>Twitter - <a href="https://twitter.com/kapsy1312" target="_blank" rel="noopener">https://twitter.com/kapsy1312</a></p><p>Bio - My name is Michael Petrie, but everyone calls me Kapsy. I work for ZOZO Technologies and lead the iOS measurement framework team. I have a background in games and real time programming, using C and C++, and yearn for the day when we can all decide on a common ISA (Instruction Set Architecture) and be happy.</p><p>Abstract - This is a talk about some of the hurdles faced when writing a simple Ray Tracer from scratch, using Swift.<br>Ray Tracing is the cornerstone of Pixar’s infamous Renderman 3D rendering technology, which dominates the animated film industry. It works by physically modeling light rays and their interactions with objects and surfaces.</p><p>Within recent years there has been a renewed interest in real time Ray Tracing, with the advent of more powerful and specialized hardware such as NVIDIAs RTX. Even renowned programmer John Carmack has stated that “”all roads lead to Rome””, when asked about the future of real time computer graphics and Ray Tracing.</p><p>While I enjoy working with traditional graphics rasterizers, I have always been interested in physically modeling light, and have wanted to learn more about the processes involved. Here I talk about how I programmed a Ray Tracer that renders a simple scene from first principles. Given the timing, it also seemed like the perfect opportunity to test the versatility of Swift.</p><p>Presentation Link - <a href="https://github.com/tryswift/tokyo2019slides/tree/master/MichaelPetrie" target="_blank" rel="noopener">https://github.com/tryswift/tokyo2019slides/tree/master/MichaelPetrie</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/291588126?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/jcshB5wM28Q&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Stacktrace Live Podcast - John Sundell &amp; Guilherme Rambo</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Stacktrace-Live-Podcast-John-Sundell-and-Guilherme-Rambo/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Stacktrace-Live-Podcast-John-Sundell-and-Guilherme-Rambo/</id>
-    <published>2018-09-17T18:48:14.000Z</published>
-    <updated>2019-09-16T13:14:59.887Z</updated>
+    <title>The Laws of Magic</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-The-Laws-of-Magic/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-The-Laws-of-Magic/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.657Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/290365159?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><a href="https://stacktracepodcast.fm" target="_blank" rel="noopener">https://stacktracepodcast.fm</a></p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/T9vRBioadYc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - The Laws of Magic<br>Speaker - Dave DeLong</p><p>Twitter - <a href="https://twitter.com/davedelong" target="_blank" rel="noopener">https://twitter.com/davedelong</a></p><p>Bio - A seven-year veteran of Apple, Dave DeLong is an accomplished iOS engineer with a passion for teaching, experimentation, and hacking the Objective-C runtime. During his time at Apple, he worked on the UIKit framework, Developer Evangelism, and Apple Maps. He also worked on the Product Experience team at Snap, Inc.                                                                                  Dave, his family, and his large collection of Brandon Sanderson books live near Salt Lake City, where he’s an active member of the local developer community. He can often be found on Twitter teaching developers about all the ways that calendrical calculations can go wrong and pontificating on the virtues of eating chocolate with peanut butter.</p><p>Abstract - Learn to develop intelligent and immersive experiences by following rules inspired by Sci-Fi and Fantasy fiction. Like software, a complex and engaging magic system uses guidelines to construct a concrete user experience. This talk explores some speculative laws that support fictional world-building and shows how you can incorporate these lessons into your day-to-day app and code development to produce the same result: user engagement, purpose, and a sense of wonder.</p><p>Presentation Link - <a href="https://github.com/tryswift/tokyo2019slides/tree/master/DaveDeLong" target="_blank" rel="noopener">https://github.com/tryswift/tokyo2019slides/tree/master/DaveDeLong</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/290365159?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/T9vRBioadYc&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>The Art of Spelunking - Guilherme Rambo</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-The-Art-of-Spelunking-Guilherme-Rambo/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-The-Art-of-Spelunking-Guilherme-Rambo/</id>
-    <published>2018-09-17T14:54:27.000Z</published>
-    <updated>2019-09-16T13:14:59.888Z</updated>
+    <title>Driving Engagement with Siri Shortcuts and NSUserActivity</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Driving-Engagement-with-Siri-Shortcuts-and-NSUserActivity/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Driving-Engagement-with-Siri-Shortcuts-and-NSUserActivity/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.652Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/290322018?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>The talk will start with an overview of what reverse engineering is, what you can achieve with it and what are the basic tools used. I’ll then dive into a practical demo of how I used that knowledge to find references to unreleased features on HomePod by hacking the iOS Simulator.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/zm-Ayvm0oew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Driving Engagement with Siri Shortcuts and NSUserActivity<br>Speaker - Nic Laughter</p><p>Twitter - <a href="https://twitter.com/nictheawesome" target="_blank" rel="noopener">https://twitter.com/nictheawesome</a></p><p>Bio - Nic Laughter is a technophile currently living in Utah. *He is on the Autism spectrum and has a passion for helping companies see the hidden potential in hiring neuroatypical engineers. He has been writing code since 2015 and currently works as a software engineer generalist at Jane.com, primarily working on the main iOS app and occasionally contributing to the website and React Native seller app. He sometimes blogs on Medium, and in his spare time you can find him making music, playing video games, or hanging out with his family. </p><p>Abstract - Siri Shortcuts is a new technology that enables the user to identify specific paths within an app they use often to be done quickly and easily using Siri. By enabling this capability in your apps, you can drive higher engagement and more ease of use with your app!</p><p>Presentation Link - <a href="https://github.com/tryswift/tokyo2019slides/tree/master/NicLaughter" target="_blank" rel="noopener">https://github.com/tryswift/tokyo2019slides/tree/master/NicLaughter</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/290322018?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/zm-Ayvm0oew&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Avoiding culture shock. Designing apps for different cultures. - Daniel Munoz</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Avoiding-culture-shock.-Designing-apps-for-different-cultures.-Daniel-Munoz/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Avoiding-culture-shock.-Designing-apps-for-different-cultures.-Daniel-Munoz/</id>
-    <published>2018-09-17T13:04:08.000Z</published>
-    <updated>2019-09-16T13:14:59.883Z</updated>
+    <title>Discover memory leak with Testcase</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Discover-memory-leak-with-Testcase/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Discover-memory-leak-with-Testcase/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.652Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/290298402?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>When we need to ship apps to different countries we usually only rely on localization. Sometimes it is not enough.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/jseRwn8fTg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Discover memory leak with Testcase<br>Speaker - Nobuo Saito</p><p>Twitter - <a href="https://twitter.com/tarunon" target="_blank" rel="noopener">https://twitter.com/tarunon</a></p><p>Bio - Nobuo, a.k.a tarunon is working at Mercari. He likes to cook, play games and program. He doubled the time he plays games because he updated Splatoon before the release of the Smash Brothers SP.</p><p>Abstract - In Swift, memory are managed with ARC, so it’s occured memory-leak easily with bad code. How do you avoid memory-leak? Coding rules, Code review or QA as last bastion? Of course we are lazy, so we like something automated than effort or guts. As 4th way, I’d like to talk about test case implementation with Mirror.</p><p>Presentation Link - <a href="https://www.icloud.com/keynote/0v-uQow7QXtpwDMs2CN8LHxiQ#try!swift2019tarunon" target="_blank" rel="noopener">https://www.icloud.com/keynote/0v-uQow7QXtpwDMs2CN8LHxiQ#try!swift2019tarunon</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/290298402?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/jseRwn8fTg4&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
   <entry>
-    <title>Embracing Change - Kristina Fox</title>
-    <link href="http://learntalks.com/NSSpain/2018/NSSpain-2018-Embracing-Change-Kristina-Fox/"/>
-    <id>http://learntalks.com/NSSpain/2018/NSSpain-2018-Embracing-Change-Kristina-Fox/</id>
-    <published>2018-09-17T12:50:55.000Z</published>
-    <updated>2019-09-16T13:14:59.884Z</updated>
+    <title>Deep dive into Swift Literal</title>
+    <link href="http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Deep-dive-into-Swift-Literal/"/>
+    <id>http://learntalks.com/try-Swift-Tokyo/2019/try!-Swift-Tokyo-2019-Deep-dive-into-Swift-Literal/</id>
+    <published>2019-04-15T04:00:07.000Z</published>
+    <updated>2019-09-17T08:09:38.651Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://player.vimeo.com/video/290295358?title=0&byline=0&portrait=0" width="640" height="401" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p>My team has gone through a lot of changes over the last year. We went from 6 iOS engineers to a merged team of 30 and is currently going through a redesign, language rewrite and re-architecture of our app. This talk would share some of our learnings from what went well and what didn’t go well throughout this journey.</p><p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2018.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/NpPLmSVWMAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>try! Swift Tokyo Conference 2019 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in Tokyo!</p><p>Topic - Deep dive into Swift Literal<br>Speaker - Yuki Aki</p><p>Twitter - <a href="https://twitter.com/___freddi" target="_blank" rel="noopener">https://twitter.com/___freddi</a>___</p><p>Bio - Yuki is an iOS Developer at LINE Fukuoka. From started intern, his Quority of Life and weight has increased so that he is in a diet. Reacently I read Swiftc and SIL so hard. When he’s not coding, he likes to draw cat illustration.</p><p>Abstract - In this talk, I’ll talk about Swift Literals to your deeply understanding. By following the “”Literal Object”” journey from Swift Code to SIL, and LLVM IR code, you can see how literals are handed over to the app as exact data from code string, with Intrinsic Protocols. Also, I’ll focus on Literal exploitation using Intrinsic Protocols and new features for literals in Swift 5.0. By my talk, you will be a developer well known about Swift Literal.</p><p>Presentation Link - <a href="https://freddi.dev/resources/AkiYuki%20-%20Deep%20Dive%20into%20Swift%20Literal.pdf" target="_blank" rel="noopener">https://freddi.dev/resources/AkiYuki%20-%20Deep%20Dive%20into%20Swift%20Literal.pdf</a></p><p>try! Swift Tokyo Twitter - <a href="https://twitter.com/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/tryswiftconf</a><br>try! Swift New York Twitter Hashtag - <a href="https://twitter.com/hashtag/tryswiftconf" target="_blank" rel="noopener">https://twitter.com/hashtag/tryswiftconf</a><br>try! Swift Website - <a href="https://www.tryswift.co/" target="_blank" rel="noopener">https://www.tryswift.co/</a><br>try! Swift Conference Photos - <a href="https://www.flickr.com/photos/tryswift/albums" target="_blank" rel="noopener">https://www.flickr.com/photos/tryswift/albums</a><br>try! Swift Conference Contact - <a href="mailto:tokyo@tryswift.co" target="_blank" rel="noopener">tokyo@tryswift.co</a></p><p>try! Swift Conference © 2019 - Powered by NatashaTheRobot</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe src=&quot;https://player.vimeo.com/video/290295358?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;401&quot; frameborder=&quot;0&quot; allow=&quot;autoplay;
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/NpPLmSVWMAc&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="NSSpain" scheme="http://learntalks.com/categories/NSSpain/"/>
+      <category term="try! Swift Tokyo" scheme="http://learntalks.com/categories/try-Swift-Tokyo/"/>
     
     
-      <category term="2018" scheme="http://learntalks.com/tags/2018/"/>
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
     
   </entry>
   
