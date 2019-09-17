@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://learntalks.com/"/>
-  <updated>2019-09-17T11:43:28.135Z</updated>
+  <updated>2019-09-17T11:43:28.139Z</updated>
   <id>http://learntalks.com/</id>
   
   <author>
@@ -15,90 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>UIKonf 2019 - Day 1 - Ellie Shin - Mockolo Efficient Mock Generator for Swift</title>
-    <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-1-Ellie-Shin-Mockolo-Efficient-Mock-Generator-for-Swift/"/>
-    <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-1-Ellie-Shin-Mockolo-Efficient-Mock-Generator-for-Swift/</id>
-    <published>2019-06-15T08:10:27.000Z</published>
-    <updated>2019-09-17T11:43:28.135Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Tkg8721fObU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Ellie Shin is a Senior iOS Engineer at Uber on the Mobile Platform Team. She has worked on building Uber’s Rider App and cares deeply about optimizing iOS apps and frameworks at scale. She has previously worked at Spotify and Microsoft among other companies, primarily on iOS.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/Tkg8721fObU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="UIKonf" scheme="http://learntalks.com/categories/UIKonf/"/>
-    
-    
-      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UIKonf 2019 - Day 2 - Kate Castellano - What to expect when you are templating?</title>
-    <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Kate-Castellano-What-to-expect-when-you-are-templating/"/>
-    <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Kate-Castellano-What-to-expect-when-you-are-templating/</id>
-    <published>2019-06-15T08:10:27.000Z</published>
-    <updated>2019-09-17T11:43:28.139Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/_Dom_Fn87C0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Clue’s approach to Backend Driven UIs</p><p>Kate Castellano is a Senior iOS Developer at Clue. She has expertise in Swift and enjoys playing with Raspberry Pi’s and ARKit. When she is not coding, you can find her working towards the inclusion of more women in technology as a Director at Women Who Code Berlin Chapter.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/_Dom_Fn87C0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="UIKonf" scheme="http://learntalks.com/categories/UIKonf/"/>
-    
-    
-      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UIKonf 2019 - Day 2 - Julia Roggatz - Muse Prototype Challenges</title>
-    <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Julia-Roggatz-Muse-Prototype-Challenges/"/>
-    <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Julia-Roggatz-Muse-Prototype-Challenges/</id>
-    <published>2019-06-15T08:10:27.000Z</published>
-    <updated>2019-09-17T11:43:28.139Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/A_fe2c6IUUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Julia Roggatz is a freelance iOS developer with a passion for creating delightful user interfaces. She’s currently working with a fully-remote research lab, building experimental prototypes that explore what the future of tablet computing for creativity and productivity could look like.</p><p>Julia started dabbling in graphic and web design as a young teenager, but didn’t discover her passion for programming until attending university. Flash and ActionScript first made things click for her, and a few years later she fell in love with iOS and never looked back. She’s worked for startups (Wooga, Clue) and a big companies (KAYAK) before becoming a freelancer and part-time digital nomad.</p><p>In her non-screen time, she is a DIY home improver, hobby mixologist, and hammock enthusiast.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/A_fe2c6IUUo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="UIKonf" scheme="http://learntalks.com/categories/UIKonf/"/>
-    
-    
-      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
-    
-  </entry>
   
   <entry>
     <title>UIKonf 2019 - Day 2 -  Füsun Wehrmann - From Heroic Leaders To High Performing Teams</title>
@@ -157,6 +73,34 @@
   </entry>
   
   <entry>
+    <title>UIKonf 2019 - Day 2 - Kate Castellano - What to expect when you are templating?</title>
+    <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Kate-Castellano-What-to-expect-when-you-are-templating/"/>
+    <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Kate-Castellano-What-to-expect-when-you-are-templating/</id>
+    <published>2019-06-15T08:10:27.000Z</published>
+    <updated>2019-09-17T11:43:28.139Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/_Dom_Fn87C0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Clue’s approach to Backend Driven UIs</p><p>Kate Castellano is a Senior iOS Developer at Clue. She has expertise in Swift and enjoys playing with Raspberry Pi’s and ARKit. When she is not coding, you can find her working towards the inclusion of more women in technology as a Director at Women Who Code Berlin Chapter.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/_Dom_Fn87C0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="UIKonf" scheme="http://learntalks.com/categories/UIKonf/"/>
+    
+    
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
+    
+  </entry>
+  
+  <entry>
     <title>UIKonf 2019 - Day 2 - Anne Cahalan  - Promises in iOS</title>
     <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Anne-Cahalan-Promises-in-iOS/"/>
     <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Anne-Cahalan-Promises-in-iOS/</id>
@@ -172,6 +116,62 @@
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
 &lt;iframe src=&quot;https://www.youtube.com/embed/TAzbEpR8imo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="UIKonf" scheme="http://learntalks.com/categories/UIKonf/"/>
+    
+    
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UIKonf 2019 - Day 1 - Ellie Shin - Mockolo Efficient Mock Generator for Swift</title>
+    <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-1-Ellie-Shin-Mockolo-Efficient-Mock-Generator-for-Swift/"/>
+    <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-1-Ellie-Shin-Mockolo-Efficient-Mock-Generator-for-Swift/</id>
+    <published>2019-06-15T08:10:27.000Z</published>
+    <updated>2019-09-17T11:43:28.135Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Tkg8721fObU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Ellie Shin is a Senior iOS Engineer at Uber on the Mobile Platform Team. She has worked on building Uber’s Rider App and cares deeply about optimizing iOS apps and frameworks at scale. She has previously worked at Spotify and Microsoft among other companies, primarily on iOS.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Tkg8721fObU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="UIKonf" scheme="http://learntalks.com/categories/UIKonf/"/>
+    
+    
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UIKonf 2019 - Day 2 - Julia Roggatz - Muse Prototype Challenges</title>
+    <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Julia-Roggatz-Muse-Prototype-Challenges/"/>
+    <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Julia-Roggatz-Muse-Prototype-Challenges/</id>
+    <published>2019-06-15T08:10:27.000Z</published>
+    <updated>2019-09-17T11:43:28.139Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/A_fe2c6IUUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Julia Roggatz is a freelance iOS developer with a passion for creating delightful user interfaces. She’s currently working with a fully-remote research lab, building experimental prototypes that explore what the future of tablet computing for creativity and productivity could look like.</p><p>Julia started dabbling in graphic and web design as a young teenager, but didn’t discover her passion for programming until attending university. Flash and ActionScript first made things click for her, and a few years later she fell in love with iOS and never looked back. She’s worked for startups (Wooga, Clue) and a big companies (KAYAK) before becoming a freelancer and part-time digital nomad.</p><p>In her non-screen time, she is a DIY home improver, hobby mixologist, and hammock enthusiast.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/A_fe2c6IUUo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
@@ -213,34 +213,6 @@
   </entry>
   
   <entry>
-    <title>UIKonf 2019 - Day 2 - Lea Marolt - Mobile &amp;&amp; Me == It&#39;s Complicated</title>
-    <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Lea-Marolt-Mobile-andand-Me-It&#39;s-Complicated/"/>
-    <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Lea-Marolt-Mobile-andand-Me-It&#39;s-Complicated/</id>
-    <published>2019-06-15T05:00:32.000Z</published>
-    <updated>2019-09-17T11:43:28.140Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/cZnD6mpyNoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Lea Marolt Sonnenschein spent three years in New York, working on the iOS application for Rent the Runway and teaching Swift at General Assembly. Now, she’s getting a masters in Innovation Design Engineering in London, and spends most of her time playing with sensors and microcontrollers. She writes articles focused on design and usability for raywenderlich.com, and is the author of one of the most popular video courses on the site, Reproducing Popular iOS Controls.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/cZnD6mpyNoo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="UIKonf" scheme="http://learntalks.com/categories/UIKonf/"/>
-    
-    
-      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
-    
-  </entry>
-  
-  <entry>
     <title>UIKonf 2019 - Day 2 -  Ellen Shapiro - Kotlin/Native</title>
     <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Ellen-Shapiro-KotlinNative/"/>
     <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Ellen-Shapiro-KotlinNative/</id>
@@ -256,6 +228,34 @@
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
 &lt;iframe src=&quot;https://www.youtube.com/embed/dMm6zyW2i9I&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="UIKonf" scheme="http://learntalks.com/categories/UIKonf/"/>
+    
+    
+      <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UIKonf 2019 - Day 2 - Lea Marolt - Mobile &amp;&amp; Me == It&#39;s Complicated</title>
+    <link href="http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Lea-Marolt-Mobile-andand-Me-It&#39;s-Complicated/"/>
+    <id>http://learntalks.com/UIKonf/2019/UIKonf-2019-UIKonf-2019-Day-2-Lea-Marolt-Mobile-andand-Me-It&#39;s-Complicated/</id>
+    <published>2019-06-15T05:00:32.000Z</published>
+    <updated>2019-09-17T11:43:28.140Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/cZnD6mpyNoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Lea Marolt Sonnenschein spent three years in New York, working on the iOS application for Rent the Runway and teaching Swift at General Assembly. Now, she’s getting a masters in Innovation Design Engineering in London, and spends most of her time playing with sensors and microcontrollers. She writes articles focused on design and usability for raywenderlich.com, and is the author of one of the most popular video courses on the site, Reproducing Popular iOS Controls.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/cZnD6mpyNoo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
