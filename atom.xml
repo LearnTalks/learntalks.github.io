@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://learntalks.com/"/>
-  <updated>2019-09-19T09:18:28.584Z</updated>
+  <updated>2019-10-14T09:27:36.340Z</updated>
   <id>http://learntalks.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Modularize All the Things - Abbey Jackson</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Modularize-All-the-Things-Abbey-Jackson/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Modularize-All-the-Things-Abbey-Jackson/</id>
-    <published>2019-08-19T23:22:33.000Z</published>
-    <updated>2019-09-19T09:18:28.584Z</updated>
+    <title>React Native EU 2019 Jamon Holmgren</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Jamon-Holmgren/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Jamon-Holmgren/</id>
+    <published>2019-10-14T06:58:09.000Z</published>
+    <updated>2019-10-14T09:27:36.340Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354783100?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Modularize All the Things - Abbey Jackson</p><p>Sample code and slides: <a href="https://abgl.ca/mod-0819" target="_blank" rel="noopener">https://abgl.ca/mod-0819</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Wx9slbOTD6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -31,13 +31,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354783100?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/Wx9slbOTD6Q&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -45,13 +45,13 @@
   </entry>
   
   <entry>
-    <title>Continuous Integration - What, Why &amp; How feat. Bitrise - Kyle Newsome</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Continuous-Integration-What-Why-and-How-feat.-Bitrise-Kyle-Newsome/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Continuous-Integration-What-Why-and-How-feat.-Bitrise-Kyle-Newsome/</id>
-    <published>2019-08-19T23:20:29.000Z</published>
-    <updated>2019-09-19T09:18:28.583Z</updated>
+    <title>React Native EU 2019 - AFTER MOVIE</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-AFTER-MOVIE/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-AFTER-MOVIE/</id>
+    <published>2019-10-10T13:18:31.000Z</published>
+    <updated>2019-10-14T09:27:36.338Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354782851?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Continuous Integration - What, Why &amp; How feat. Bitrise - Kyle Newsome</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/m0GfmlGFh3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -59,13 +59,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354782851?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/m0GfmlGFh3E&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -73,13 +73,13 @@
   </entry>
   
   <entry>
-    <title>5 Ways to Level Up Your Mobile Development - Tim Mitra</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-5-Ways-to-Level-Up-Your-Mobile-Development-Tim-Mitra/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-5-Ways-to-Level-Up-Your-Mobile-Development-Tim-Mitra/</id>
-    <published>2019-08-19T01:23:27.000Z</published>
-    <updated>2019-09-19T09:18:28.582Z</updated>
+    <title>React Native EU 2019 Q&amp;A Panel</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-QandA-Panel/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-QandA-Panel/</id>
+    <published>2019-10-10T07:21:41.000Z</published>
+    <updated>2019-10-14T09:27:36.343Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354580074?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>5 Ways to Level Up Your Mobile Development - Tim Mitra</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/W6AVWUPTy48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -87,13 +87,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354580074?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/W6AVWUPTy48&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -101,13 +101,13 @@
   </entry>
   
   <entry>
-    <title>The Evolution of iOS Development at Scotiabank - Rohan Trivedi &amp; Charles Joseph</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-The-Evolution-of-iOS-Development-at-Scotiabank-Rohan-Trivedi-and-Charles-Joseph/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-The-Evolution-of-iOS-Development-at-Scotiabank-Rohan-Trivedi-and-Charles-Joseph/</id>
-    <published>2019-08-19T01:19:00.000Z</published>
-    <updated>2019-09-19T09:18:28.585Z</updated>
+    <title>React Native EU 2019 Wouter van den Broek - Giving voice an action in React Native</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Wouter-van-den-Broek-Giving-voice-an-action-in-React-Native/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Wouter-van-den-Broek-Giving-voice-an-action-in-React-Native/</id>
+    <published>2019-10-09T12:14:06.000Z</published>
+    <updated>2019-10-14T09:27:36.344Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354579653?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>The Evolution of iOS Development at Scotiabank - Rohan Trivedi &amp; Charles Joseph</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Wrp4LUe2R80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -115,13 +115,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354579653?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/Wrp4LUe2R80&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -129,13 +129,13 @@
   </entry>
   
   <entry>
-    <title>Building for the Long Haul Preparing Your App for SwiftUI - Frank Courville</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Building-for-the-Long-Haul-Preparing-Your-App-for-SwiftUI-Frank-Courville/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Building-for-the-Long-Haul-Preparing-Your-App-for-SwiftUI-Frank-Courville/</id>
-    <published>2019-08-19T01:14:58.000Z</published>
-    <updated>2019-09-19T09:18:28.582Z</updated>
+    <title>React native EU 2019 Laura González - I picked Up React Native As a Web Developer</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-native-EU-2019-Laura-Gonzalez-I-picked-Up-React-Native-As-a-Web-Developer/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-native-EU-2019-Laura-Gonzalez-I-picked-Up-React-Native-As-a-Web-Developer/</id>
+    <published>2019-10-09T12:02:48.000Z</published>
+    <updated>2019-10-14T09:27:36.345Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354579304?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Building for the Long Haul: Preparing Your App for SwiftUI - Frank Courville</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/X_Rriyocv4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -143,13 +143,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354579304?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/X_Rriyocv4w&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -157,13 +157,13 @@
   </entry>
   
   <entry>
-    <title>How to Write Testable Code - Marwan Alani</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-How-to-Write-Testable-Code-Marwan-Alani/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-How-to-Write-Testable-Code-Marwan-Alani/</id>
-    <published>2019-08-18T22:27:08.000Z</published>
-    <updated>2019-09-19T09:18:28.584Z</updated>
+    <title>React Native EU 2019 Dulmandakh Sukhbaatar - Media Rich App Best Practices</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Dulmandakh-Sukhbaatar-Media-Rich-App-Best-Practices/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Dulmandakh-Sukhbaatar-Media-Rich-App-Best-Practices/</id>
+    <published>2019-10-09T11:59:15.000Z</published>
+    <updated>2019-10-14T09:27:36.339Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354561681?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>How to Write Testable Code - Marwan Alani</p><p>Sample Code &amp; Slides: <a href="https://github.com/m-alani/swift_to_sample" target="_blank" rel="noopener">https://github.com/m-alani/swift_to_sample</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/92GfZcpuWyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -171,13 +171,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354561681?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/92GfZcpuWyo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -185,13 +185,13 @@
   </entry>
   
   <entry>
-    <title>Using Structs as a Data Interface for your Service Layer - Lyle Resnick</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Using-Structs-as-a-Data-Interface-for-your-Service-Layer-Lyle-Resnick/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Using-Structs-as-a-Data-Interface-for-your-Service-Layer-Lyle-Resnick/</id>
-    <published>2019-08-18T21:26:41.000Z</published>
-    <updated>2019-09-19T09:18:28.585Z</updated>
+    <title>React Native EU 2019 Jordan Brown - Statically Enforcing A Consistent UI Using Type Systems</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Jordan-Brown-Statically-Enforcing-A-Consistent-UI-Using-Type-Systems/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Jordan-Brown-Statically-Enforcing-A-Consistent-UI-Using-Type-Systems/</id>
+    <published>2019-10-09T11:53:11.000Z</published>
+    <updated>2019-10-14T09:27:36.340Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354555908?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Using Structs as a Data Interface for your Service Layer - Lyle Resnick</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/A8ah4hKX6aQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -199,13 +199,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354555908?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/A8ah4hKX6aQ&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -213,13 +213,13 @@
   </entry>
   
   <entry>
-    <title>Get Started Developing Server Side Swift with Vapor - Leo Dion</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Get-Started-Developing-Server-Side-Swift-with-Vapor-Leo-Dion/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Get-Started-Developing-Server-Side-Swift-with-Vapor-Leo-Dion/</id>
-    <published>2019-08-18T21:17:27.000Z</published>
-    <updated>2019-09-19T09:18:28.583Z</updated>
+    <title>React Native EU 2019 Pavlos Vinieratos - Let&#39;s upgrade our React Native project</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Pavlos-Vinieratos-Let&#39;s-upgrade-our-React-Native-project/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Pavlos-Vinieratos-Let&#39;s-upgrade-our-React-Native-project/</id>
+    <published>2019-10-09T10:53:45.000Z</published>
+    <updated>2019-10-14T09:27:36.342Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354555100?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Get Started Developing Server Side Swift with Vapor - Leo Dion</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/fmh_ZGHh_eg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -227,13 +227,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354555100?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/fmh_ZGHh_eg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -241,13 +241,13 @@
   </entry>
   
   <entry>
-    <title>Pushing SwiftUI to the Limit - Veronica Ray</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Pushing-SwiftUI-to-the-Limit-Veronica-Ray/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-Pushing-SwiftUI-to-the-Limit-Veronica-Ray/</id>
-    <published>2019-08-18T21:16:26.000Z</published>
-    <updated>2019-09-19T09:18:28.584Z</updated>
+    <title>React Native EU 2019 Chiamaka Nwolisa - Offline Strategies In React Native</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Chiamaka-Nwolisa-Offline-Strategies-In-React-Native/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Chiamaka-Nwolisa-Offline-Strategies-In-React-Native/</id>
+    <published>2019-10-09T10:31:38.000Z</published>
+    <updated>2019-10-14T09:27:36.339Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354555005?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Pushing SwiftUI to the Limit - Veronica Ray</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/cchevVxMpSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -255,13 +255,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354555005?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/cchevVxMpSw&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -269,13 +269,13 @@
   </entry>
   
   <entry>
-    <title>The Evolution of Swift - Paul Hudson</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-The-Evolution-of-Swift-Paul-Hudson/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-The-Evolution-of-Swift-Paul-Hudson/</id>
-    <published>2019-08-18T21:06:17.000Z</published>
-    <updated>2019-09-19T09:18:28.585Z</updated>
+    <title>React Native EU 2019 Micah Lewis &amp; EJ Layne - React Native @ Microsoft</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Micah-Lewis-and-EJ-Layne-React-Native-@-Microsoft/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Micah-Lewis-and-EJ-Layne-React-Native-@-Microsoft/</id>
+    <published>2019-10-09T10:13:50.000Z</published>
+    <updated>2019-10-14T09:27:36.341Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354554006?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>The Evolution of Swift - Paul Hudson</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/IUMWFExtDSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -283,13 +283,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354554006?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/IUMWFExtDSg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -297,13 +297,13 @@
   </entry>
   
   <entry>
-    <title>From Swift Developer to Full Time YouTuber in 8 Months - Chris Ching</title>
-    <link href="http://learntalks.com/Swift-TO/2019/Swift-TO-2019-From-Swift-Developer-to-Full-Time-YouTuber-in-8-Months-Chris-Ching/"/>
-    <id>http://learntalks.com/Swift-TO/2019/Swift-TO-2019-From-Swift-Developer-to-Full-Time-YouTuber-in-8-Months-Chris-Ching/</id>
-    <published>2019-08-18T17:49:04.000Z</published>
-    <updated>2019-09-19T09:18:28.583Z</updated>
+    <title>React Native EU 2019 Orta Therox - iOS Build Infrastructure Overview</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Orta-Therox-iOS-Build-Infrastructure-Overview/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Orta-Therox-iOS-Build-Infrastructure-Overview/</id>
+    <published>2019-10-09T09:46:41.000Z</published>
+    <updated>2019-10-14T09:27:36.341Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/354532436?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>From Swift Developer to Full Time YouTuber in 8 Months - Chris Ching</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/wVJxb36wjjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -311,13 +311,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/354532436?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/wVJxb36wjjA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Swift TO" scheme="http://learntalks.com/categories/Swift-TO/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -325,13 +325,13 @@
   </entry>
   
   <entry>
-    <title>Nick DiPatri - Get Ready to Duck Google Actions and The Ping-Pong Catapult</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Nick-DiPatri-Get-Ready-to-Duck-Google-Actions-and-The-Ping-Pong-Catapult/"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Nick-DiPatri-Get-Ready-to-Duck-Google-Actions-and-The-Ping-Pong-Catapult/</id>
-    <published>2019-08-08T19:31:46.000Z</published>
-    <updated>2019-09-19T09:18:28.410Z</updated>
+    <title>React Native EU 2019 Alexey Kureev - React Native CodeGen</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Alexey-Kureev-React-Native-CodeGen/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Alexey-Kureev-React-Native-CodeGen/</id>
+    <published>2019-10-09T09:26:27.000Z</published>
+    <updated>2019-10-14T09:27:36.338Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/352809505?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Using a tabletop catapult as a test case, in this session we’ll harness the<br>power of our voices to control a real world IoT device. We’ll step<br>outside of our Android comfort zone and create a conversational user<br>experience using the Google Assistant running on our phones.</p><p>If you want to learn Kotlin-based Google Actions fulfillment, Google’s<br>Cloud Platform, Particle Photon Arduino platform — and possibly<br>Newton’s Laws of Motion as they pertain to ping-pong balls — this<br>session is for you.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/7fiqh84VtpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -339,13 +339,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/352809505?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/7fiqh84VtpM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -353,13 +353,13 @@
   </entry>
   
   <entry>
-    <title>Divya Jain - Android O’s Autofill Framework</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Divya-Jain-Android-Os-Autofill-Framework/"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Divya-Jain-Android-Os-Autofill-Framework/</id>
-    <published>2019-08-05T17:20:32.000Z</published>
-    <updated>2019-09-19T09:18:28.399Z</updated>
+    <title>React Native EU 2019 Michał Chudziak - Navigation in Brownfield Apps</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Michal-Chudziak-Navigation-in-Brownfield-Apps/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Michal-Chudziak-Navigation-in-Brownfield-Apps/</id>
+    <published>2019-10-08T11:11:35.000Z</published>
+    <updated>2019-10-14T09:27:36.341Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/352118173?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filling in same information again and again in forms can be tedious and time consuming. Want to prevent the users of your app from this frustrating task? Come explore Android Autofill framework and its awesome benefits. It not only provides a quick enriching user experience, but also helps minimize user errors. We will learn about everything about this framework, starting from Autofill Components, how to configure your app, different kinds of Autofill services, how to handle data parsing and inconsistencies etc. We will also talk about different ways in which the framework can be tested! I will present a code demo to present how easy and quick it is to implement. By the end of the talk, I hope you will be motivated to understand and incorporate an efficient autofill framework in your app to provide that enhanced experience to your users!</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/DgEQ868arcg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -367,13 +367,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/352118173?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/DgEQ868arcg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -381,13 +381,13 @@
   </entry>
   
   <entry>
-    <title>John F Hancock - Hyperfocus Driven Development</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-John-F-Hancock-Hyperfocus-Driven-Development/"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-John-F-Hancock-Hyperfocus-Driven-Development/</id>
-    <published>2019-08-05T16:36:11.000Z</published>
-    <updated>2019-09-19T09:18:28.404Z</updated>
+    <title>React Native EU 2019 Tzvetan Mikov - Improving React Native Performance</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Tzvetan-Mikov-Improving-React-Native-Performance/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Tzvetan-Mikov-Improving-React-Native-Performance/</id>
+    <published>2019-10-08T10:21:47.000Z</published>
+    <updated>2019-10-14T09:27:36.344Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/352109765?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Hyperfocus is one of the few traits of ADHD that most people see as a benefit. It has been the backbone of my success as a software developer, starting in my education, and continuing through my professional career. The catch is that I didn’t know that I had ADHD until hyperfocus was no longer enough to sustain me, and a myriad of distractions and burnout really started hurting my career and personal life. A few key tweets from other developers with adult ADHD diagnoses tipped me off that what I was experiencing might not be entirely in my control. So I researched the disorder, saw a psychiatrist, got a diagnosis, and began treatment.</p><p>What I have taken from the experience is that many developers are living with ADHD, and are often completely unaware. Some are struggling, some are succeeding, and some are on the cusp of burning out because they can’t cope with distraction. This talk will illuminate ADHD symptoms as they apply to developers especially. I will provide anecdotes, tools, and processes to help fellow devs with ADHD understand themselves, see their differences as strengths, and improve their ability to perform–and keep performing–well in software development.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/BkRE4MsqFXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -395,13 +395,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/352109765?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/BkRE4MsqFXU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -409,13 +409,13 @@
   </entry>
   
   <entry>
-    <title>Tiem Song - Assembling your Jetpack</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Tiem-Song-Assembling-your-Jetpack/"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Tiem-Song-Assembling-your-Jetpack/</id>
-    <published>2019-08-05T16:21:48.000Z</published>
-    <updated>2019-09-19T09:18:28.415Z</updated>
+    <title>React Native EU Ryan Turner - So You&#39;re Considering Brownfield</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-Ryan-Turner-So-You&#39;re-Considering-Brownfield/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-Ryan-Turner-So-You&#39;re-Considering-Brownfield/</id>
+    <published>2019-10-08T09:57:17.000Z</published>
+    <updated>2019-10-14T09:27:36.344Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/352107087?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Jetpack is a collection of Android software components to make it easier for you to develop great Android apps. This talk covers integrating your existing Android app with Jetpack. We’ll explore Sunflower, a gardening sample app showcasing best practices using Jetpack.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/yJC2XPFe-I0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -423,13 +423,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/352107087?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/yJC2XPFe-I0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -437,13 +437,13 @@
   </entry>
   
   <entry>
-    <title>Kevin Gorham - Effective Coroutines</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Kevin-Gorham-Effective-Coroutines/"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Kevin-Gorham-Effective-Coroutines/</id>
-    <published>2019-08-05T15:42:55.000Z</published>
-    <updated>2019-09-19T09:18:28.407Z</updated>
+    <title>React Native EU 2019 Peter Piekarczyk - Building Components Visually Using Draftbit</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Peter-Piekarczyk-Building-Components-Visually-Using-Draftbit/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Peter-Piekarczyk-Building-Components-Visually-Using-Draftbit/</id>
+    <published>2019-10-08T09:37:48.000Z</published>
+    <updated>2019-10-14T09:27:36.342Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/352099674?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Are you looking for a deeper understanding of Kotlin Coroutines? These days, there is a large volume of complex information available on the topic. This session distills that vast content into a simple, digestible set of “items” illuminating what to do, what not to do, and why–by taking what the experts have said and applying it to everyday challenges. Some topics include error handling, explicit concurrency, structured concurrency, coroutineScope v. supervisorScope, hot channels v. cold flows, viewModelScope and other best practices for using coroutines with Architecture Components. The goal is that everyone leaves with at least one nugget that simplifies their mental model of coroutines and how to use them more effectively.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/cx3uAEv-nD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -451,13 +451,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/352099674?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/cx3uAEv-nD0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -465,13 +465,13 @@
   </entry>
   
   <entry>
-    <title>Tatyana Casino - Machine Learning on Android Demystified</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Tatyana-Casino-Machine-Learning-on-Android-Demystified/"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Tatyana-Casino-Machine-Learning-on-Android-Demystified/</id>
-    <published>2019-08-02T19:18:34.000Z</published>
-    <updated>2019-09-19T09:18:28.414Z</updated>
+    <title>React Native EU 2019 Vojtech Novak - Real World e2e Testing With Detox</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Vojtech-Novak-Real-World-e2e-Testing-With-Detox/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Vojtech-Novak-Real-World-e2e-Testing-With-Detox/</id>
+    <published>2019-10-08T09:19:45.000Z</published>
+    <updated>2019-10-14T09:27:36.344Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/351704139?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Ever wondered what it takes to implement machine learning in your app? Look no further! In this talk I will suggest different ways to approach this. I am going to compare cloud-based services with local (on-device) machine learning, focusing mostly on the latter. On-device predictions are happening strictly on a mobile device, giving us the benefit of keeping the user’s data private and not depending on the network connection. Features like Google Lens Suggestions and Google Call Screening are all leveraging on-device ML. However the ML models should be prepared and optimized for efficiency and performance on mobile – I’m going to talk about that as well. We’re going to dive into TensorFlow Lite and Firebase MLKit SDKs with some code examples in Kotlin. After attending this talk you will understand the capabilities and limitations of each of these frameworks. You will have a good idea of where to start and what is necessary to implement your idea using ML in your app.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/_neMz2_6u20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -479,13 +479,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/351704139?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/_neMz2_6u20&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -493,13 +493,13 @@
   </entry>
   
   <entry>
-    <title>Nicola Gibson - Accessibility Talk, Button. Double-tap to activate.</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Nicola-Gibson-Accessibility-Talk-Button.-Double-tap-to-activate./"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Nicola-Gibson-Accessibility-Talk-Button.-Double-tap-to-activate./</id>
-    <published>2019-08-02T18:10:49.000Z</published>
-    <updated>2019-09-19T09:18:28.410Z</updated>
+    <title>React Native EU 2019 Nick de Jesus - Continuous Integration With Microsoft App Center</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Nick-de-Jesus-Continuous-Integration-With-Microsoft-App-Center/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Nick-de-Jesus-Continuous-Integration-With-Microsoft-App-Center/</id>
+    <published>2019-10-08T09:01:33.000Z</published>
+    <updated>2019-10-14T09:27:36.341Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/351693841?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Making your Android app accessible is more than just adding content descriptions to your buttons, but there is also a lot that Android will do for you. What do you need to worry about, and what are some talkback secrets that you might not know? There’s a fine line between a confusing and unusable app, and a verbose and annoying app. How do we find the middle ground?</p><p>Recycler views and bottom bars and hyperlinks, oh my! In this talk we’ll go through how to use and implement some standard Android widgets, typical views that can be constructed with them, and all the accessibility pitfalls along the way. Can all of these be used without looking at the screen?</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/zLY2a5enUhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -507,13 +507,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/351693841?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/zLY2a5enUhE&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -521,13 +521,13 @@
   </entry>
   
   <entry>
-    <title>Adrián Catalan &amp; Cecilia Castillo - If your code looks like it’s Kotlin &amp; quacks like ...</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Adrian-Catalan-and-Cecilia-Castillo-If-your-code-looks-like-its-Kotlin-and-quacks-like-.../"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Adrian-Catalan-and-Cecilia-Castillo-If-your-code-looks-like-its-Kotlin-and-quacks-like-.../</id>
-    <published>2019-08-02T13:54:51.000Z</published>
-    <updated>2019-09-19T09:18:28.397Z</updated>
+    <title>React Native EU 2019 Thibault Malbranche - Publishing And Maintaining A React Native Library</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Thibault-Malbranche-Publishing-And-Maintaining-A-React-Native-Library/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Thibault-Malbranche-Publishing-And-Maintaining-A-React-Native-Library/</id>
+    <published>2019-10-08T08:51:31.000Z</published>
+    <updated>2019-10-14T09:27:36.344Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/351647658?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>The popularity and adoption of Kotlin has been rising after Android welcomed it as first class citizen on the platform. Swift has been following its own path to success the last couple of years. Both share many similarities and as both platforms has been converging, barriers to become fluent on native mobile apps for Android and iOS are lower than ever!. Join us to see an Android developer doing Swift, an iOS developer writing Kotlin and enjoy this thrill ride with two tour guides that will drive you out of your comfort zone while sharing their struggles and success to inspire you to learn the languages. In this talk we’ll review similarities and advantages as we implement an app on both platforms, how to start using the other language once you’ve given your first steps on either and how you can start your world domination plans with your next line of code. Quack quack!</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/LYlR0_sMFes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -535,13 +535,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/351647658?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/LYlR0_sMFes&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -549,13 +549,13 @@
   </entry>
   
   <entry>
-    <title>Stuart Kent - Framework-Free Dependency Injection</title>
-    <link href="http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Stuart-Kent-Framework-Free-Dependency-Injection/"/>
-    <id>http://learntalks.com/360-Conferences/2019/360-Conferences-2019-Stuart-Kent-Framework-Free-Dependency-Injection/</id>
-    <published>2019-08-02T13:24:53.000Z</published>
-    <updated>2019-09-19T09:18:28.414Z</updated>
+    <title>React Native EU 2019 Satyajit Sahoo &amp; Michał Osadnik- Component First Navigation In React Native</title>
+    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Satyajit-Sahoo-and-Michal-Osadnik-Component-First-Navigation-In-React-Native/"/>
+    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Satyajit-Sahoo-and-Michal-Osadnik-Component-First-Navigation-In-React-Native/</id>
+    <published>2019-10-08T08:40:42.000Z</published>
+    <updated>2019-10-14T09:27:36.343Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://player.vimeo.com/video/351641856?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Dependency injection is an important technique that helps us write testable Android apps. For large apps with complex requirements, powerful frameworks like Dagger centralize and organize our dependency relationships and lifecycles and automate injection. However, many applications are simple enough that manual dependency injection provides all the benefits of Dagger with few of the costs (e.g. a steep learning curve; slower build times). In this beginner-friendly talk, we’ll learn how to identify, extract, and inject dependencies by hand in several common Android architectures. Attendees will leave with a solid grasp of dependency injection fundamentals and the ability (and desire!) to introduce manual dependency injection into their own codebases.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/eUcIe19H-Yk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
     
     <summary type="html">
     
@@ -563,13 +563,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/351641856?title=0&amp;byline=0&amp;portrait=0&quot; fram
+&lt;iframe src=&quot;https://www.youtube.com/embed/eUcIe19H-Yk&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="360 Conferences" scheme="http://learntalks.com/categories/360-Conferences/"/>
+      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
