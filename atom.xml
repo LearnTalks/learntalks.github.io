@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://learntalks.com/"/>
-  <updated>2019-10-14T09:27:36.340Z</updated>
+  <updated>2019-10-28T14:35:57.246Z</updated>
   <id>http://learntalks.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>React Native EU 2019 Jamon Holmgren</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Jamon-Holmgren/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Jamon-Holmgren/</id>
-    <published>2019-10-14T06:58:09.000Z</published>
-    <updated>2019-10-14T09:27:36.340Z</updated>
+    <title>Extending UIColor to Support Custom Styling, Kelly Hutchison</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Extending-UIColor-to-Support-Custom-Styling-Kelly-Hutchison/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Extending-UIColor-to-Support-Custom-Styling-Kelly-Hutchison/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.246Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Wx9slbOTD6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Nw0YaDVcA6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Supporting custom coloring can provide users with a sense of identity and community, but also introduces a handful of accessibility issues when it comes to color contrast and readability. Finding an engineering solution that satisfies designers while still allowing users to express themselves via customization can be tricky.</p><p>Extending UIColor with a few simple methods can go a long way to prevent contrast issues like a very bright color on a white background. In this talk, we will explore color spaces and the components that make up a color. We will utilize these components and write code to measure color contrast as well as adjust a color’s brightness to meet accessibility standards. We will also talk about how to adopt Dark Mode in iOS 13. You will walk away feeling confident about how to handle color collisions in your own apps.</p>]]></content>
     
     <summary type="html">
     
@@ -31,13 +31,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/Wx9slbOTD6Q&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/Nw0YaDVcA6U&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -45,13 +45,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 - AFTER MOVIE</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-AFTER-MOVIE/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-AFTER-MOVIE/</id>
-    <published>2019-10-10T13:18:31.000Z</published>
-    <updated>2019-10-14T09:27:36.338Z</updated>
+    <title>What Swift Devs can Learn from C++, Laura Savino</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-What-Swift-Devs-can-Learn-from-C++-Laura-Savino/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-What-Swift-Devs-can-Learn-from-C++-Laura-Savino/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.248Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/m0GfmlGFh3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/CZOVnlwWPZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Those of us who love Swift assume that it’s the language everyone would use if only they could. C++ has a super active community of engineers, though, many of whom don’t feel particularly hampered or tied down by their language choice at all. This will be a field-researched, playful tour of language elements that C++ devs would truly miss if they all switched over to Swift.</p>]]></content>
     
     <summary type="html">
     
@@ -59,13 +59,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/m0GfmlGFh3E&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/CZOVnlwWPZk&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -73,13 +73,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Q&amp;A Panel</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-QandA-Panel/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-QandA-Panel/</id>
-    <published>2019-10-10T07:21:41.000Z</published>
-    <updated>2019-10-14T09:27:36.343Z</updated>
+    <title>The Life of an Image on iOS, Jordan Morgan</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-The-Life-of-an-Image-on-iOS-Jordan-Morgan/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-The-Life-of-an-Image-on-iOS-Jordan-Morgan/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.248Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/W6AVWUPTy48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/vl3aXaNPKE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>There is a lot that’s misunderstood with images on iOS, how they are sized, how much memory they consume and when they actually consume it. In this talk, we’ll start by learning about the rendering pipeline, what buffers are and why we should care about them. Then we’ll close with how to use them efficiently, and how to think about them holistically.</p>]]></content>
     
     <summary type="html">
     
@@ -87,13 +87,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/W6AVWUPTy48&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/vl3aXaNPKE0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -101,13 +101,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Wouter van den Broek - Giving voice an action in React Native</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Wouter-van-den-Broek-Giving-voice-an-action-in-React-Native/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Wouter-van-den-Broek-Giving-voice-an-action-in-React-Native/</id>
-    <published>2019-10-09T12:14:06.000Z</published>
-    <updated>2019-10-14T09:27:36.344Z</updated>
+    <title>SwiftUI for Production, Lea Marolt</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-SwiftUI-for-Production-Lea-Marolt/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-SwiftUI-for-Production-Lea-Marolt/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.247Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Wrp4LUe2R80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/rshXbwrrUxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>The iOS world has been a-buzz ever since SwiftUI came on the scene. Twitter threads exploded, countless books about the topic went into presale, and recruiters on LinkedIn seem to want us to have 3+ years of experience with the UI Toolkit. So, what’s all the fuss about, is it worth it, and how can you become part of the action?</p><p>In this talk, Lea Marolt Sonnenschein will go through some of the trials, triumphs and tribulations she faced while developing the RayWenderlich iOS app for production, built entirely with SwiftUI. Then, she’ll compare and contrast SwiftUI against standard UIKit development. Finally, she’ll go over the most important lessons learned and offer some concrete advice and best practices to help you start building your own SwiftUI apps!</p>]]></content>
     
     <summary type="html">
     
@@ -115,13 +115,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/Wrp4LUe2R80&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/rshXbwrrUxY&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -129,13 +129,13 @@
   </entry>
   
   <entry>
-    <title>React native EU 2019 Laura González - I picked Up React Native As a Web Developer</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-native-EU-2019-Laura-Gonzalez-I-picked-Up-React-Native-As-a-Web-Developer/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-native-EU-2019-Laura-Gonzalez-I-picked-Up-React-Native-As-a-Web-Developer/</id>
-    <published>2019-10-09T12:02:48.000Z</published>
-    <updated>2019-10-14T09:27:36.345Z</updated>
+    <title>Swift for TensorFlow - Machine Learning with no Boundaries, Paige Bailey</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Swift-for-TensorFlow-Machine-Learning-with-no-Boundaries-Paige-Bailey/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Swift-for-TensorFlow-Machine-Learning-with-no-Boundaries-Paige-Bailey/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.247Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/X_Rriyocv4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/xnwgifICYYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Swift for TensorFlow is an open-source, cross-platform machine learning framework built on top of TensorFlow. In this session, you will learn what features have recently been added to S4TF v0.4 and what the engineering team has planned for the upcoming months. We will also discuss why Swift is uniquely positioned to offer a production deployment solution for machine learning projects.</p>]]></content>
     
     <summary type="html">
     
@@ -143,13 +143,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/X_Rriyocv4w&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/xnwgifICYYA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -157,13 +157,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Dulmandakh Sukhbaatar - Media Rich App Best Practices</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Dulmandakh-Sukhbaatar-Media-Rich-App-Best-Practices/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Dulmandakh-Sukhbaatar-Media-Rich-App-Best-Practices/</id>
-    <published>2019-10-09T11:59:15.000Z</published>
-    <updated>2019-10-14T09:27:36.339Z</updated>
+    <title>Streamlining Mobile Releases, Eli Budelli</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Streamlining-Mobile-Releases-Eli-Budelli/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Streamlining-Mobile-Releases-Eli-Budelli/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.247Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/92GfZcpuWyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/CcPdDwz116k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Anyone that has released mobile apps knows how time-consuming this is. Even tiny mistakes during the release process can be expensive: high impact to users, long recovery times, angry reviews, and lowered store ratings. If you want to learn how to make your releases reliable, multilingual, and highly automated, this talk is for you.</p>]]></content>
     
     <summary type="html">
     
@@ -171,13 +171,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/92GfZcpuWyo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/CcPdDwz116k&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -185,13 +185,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Jordan Brown - Statically Enforcing A Consistent UI Using Type Systems</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Jordan-Brown-Statically-Enforcing-A-Consistent-UI-Using-Type-Systems/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Jordan-Brown-Statically-Enforcing-A-Consistent-UI-Using-Type-Systems/</id>
-    <published>2019-10-09T11:53:11.000Z</published>
-    <updated>2019-10-14T09:27:36.340Z</updated>
+    <title>Parsing natural languages in Swift, Dabby Ndubisi</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Parsing-natural-languages-in-Swift-Dabby-Ndubisi/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Parsing-natural-languages-in-Swift-Dabby-Ndubisi/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.247Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/A8ah4hKX6aQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/BPEJ8Nif12E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Unlike programming languages, Natural languages are often ambiguous to parse, and our brain often does some work behind the scenes to disambiguate from context. In this talk, we will explore how to create a MLModel for parsing natural languages in Swift.</p>]]></content>
     
     <summary type="html">
     
@@ -199,13 +199,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/A8ah4hKX6aQ&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/BPEJ8Nif12E&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -213,13 +213,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Pavlos Vinieratos - Let&#39;s upgrade our React Native project</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Pavlos-Vinieratos-Let&#39;s-upgrade-our-React-Native-project/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Pavlos-Vinieratos-Let&#39;s-upgrade-our-React-Native-project/</id>
-    <published>2019-10-09T10:53:45.000Z</published>
-    <updated>2019-10-14T09:27:36.342Z</updated>
+    <title>Making Your App Feel at Home in iOS 13, Dave Verwer</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Making-Your-App-Feel-at-Home-in-iOS-13-Dave-Verwer/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Making-Your-App-Feel-at-Home-in-iOS-13-Dave-Verwer/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.246Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/fmh_ZGHh_eg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/HbQVY2hfAEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>iOS hasn’t had a major redesign since iOS 7 in 2013, but that doesn’t mean the incremental design changes each year aren’t significant. Making your app fit well with the operating system is an important step towards usability so join Dave on a journey through the design changes this year, and learn how you can make your app feel at home in iOS 13.</p>]]></content>
     
     <summary type="html">
     
@@ -227,13 +227,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/fmh_ZGHh_eg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/HbQVY2hfAEY&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -241,13 +241,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Chiamaka Nwolisa - Offline Strategies In React Native</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Chiamaka-Nwolisa-Offline-Strategies-In-React-Native/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Chiamaka-Nwolisa-Offline-Strategies-In-React-Native/</id>
-    <published>2019-10-09T10:31:38.000Z</published>
-    <updated>2019-10-14T09:27:36.339Z</updated>
+    <title>A Deeper Deep dive into Swift Literal, Yuki Aki</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-A-Deeper-Deep-dive-into-Swift-Literal-Yuki-Aki/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-A-Deeper-Deep-dive-into-Swift-Literal-Yuki-Aki/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.244Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/cchevVxMpSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/z0iZH2iu7Lw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>This session will deepen your understanding of Swift Literals. How are Literals handled over from code string? Why can Literals be the actual data? And why can we use data accurately from Literals? By following the Swift Literals in Swift Code to SIL and LLVM IR code, you will learn the answer. I’ll also introduce Intrinsic Protocols, which are pre-defined protocols in Swift Compiler that has a deep connection with Swift Literals.</p><p>Let’s dive into the deeper side of Swift Literals!</p>]]></content>
     
     <summary type="html">
     
@@ -255,13 +255,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/cchevVxMpSw&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/z0iZH2iu7Lw&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -269,13 +269,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Micah Lewis &amp; EJ Layne - React Native @ Microsoft</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Micah-Lewis-and-EJ-Layne-React-Native-@-Microsoft/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Micah-Lewis-and-EJ-Layne-React-Native-@-Microsoft/</id>
-    <published>2019-10-09T10:13:50.000Z</published>
-    <updated>2019-10-14T09:27:36.341Z</updated>
+    <title>App Subscriptions - The Good, The Bad, and the Ugly, Ishmael Shabazz</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-App-Subscriptions-The-Good-The-Bad-and-the-Ugly-Ishmael-Shabazz/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-App-Subscriptions-The-Good-The-Bad-and-the-Ugly-Ishmael-Shabazz/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.245Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/IUMWFExtDSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/wtR3CacghWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Recently subscriptions have been somewhat of a hot topic. Apple has clearly expressed a new affinity for services and has introduced incentives for developers to use subscription pricing. Are subscriptions the right choice for your app, though? Let’s take a closer look and see.</p>]]></content>
     
     <summary type="html">
     
@@ -283,13 +283,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/IUMWFExtDSg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/wtR3CacghWc&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -297,13 +297,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Orta Therox - iOS Build Infrastructure Overview</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Orta-Therox-iOS-Build-Infrastructure-Overview/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Orta-Therox-iOS-Build-Infrastructure-Overview/</id>
-    <published>2019-10-09T09:46:41.000Z</published>
-    <updated>2019-10-14T09:27:36.341Z</updated>
+    <title>Body Hacking Using Ayurveda, Dr Bhaswati Bhattacharya</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Body-Hacking-Using-Ayurveda-Dr-Bhaswati-Bhattacharya/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Body-Hacking-Using-Ayurveda-Dr-Bhaswati-Bhattacharya/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.245Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/wVJxb36wjjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/ulFFTBGOpl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>You are coding away when the clock tells you it is 3am, and your gut growls for dinner. Your hair is starting to fall out, and your poop is harder than your flash drives. What you need are some tools to grind you into a stronger, better place. Welcome to the wisdom of Ayurveda, which reminds you to be resilient and heroic with your body by conditioning its power through regular movement, strong with clear mind and super-perceptive senses, and daringly high in Integrity with your emotions. Using herbs and oils, and going for powerful foods and strong routines to fortify the body, the ultimate body hack is one in which your senses are intuitive and connected to super-Natural ways of living so you can stay standing and coding strong for decades.</p>]]></content>
     
     <summary type="html">
     
@@ -311,13 +311,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/wVJxb36wjjA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/ulFFTBGOpl0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -325,13 +325,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Alexey Kureev - React Native CodeGen</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Alexey-Kureev-React-Native-CodeGen/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Alexey-Kureev-React-Native-CodeGen/</id>
-    <published>2019-10-09T09:26:27.000Z</published>
-    <updated>2019-10-14T09:27:36.338Z</updated>
+    <title>Building the Server-side Swift ecosystem, Ian Partridge</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Building-the-Server-side-Swift-ecosystem-Ian-Partridge/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Building-the-Server-side-Swift-ecosystem-Ian-Partridge/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.245Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/7fiqh84VtpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/CzTikweGO3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>One year ago, at try! Swift NYC 2018, the teams from Apple, Vapor and Kitura announced the Swift Server Working Group (SSWG) - an effort to mature the Swift ecosystem for developing and deploying server applications. Since then, six new libraries have been welcomed into the project, more are under development, and big improvements have happened in the Swift on Linux releases. In this talk I’ll bring everyone up to date, and show how you can get involved. I’ll finish by introducing Appsody, a new open source project for end-to-end development of cloud-native Swift applications - ready for your next SSWG-filled server-side Swift project!</p>]]></content>
     
     <summary type="html">
     
@@ -339,13 +339,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/7fiqh84VtpM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/CzTikweGO3E&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -353,13 +353,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Michał Chudziak - Navigation in Brownfield Apps</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Michal-Chudziak-Navigation-in-Brownfield-Apps/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Michal-Chudziak-Navigation-in-Brownfield-Apps/</id>
-    <published>2019-10-08T11:11:35.000Z</published>
-    <updated>2019-10-14T09:27:36.341Z</updated>
+    <title>Deeper into ARKit with CoreML and Turi Create, Soojin Ro</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Deeper-into-ARKit-with-CoreML-and-Turi-Create-Soojin-Ro/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Deeper-into-ARKit-with-CoreML-and-Turi-Create-Soojin-Ro/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.245Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/DgEQ868arcg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/VBZve4cLH4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Have you ever tried to make something cool and fun with ARKit, only to find out there is a missing piece? Then this talk is for you. I struggled to make my first AR app (Notable Me), but CoreML and Turi Create was there for me. This framework and tool allowed me to create something I never knew I could make.</p><p>I will share all the lessons I learned from developing this app, focusing on how to utilize machine learning into an ARKit app. Also how to unlock hidden features of Turi Create, Apple’s Open Source tool for easily creating custom ML models, to drastically improve the quality.</p>]]></content>
     
     <summary type="html">
     
@@ -367,13 +367,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/DgEQ868arcg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/VBZve4cLH4E&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -381,13 +381,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Tzvetan Mikov - Improving React Native Performance</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Tzvetan-Mikov-Improving-React-Native-Performance/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Tzvetan-Mikov-Improving-React-Native-Performance/</id>
-    <published>2019-10-08T10:21:47.000Z</published>
-    <updated>2019-10-14T09:27:36.344Z</updated>
+    <title>Designing Accessible APIs, Dave DeLong</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Designing-Accessible-APIs-Dave-DeLong/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Designing-Accessible-APIs-Dave-DeLong/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.245Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/BkRE4MsqFXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/gb6t56pzMJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Over the past 10 years of designing and shipping APIs to millions of developers, I’ve developed some fundamental rules I follow. These rules makes APIs accessible: they’re powerful but easy to use, even for novice developers. In this talk, we’ll explore these rules and how they can help you design APIs that stand the test of time and are a pleasure to use.</p>]]></content>
     
     <summary type="html">
     
@@ -395,13 +395,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/BkRE4MsqFXU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/gb6t56pzMJg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -409,13 +409,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU Ryan Turner - So You&#39;re Considering Brownfield</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-Ryan-Turner-So-You&#39;re-Considering-Brownfield/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-Ryan-Turner-So-You&#39;re-Considering-Brownfield/</id>
-    <published>2019-10-08T09:57:17.000Z</published>
-    <updated>2019-10-14T09:27:36.344Z</updated>
+    <title>Encoding and Decoding in Swift, Kaitlin Mahar</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Encoding-and-Decoding-in-Swift-Kaitlin-Mahar/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Encoding-and-Decoding-in-Swift-Kaitlin-Mahar/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.245Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/yJC2XPFe-I0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/9GZ8Hiq-Nbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Ever wonder what’s actually going on inside JSONEncoder and JSONDecoder? Why doesn’t JSONEncoder conform to the Encoder protocol? What’s a CodingKey, and what are all of those ‘containers’ for?</p><p>This talk will be a deep dive into encoding and decoding in Swift: what all of the related protocols are, how they fit together, and how to use them. You will come away from this talk ready to customize how your Swift types are encoded and decoded, and with the knowledge necessary to start writing encoders and decoders of your own.</p>]]></content>
     
     <summary type="html">
     
@@ -423,13 +423,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/yJC2XPFe-I0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/9GZ8Hiq-Nbc&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -437,13 +437,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Peter Piekarczyk - Building Components Visually Using Draftbit</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Peter-Piekarczyk-Building-Components-Visually-Using-Draftbit/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Peter-Piekarczyk-Building-Components-Visually-Using-Draftbit/</id>
-    <published>2019-10-08T09:37:48.000Z</published>
-    <updated>2019-10-14T09:27:36.342Z</updated>
+    <title>Swift Without Screens - Powering Connected Devices, Marc Aupont</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Swift-Without-Screens-Powering-Connected-Devices-Marc-Aupont/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Swift-Without-Screens-Powering-Connected-Devices-Marc-Aupont/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.247Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/cx3uAEv-nD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/VILUaec-sCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Swift is an amazing language that can be used to power applications on our MacBooks, iPhones, watches, iPads, and televisions. But what about embedded systems or headless devices that don’t have screens? In this talk, Marc will discuss a few of the amazing ways Swift can be used to drive applications running on devices like the Raspberry PI. The purpose of this talk is to provide you with the steps needed to build your own projects on embedded systems using Swift.</p>]]></content>
     
     <summary type="html">
     
@@ -451,13 +451,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/cx3uAEv-nD0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/VILUaec-sCs&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -465,13 +465,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Vojtech Novak - Real World e2e Testing With Detox</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Vojtech-Novak-Real-World-e2e-Testing-With-Detox/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Vojtech-Novak-Real-World-e2e-Testing-With-Detox/</id>
-    <published>2019-10-08T09:19:45.000Z</published>
-    <updated>2019-10-14T09:27:36.344Z</updated>
+    <title>Getting Started with Combine, Shai Mishali</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Getting-Started-with-Combine-Shai-Mishali/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Getting-Started-with-Combine-Shai-Mishali/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.246Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/_neMz2_6u20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/fejmsuxoIvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>In the last WWDC, Apple has finally released it’s very own framework for declarative processing of values over time, making the skill of Reactive Programming a must for your toolset. But what does it actually mean, and why is it at all helpful for you as a developer? What are the tools and constructs Apple provide for us as developers?</p>]]></content>
     
     <summary type="html">
     
@@ -479,13 +479,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/_neMz2_6u20&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/fejmsuxoIvA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -493,13 +493,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Nick de Jesus - Continuous Integration With Microsoft App Center</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Nick-de-Jesus-Continuous-Integration-With-Microsoft-App-Center/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Nick-de-Jesus-Continuous-Integration-With-Microsoft-App-Center/</id>
-    <published>2019-10-08T09:01:33.000Z</published>
-    <updated>2019-10-14T09:27:36.341Z</updated>
+    <title>Introduction to AsyncHTTPClient, Tom Doron</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Introduction-to-AsyncHTTPClient-Tom-Doron/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Introduction-to-AsyncHTTPClient-Tom-Doron/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.246Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/zLY2a5enUhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Zy-uIszhYO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Last year Apple released SwiftNIO - a framework for building high-performance event-driven networking applications. AsyncHTTPClient is a cross-platform HTTP client implementation built on top of SwiftNIO by the members of the Swift Server Working Group. As the Swift server community matured, projects like Vapor and Kitura implemented their own HTTP clients, indicating a need for a generic asynchronous, non-blocking HTTP client library. This is what AsyncHTTPClient aims to address. This talk will cover the current functionality, walk through an entry-level tutorial, dive into more advanced usage, and discuss how the project will evolve in the future.</p>]]></content>
     
     <summary type="html">
     
@@ -507,13 +507,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/zLY2a5enUhE&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/Zy-uIszhYO8&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -521,13 +521,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Thibault Malbranche - Publishing And Maintaining A React Native Library</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Thibault-Malbranche-Publishing-And-Maintaining-A-React-Native-Library/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Thibault-Malbranche-Publishing-And-Maintaining-A-React-Native-Library/</id>
-    <published>2019-10-08T08:51:31.000Z</published>
-    <updated>2019-10-14T09:27:36.344Z</updated>
+    <title>It&#39;s Probably Fine, Cate Huston</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-It&#39;s-Probably-Fine-Cate-Huston/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-It&#39;s-Probably-Fine-Cate-Huston/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.246Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/LYlR0_sMFes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/RhSUKU8zg8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>What’s the difference between a functional team and a failing team? How do we make a failing team functional, and a functional team great? Let’s talk about layers of communication, why outcomes are more important than process, and how to figure out where to begin - and whether you should.</p>]]></content>
     
     <summary type="html">
     
@@ -535,13 +535,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/LYlR0_sMFes&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/RhSUKU8zg8A&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -549,13 +549,13 @@
   </entry>
   
   <entry>
-    <title>React Native EU 2019 Satyajit Sahoo &amp; Michał Osadnik- Component First Navigation In React Native</title>
-    <link href="http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Satyajit-Sahoo-and-Michal-Osadnik-Component-First-Navigation-In-React-Native/"/>
-    <id>http://learntalks.com/React-Native-EU/2019/React-Native-EU-2019-React-Native-EU-2019-Satyajit-Sahoo-and-Michal-Osadnik-Component-First-Navigation-In-React-Native/</id>
-    <published>2019-10-08T08:40:42.000Z</published>
-    <updated>2019-10-14T09:27:36.343Z</updated>
+    <title>Let&#39;s Play With Bitcoin Cash Using Swift, Jean-Baptiste Dominguez</title>
+    <link href="http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Let&#39;s-Play-With-Bitcoin-Cash-Using-Swift-Jean-Baptiste-Dominguez/"/>
+    <id>http://learntalks.com/try-Swift-New-York/2019/try!-Swift-New-York-2019-Let&#39;s-Play-With-Bitcoin-Cash-Using-Swift-Jean-Baptiste-Dominguez/</id>
+    <published>2019-10-22T13:19:27.000Z</published>
+    <updated>2019-10-28T14:35:57.246Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/eUcIe19H-Yk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/uwMSLT7KLD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Bitcoin Cash is known as a crypto currency but at first it’s a blockchain that allows you to make instant and cheap transactions between multiple parties around the world. I would love to share you what is Bitcoin Cash and how to play with on Swift. During our workshop, I expect you to build your first transaction on the Blockchain! What do you think of writing a permanent message on the Bitcoin Cash Blockchain? I hope you will enjoy this great technology and start building a bunch of apps!</p>]]></content>
     
     <summary type="html">
     
@@ -563,13 +563,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/eUcIe19H-Yk&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/uwMSLT7KLD4&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="React Native EU" scheme="http://learntalks.com/categories/React-Native-EU/"/>
+      <category term="try! Swift New York" scheme="http://learntalks.com/categories/try-Swift-New-York/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
