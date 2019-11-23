@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://learntalks.com/"/>
-  <updated>2019-11-14T20:08:17.102Z</updated>
+  <updated>2019-11-23T21:01:19.444Z</updated>
   <id>http://learntalks.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Pragma Conference 2019 - Tim Condon - Full Stack Development with Swift and Vapor</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Tim-Condon-Full-Stack-Development-with-Swift-and-Vapor/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Tim-Condon-Full-Stack-Development-with-Swift-and-Vapor/</id>
-    <published>2019-11-14T15:33:50.000Z</published>
-    <updated>2019-11-14T20:08:17.102Z</updated>
+    <title>Dmitriy Bryokhin Crossplatform TV Streaming Apps development with React Native Web at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Dmitriy-Bryokhin-Crossplatform-TV-Streaming-Apps-development-with-React-Native-Web-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Dmitriy-Bryokhin-Crossplatform-TV-Streaming-Apps-development-with-React-Native-Web-at-Mobile-Era/</id>
+    <published>2019-11-22T08:12:09.000Z</published>
+    <updated>2019-11-23T21:01:19.444Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/6xN0iWAEzQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>In this talk you’ll learn why Swift can be considered as a real contender for developing on the server. We’ll discuss the benefits of Vapor 4 and server-side Swift. In a live demo we’ll build an application to show how easy it is to use Vapor. Finally in the demo, you’ll see how to share code between iOS and your Vapor application.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/zYr8vOsNlE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>In Norigin Media we are developing TV Streaming Apps for all relevant platforms (pretty much everything where it is possible to stream videos). After many years of doing these kind of Apps we’ve tried to find common patterns between different Players, UX patterns for TV Apps, Tracking/Analytics systems and other common issues that we had to deal with over and over again. We abstracted and isolated many of them into a small reusable and replaceable modules and built an in-house ecosystem that allows us to improve our crossplatform development process and make developers’ lives easier. We care a lot about Developer Experience, which is the main motivation for us to build such a tools and solutions.</p><p>About the speaker<br>I am a Frontend Engineer at Norigin Media, working on crossplatform TV Streaming Apps and in-house SDK components. We are using React Native approach to keep as much reusable code as possible between mobile and web platforms. We also care a lot about Developer Experience and building in-house tools to make our lives easier and make the work process enjoyable.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -31,13 +31,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/6xN0iWAEzQM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/zYr8vOsNlE4&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -45,13 +45,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Mattt - &quot;Engineering best practices, mi fan un baffo!&quot;</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Mattt-Engineering-best-practices-mi-fan-un-baffo!/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Mattt-Engineering-best-practices-mi-fan-un-baffo!/</id>
-    <published>2019-11-14T15:33:50.000Z</published>
-    <updated>2019-11-14T20:08:17.101Z</updated>
+    <title>Doug Sillars Using AI to Power Your Images at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Doug-Sillars-Using-AI-to-Power-Your-Images-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Doug-Sillars-Using-AI-to-Power-Your-Images-at-Mobile-Era/</id>
+    <published>2019-11-22T08:11:32.000Z</published>
+    <updated>2019-11-23T21:01:19.444Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/_MuDpBfuVOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragmaconf_2019_-_mi_fan_un_baffo.pdf" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragmaconf_2019_-_mi_fan_un_baffo.pdf</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/J7wQ8n60JJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Optimizing image content for every browser and device size can be difficult. Random cropping of images can lead to losing context and features (sometimes as extreme as lopping off the heads of your subjects). In this talk it will be presented how AI can be used to identify the important content in each image, allowing for smart cropping of images. This allows to optimize images further than perviously possible, shrinking page size, and speeding up page load times.</p><p>About the speaker<br>Doug is is a freelance mobile performance expert, having helped thousands of developers speed up their mobile apps and websites. A Google Developer Expert and the author of O’Reilly’s “High Performance Android Apps,” Doug regularly speaks at conferences, and blogs at dougsillars.com. He is currently working as a freelance digital nomad, traveling with his family in Europe.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -59,13 +59,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/_MuDpBfuVOw&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/J7wQ8n60JJo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -73,13 +73,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Lea Marolt Sonnenschein - Mobile &amp;&amp; Me == It&#39;s Complicated</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Lea-Marolt-Sonnenschein-Mobile-andand-Me-It&#39;s-Complicated/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Lea-Marolt-Sonnenschein-Mobile-andand-Me-It&#39;s-Complicated/</id>
-    <published>2019-11-14T15:33:50.000Z</published>
-    <updated>2019-11-14T20:08:17.101Z</updated>
+    <title>Building a thriving apps culture - Elvis Nunez</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Building-a-thriving-apps-culture-Elvis-Nunez/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Building-a-thriving-apps-culture-Elvis-Nunez/</id>
+    <published>2019-11-22T08:10:59.000Z</published>
+    <updated>2019-11-23T21:01:19.443Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/pYgi0vdPJAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>This talk shares my personal perspective on the evolution of mobile app development and what it means for us—the makers—and them—the users. It highlights my journey from an enthusiastic mobile app explorer, to a disillusioned iOS developer, to a design engineer that is now cautiously optimistic and, yet again, excited about the future of mobile. As mobile and software developers of all kinds, we can dramatically influence people’s lives, but it’s crucial that we use our abilities to empower, rather than overpower our users.</p><p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conf_2019_lea_marolt.pdf" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conf_2019_lea_marolt.pdf</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/GzLzIxpnqOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>It’s not news that it’s easier for companies to stick to their web cultures and dismiss the fact that we are past the chapter of “the future is mobile”, mobile is the present and it’s here to stay. Working as a mobile developer brings different challenges for different people, coming to a web-centric company ready to leave your mark has its challenges. In this Keynote, Elvis Nuñez will navigate through his experiences in building what is today one of the most respected mobile teams in Norway, his background, his initiatives and struggles, as well as how can you bring this change with you at your workplace.</p><p>About the speaker<br>Elvis Nuñez has an extensive background in Software Engineering and Graphic Design. He cares deeply about architecting software in a way that can be easy to maintain and evolves in an organic way. He’s been creating solutions for all kinds of businesses. As a developer, he’s developed apps that are being used by millions of people and have been in the Top 10 of their categories around the world. He has released more than 70 libraries, which made him one of the most active library maintainers in the mobile community. His libraries are used by thousands of apps on the App Store, saving countless of developers ours in designing systems, testing, documenting and maintenance. Also, he was the main force towards creating what is now (with over 22 000 stars) one of the top 10 most starred Swift teams in the world in GitHub: @hyperoslo. Today, he works as Engineering Manager in the most loved company in Norway, where with a group of apps obsessed designers and developers they are improving the way people buy and sell things.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -87,13 +87,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/pYgi0vdPJAU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/GzLzIxpnqOA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -101,13 +101,13 @@
   </entry>
   
   <entry>
-    <title>Dario Carlomagno - How we made QA’s life’s easier by providing builds conversing with a slack-bot</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Dario-Carlomagno-How-we-made-QAs-lifes-easier-by-providing-builds-conversing-with-a-slack-bot/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Dario-Carlomagno-How-we-made-QAs-lifes-easier-by-providing-builds-conversing-with-a-slack-bot/</id>
-    <published>2019-11-14T11:45:21.000Z</published>
-    <updated>2019-11-14T20:08:17.099Z</updated>
+    <title>Lev Vidrak &amp; Sergey Ilyevsky Mobile Scale with React Native at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Lev-Vidrak-and-Sergey-Ilyevsky-Mobile-Scale-with-React-Native-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Lev-Vidrak-and-Sergey-Ilyevsky-Mobile-Scale-with-React-Native-at-Mobile-Era/</id>
+    <published>2019-11-22T08:10:17.000Z</published>
+    <updated>2019-11-23T21:01:19.447Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/NlQqJpJdAEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><h2 id="In-our-company-we’re-licensing-our-product-to-several-clients-and-the-approach-we-have-with-them-might-vary-based-on-the-needs-of-the-individuals-…"><a href="#In-our-company-we’re-licensing-our-product-to-several-clients-and-the-approach-we-have-with-them-might-vary-based-on-the-needs-of-the-individuals-…" class="headerlink" title="In our company, we’re licensing our product to several clients and the approach we have with them might vary based on the needs of the individuals […]"></a>In our company, we’re licensing our product to several clients and the approach we have with them might vary based on the needs of the individuals […]</h2><p>How we did it</p><p>We got some knowledge about Fastlane (link fastlane) and internally we have a robust team of devops which likes automate stuff with Jenkins.<br>On a first instance we dreamt to get the world and automate all the things (appropriate meme).</p><h2 id="Then-we’ve-realised-that-considering-the-amount-of-client-that-we-had-at-that-time-plus-the-possibility-to-grow-in-terms-of-numbers-of-clients-it-would-have-been-better-to-start-with-little-objectives-…"><a href="#Then-we’ve-realised-that-considering-the-amount-of-client-that-we-had-at-that-time-plus-the-possibility-to-grow-in-terms-of-numbers-of-clients-it-would-have-been-better-to-start-with-little-objectives-…" class="headerlink" title="Then we’ve realised that considering the amount of client that we had at that time (plus the possibility to grow in terms of numbers of clients) it would have been better to start with little objectives. […]"></a>Then we’ve realised that considering the amount of client that we had at that time (plus the possibility to grow in terms of numbers of clients) it would have been better to start with little objectives. […]</h2><p>Here comes the interesting part…</p><p>Internally, for texting about work, planning afterwork 🍻, sending nice memes, we use Slack (link to slack) (noooo really? 😂) and for us it’s the most used software after each specific one per component.</p><h2 id="Then-I-ran-into-a-quite-interesting-Slack-Bot-…"><a href="#Then-I-ran-into-a-quite-interesting-Slack-Bot-…" class="headerlink" title="Then I ran into a quite interesting Slack Bot […]"></a>Then I ran into a quite interesting Slack Bot […]</h2><p>What tools have we involved in</p><ul><li>Fastlane</li><li>Jenkins</li><li>Corebot</li><li>Docker (dependency in order to run a instance of the bot)</li><li>Ngrock to get Jenkins accessible from outside (for the docker’s bot’s instance)</li><li>.env methodology</li><li>Slack</li><li>a spare macbook (possibly Pro)</li><li>remote control / VNC (to get access from remote and check </li><li>🍻</li><li>🍔🍕</li><li>🚀</li></ul><hr><p>How much time did we save by developing it</p><p>Hard to say, but I’ll make this point.<br>Given the process we have, every single ticket that needs to be tested, needs a build to be deployed to certain environment for a dedicated client (maybe two in some cases).<br>Previously, for every single ticket, we had to follow the steps written above.<br>So you can imagine…</p><p>Now:</p><ul><li>A build can be triggered directly from a QA guy by sending a message to the Slack bot</li><li>Builds can be queued so there’s no need to wait one to finish before launching another one</li></ul><p>I’d say - previously for each ticket, to follow those steps, we were taking from 30 mins up to 1 hour (depending on the complexity of the ticket and the number of client to test against).<br>Now? 😆<br>From 0 to 2 mins - just the time for a good Italian ☕️<br>If something goes wrong, we’ll inspect what went wrong into the Jenkins build - but it’s just an isolated case.</p><p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_dario_carlomagno.pdf" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_dario_carlomagno.pdf</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/-vzwFcKwPiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Wix Mobile Application built with React Native, a cross-platform framework, allowing developers to compose mobile apps using JavaScript in a declarative way. At Wix.com we are building our mobile app with React Native from the first commit almost three years ago. Today, we are ~70 mobile developers, from 15 different teams, writing code that is integrated into one application, with the ability to release a new version to stores every day.</p><p>About speakers<br>Lev has been a software engineer for the last 7 years, focusing on mobile development and working on various projects. Today, he is leading Wix’s mobile guild-masters team.</p><p>Sergey is a software engineer with much of his experience in iOS. He currently leads the mobile infrastructure team at Wix, which works on a platform and tools for stable and efficient development of Wix mobile app.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -115,13 +115,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/NlQqJpJdAEE&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/-vzwFcKwPiA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -129,13 +129,13 @@
   </entry>
   
   <entry>
-    <title>Matteo Rattotti, Kostantin Erokhin - KISS AKA Keep It Simple, Soyoucancomplicateitlater</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Matteo-Rattotti-Kostantin-Erokhin-KISS-AKA-Keep-It-Simple-Soyoucancomplicateitlater/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Matteo-Rattotti-Kostantin-Erokhin-KISS-AKA-Keep-It-Simple-Soyoucancomplicateitlater/</id>
-    <published>2019-11-14T11:45:21.000Z</published>
-    <updated>2019-11-14T20:08:17.099Z</updated>
+    <title>Abraham Williams Flutter all the things! at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Abraham-Williams-Flutter-all-the-things!-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Abraham-Williams-Flutter-all-the-things!-at-Mobile-Era/</id>
+    <published>2019-11-22T08:09:32.000Z</published>
+    <updated>2019-11-23T21:01:19.443Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Dg1T_Wmq8Xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>One developer loves to build new tools, another thinks we waste time reinventing the wheel. They’ll argue it out in this panel and cover some of the many shiny wheels that are already available to us.</p><p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_KISS.key" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_KISS.key</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/vNgyK4Wuayg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Developer teams have long dreamed of a single codebase to rule them all. With Flutter we finally we have a solution that delivers. Flutter allows you to build beautiful, native applications for mobile, web, and desktop without sacrificing user experience. Learn how Flutter for Web works and why you should use it for your next app.</p><p>About the speaker<br>An experienced developer, start-up founder, and international speaker, Abraham Williams brings a broad range of skills to his current role as a senior developer at Bendyworks. A top 1% contributor at Stack Overflow and an active member of Google Developer Groups, Abraham has been recognized by Google as a Developer Expert for his ability to identify technology problems and provide quality solutions in the community.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -143,13 +143,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/Dg1T_Wmq8Xo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/vNgyK4Wuayg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -157,13 +157,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Paul Hudson - SwiftUI Everywhere</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Paul-Hudson-SwiftUI-Everywhere/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Paul-Hudson-SwiftUI-Everywhere/</id>
-    <published>2019-11-14T11:45:21.000Z</published>
-    <updated>2019-11-14T20:08:17.102Z</updated>
+    <title>Sergei Vasilinetc Making a library (AndroidX) at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Sergei-Vasilinetc-Making-a-library-AndroidX-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Sergei-Vasilinetc-Making-a-library-AndroidX-at-Mobile-Era/</id>
+    <published>2019-11-22T08:08:54.000Z</published>
+    <updated>2019-11-23T21:01:19.449Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/iODbwD5QfrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>It only takes a few minutes to build an app using SwiftUI, but how long does it take to make that same app work great on Apple’s other platforms? This talk will go over key concepts to make sure your app looks and works great everywhere, then apply those concepts to a real project so you can see it in action.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/ONNCx6883gA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>This talk is a mix of highlights of internal androidx processes and policies with general programming patterns from perspective of library development.</p><p>About the speaker<br>SWE at google. Androidx (previously support library) top-level owner</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -171,13 +171,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/iODbwD5QfrM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/ONNCx6883gA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -185,13 +185,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Rachid El Khayari - App Security Essentials</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Rachid-El-Khayari-App-Security-Essentials/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Rachid-El-Khayari-App-Security-Essentials/</id>
-    <published>2019-11-14T11:45:21.000Z</published>
-    <updated>2019-11-14T20:08:17.102Z</updated>
+    <title>Matt Soucoup Release Management Strategies for Mobile Developers at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Matt-Soucoup-Release-Management-Strategies-for-Mobile-Developers-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Matt-Soucoup-Release-Management-Strategies-for-Mobile-Developers-at-Mobile-Era/</id>
+    <published>2019-11-22T08:07:56.000Z</published>
+    <updated>2019-11-23T21:01:19.447Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/miBrJaib_Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Creating an excellent and meaningful app can be a very time consuming and exhausting task. Only if you achieve mastery in the coding, testing and debugging loop, you will be able to build a stable app, that can persist. But what about app security? Did you build and test, keeping Satan’s iPhone in mind? This talk will teach you the essentials of secure iOS app development.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/fPvfGOcUAcg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Developing the app is only part of the equation … what happens after you push your brach? It’s all of those checks and balances that need to be taken care of, DevOps is a great way to automate it all, and I would argue that mobile DevOps is the most difficult - yet important to get right. This session is very important to developers of all kinds!</p><p>About the speaker<br>Matthew Soucoup is a Senior Cloud Developer Advocate at Microsoft spreading the ❤️of integrating Azure with Xamarin. Matt is also a Pluralsight author, a Telerik Developer Expert and prior to joining Microsoft a founder of a successful consulting firm targeting .NET and web development. Matt loves sharing his passion and insight for mobile and cloud development by blogging, writing articles, and presenting at conferences such as Microsoft Build, NDC Sydney, Xamarin Evolve, and CodeMash. When not behind a computer screen, Matt gardens hot peppers, rides bikes, and loves Wisconsin micro-brews and cheese. Follow Matt on Twitter at @codemillmatt and his personal blog at codemillmatt.com.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -199,13 +199,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/miBrJaib_Kc&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/fPvfGOcUAcg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -213,13 +213,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Andrea Baldon - Learning CoreML with fun</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Andrea-Baldon-Learning-CoreML-with-fun/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Andrea-Baldon-Learning-CoreML-with-fun/</id>
-    <published>2019-11-14T11:45:21.000Z</published>
-    <updated>2019-11-14T20:08:17.100Z</updated>
+    <title>Benedicte Raae A privacy first period tracker? Is it even possible? at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Benedicte-Raae-A-privacy-first-period-tracker-Is-it-even-possible-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Benedicte-Raae-A-privacy-first-period-tracker-Is-it-even-possible-at-Mobile-Era/</id>
+    <published>2019-11-22T08:07:19.000Z</published>
+    <updated>2019-11-23T21:01:19.443Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Eec0t5LP-jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Making an object detector model to recognize the most famous pumbler on the earth and his friends. From scratch to 100% working CoreML Object Detector model with TuriCreate, Annotation Tools and Python.</p><p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/Pragma_conference_2019_Andrea_Baldon_Learning_coreml_with_fun.key" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/Pragma_conference_2019_Andrea_Baldon_Learning_coreml_with_fun.key</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/n9LHb37AkHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Do I want to track my cycles? Yes Do I want the tracker to push my data to a third party? Hell NO Do I want the data lying around unencrypted in a database somewhere? Not really Do I want backup and access from multiple devices? Kinda. Learn why this important beyond my personal preferences and how encryption can solve many of the privacy challenges we are experiencing in the current app economy. All this from a crypto n00b.</p><p>About the speaker<br>Benedicte Raae is an independent contractor, working as a full-stack developer. With a developer mom, she had free access to the Internet from an early age, but it was actually her Norwegian teacher that introduced her to HTML in 1997. Since then, she has created countless apps, services, and sites. Both for fun and profit.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -227,13 +227,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/Eec0t5LP-jw&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/n9LHb37AkHM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -241,13 +241,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Janina Kutyn - Building an App for every iOS Device and Beyond</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Janina-Kutyn-Building-an-App-for-every-iOS-Device-and-Beyond/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Janina-Kutyn-Building-an-App-for-every-iOS-Device-and-Beyond/</id>
-    <published>2019-11-14T11:45:21.000Z</published>
-    <updated>2019-11-14T20:08:17.100Z</updated>
+    <title>Justin Anderson Unifying Web, iOS, and Android at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Justin-Anderson-Unifying-Web-iOS-and-Android-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Justin-Anderson-Unifying-Web-iOS-and-Android-at-Mobile-Era/</id>
+    <published>2019-11-22T08:06:35.000Z</published>
+    <updated>2019-11-23T21:01:19.446Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/SS9MTkCxj28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>In the good old days we only had two screen sizes to worry about: 320x480 for the iPhone and 1024x768 for the iPad. But modern apps have to look good on every screen from iPhone SE to iPad Pro. Let’s discuss some approaches for making the most of the screen real estate of any iOS device, and extending it to macOS using Mac Catalyst.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/2Er_2IEvpBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>My team maintains video data libraries that we use to instrument video playback in the major Twitter clients (iOS, Android, and Web). Those libraries are written natively, but follow the same logic and design patterns across all three. We’re interested in trying to figure out the feasibility of doing a “write once, run everywhere” solution where we implement the logic once and then either transpile or run in an interpreter that library on each client. We looked into using JavaScript, Kotlin, C++, and Rust, each one has their advantages and disadvantages. In my talk, I will run through the advantages and disadvantages of each of these languages. Being at the scale Twitter has its own unique challenges, such as sensitivity to app startup time, size, and responsiveness, that we needed to factor into our decisions of language. This is a project we haven’t started working on yet, but we are playing on starting it between now and the conference.</p><p>About the speaker<br>Justin does mainly iOS at Twitter. He has been doing iOS development for 6 years, and dabble in Web, Backend, and Android.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -255,13 +255,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/SS9MTkCxj28&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/2Er_2IEvpBc&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -269,13 +269,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - John Sundell - The Developer Journey</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-John-Sundell-The-Developer-Journey/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-John-Sundell-The-Developer-Journey/</id>
-    <published>2019-11-14T11:45:21.000Z</published>
-    <updated>2019-11-14T20:08:17.101Z</updated>
+    <title>Sirar Salih Automating Tinder in the Cloud and the day I broke Tinder... by accident at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Sirar-Salih-Automating-Tinder-in-the-Cloud-and-the-day-I-broke-Tinder...-by-accident-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Sirar-Salih-Automating-Tinder-in-the-Cloud-and-the-day-I-broke-Tinder...-by-accident-at-Mobile-Era/</id>
+    <published>2019-11-22T08:05:39.000Z</published>
+    <updated>2019-11-23T21:01:19.449Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/b5IFgHc2pno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>One of the most exciting things about being a developer is that there’s constantly new techniques, patterns, tools and technologies to explore and learn. However, finding the time for all of that learning and experimentation can be quite challenging, and sometimes it can feel like we’re constantly struggling to catch up with all of the industry’s rapid changes.</p><p>During this talk, John will talk about the many different journeys that we can take as developers, how he decides what to focus on, and how we continues to evolve his own personal career by learning new tools and skills. You can look forward to lots of tips, learnings, and inspiration in this year’s opening keynote.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/xjUA7B03wX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>It was a cold day in December of 2018, I was sitting with my developer friends at a local pub in Oslo. Inspired by our conversations, I got the idea to finally fix the “Tinder problem”. We’re all so tired of swiping, it’s about time we automated this thing!</p><p>Never did I imagine what I’d get myself into, the intrigues and the drama that would follow. Sure, investigating the Tinder API was easy enough. Sure, building an Azure function and deploying it to the cloud to fully automate Tinder was not a big deal. But finding exposed personal information from the Tinder API, a security threat in the OAuth 2.0 protocol and eventually getting my account locked by Facebook?! Taking down Tinder by accident and seeing this event unfold all over the media?!</p><p>Never did I imagine I’d have so much fun and learn so much along the way, building my automated Tinder cloud app.</p><p>Sit back, relax and come watch my talk. You’re in for a wild ride!</p><p>About the speaker<br>Sirar Salih is CTO with primary focus on Azure initiatives at Itera and a Microsoft Azure MVP. He is a very active speaker and community organizer, organizing meetups for the Azure User Group Norway and the Norwegian .NET User Group Oslo. Sirar loves sharing knowledge and has experience from speaking at international conferences such as Build Stuff, the Norwegian Developers Conference and JavaZone. He also contributes to the open source community by blogging at: <a href="https://sirarsalih.com" target="_blank" rel="noopener">https://sirarsalih.com</a>.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -283,13 +283,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/b5IFgHc2pno&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/xjUA7B03wX0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -297,13 +297,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Michael Flarup - Making the most of it</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Michael-Flarup-Making-the-most-of-it/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Michael-Flarup-Making-the-most-of-it/</id>
-    <published>2019-11-14T10:06:12.000Z</published>
-    <updated>2019-11-14T20:08:17.102Z</updated>
+    <title>Renu Yadav Android Studio Right swipe this profile at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Renu-Yadav-Android-Studio-Right-swipe-this-profile-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Renu-Yadav-Android-Studio-Right-swipe-this-profile-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.448Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/WrVqkfE4pbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>I have been accused of being an alien.</p><p>Between freelancing as a designer, running a game studio, a resource platform, a co-working space and a seemingly never ending supply of side projects I am also a father of two. I travel and give talks. I write and make videos and I lead small teams to produce apps, games and services. Through all of this, I have managed to fuel a high creative output with a long string of things I’ve made, either by myself or with other people. Do that for long enough with a high enough frequency and people will start to believe you’re from another planet. The truth is that everyone can do this with the right tools, the right mindset and the right process.</p><p>This is a talk about productivity and being a human. About staying sane in a world with a lot of things to be done and how you can become a master maker.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/LL0CwbUIe8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Profiling can help us recognising the root causes which leads to bad ratings on play store , users dropping out of app and poor performance. Profiler have always been the hidden tool, which we often neglect and then wonder why do we have lower app ratings. This talk will let people take away learnings about the awareness of when your app is doing the right or wrong and how to take necessary steps Along with a case study of how exactly we used profiling to increase our crash free sessions.</p><p>About the speaker<br>Renu has been an active community server. Sharing her knowledge is the best way to give back in the society. Constantly encouraging other women in tech. being a leader of Women Who Code, doing workshops and meeetups for Coding Girls (<a href="http://codinggirls.sg/" target="_blank" rel="noopener">http://codinggirls.sg/</a>). An active participant of sharing and learning in conferences like (AppDevCon , AppsConf, googleIO, Google IO extended, GDG groups). Have been learning Android for past 5+ years and currently serving South East Asia people with a safe and smooth Grab Ride.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -311,13 +311,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/WrVqkfE4pbk&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/LL0CwbUIe8I&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -325,13 +325,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Jeff Watkins - I was wrong. I’m so sorry.</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Jeff-Watkins-I-was-wrong.-Im-so-sorry./"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Jeff-Watkins-I-was-wrong.-Im-so-sorry./</id>
-    <published>2019-11-13T07:41:56.000Z</published>
-    <updated>2019-11-14T20:08:17.100Z</updated>
+    <title>Rebecca Franks Tips for Building Custom Views on Android with Canvas APIs at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Rebecca-Franks-Tips-for-Building-Custom-Views-on-Android-with-Canvas-APIs-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Rebecca-Franks-Tips-for-Building-Custom-Views-on-Android-with-Canvas-APIs-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.448Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/JFtn5wK-1iI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>In the long term nearly every decision we make will turn out to be wrong. Let’s revisit some architectural decisions which turned out to be catastrophically wrong. Along the way we’ll cover a new, better way to architect our applications, but also how to manage change upward in our organisations.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/M6vZYSlhmfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Have you ever wanted to draw something custom beyond the standard views like a Bar Chart or an Advanced Image Viewer? In this talk, we will cover the basics of drawing onto a Canvas to create your own custom view. We will also cover some of the more advanced things you can do with the Canvas, such as using Shaders and Matrices to achieve magical effects.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -339,13 +339,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/JFtn5wK-1iI&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/M6vZYSlhmfs&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -353,13 +353,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Jeroen Bakker - Developing an app with DiffableDataSource</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Jeroen-Bakker-Developing-an-app-with-DiffableDataSource/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Jeroen-Bakker-Developing-an-app-with-DiffableDataSource/</id>
-    <published>2019-11-13T07:41:21.000Z</published>
-    <updated>2019-11-14T20:08:17.100Z</updated>
+    <title>Rebecca Franks In a World of Pure Android Animation 🍭🍫 at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Rebecca-Franks-In-a-World-of-Pure-Android-Animation-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Rebecca-Franks-In-a-World-of-Pure-Android-Animation-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.448Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/aP0FGcr4XdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>During WWDC’19, the new DiffableDataSource was announced for collection- and tableviews, which introduced a complete new way to implement data source in your app. This talk will cover how you can update your app to use this new datasource.</p><p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conf_2019_diffableDataSource.pdf" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conf_2019_diffableDataSource.pdf</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/rBa9SSW7GWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Have you dreamed of deliciously sweet animations in your app but have no idea where to start? 🍫 What about creating some delightful UI treats to keep your users intrigued and wanting to discover more? 🍦 Join Rebecca on this journey into a World of Pure Android Animation ✨. From creating custom view animations on a Canvas to using MotionLayout to create complex layout animations, there is something for everyone. We will also see how to create your own AnimatedVectorDrawable using Shape Shifter. No golden ticket required</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -367,13 +367,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/aP0FGcr4XdU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/rBa9SSW7GWc&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -381,13 +381,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Aleksandra Komagorkina - “Green” development is it even a thing?</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Aleksandra-Komagorkina-Green-development-is-it-even-a-thing/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Aleksandra-Komagorkina-Green-development-is-it-even-a-thing/</id>
-    <published>2019-11-13T07:40:52.000Z</published>
-    <updated>2019-11-14T20:08:17.099Z</updated>
+    <title>Jelena Spocova How we quality control Android applications at NRK TV at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Jelena-Spocova-How-we-quality-control-Android-applications-at-NRK-TV-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Jelena-Spocova-How-we-quality-control-Android-applications-at-NRK-TV-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.446Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/alSkj8LuYq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Reusable cups and bamboo straws are nice, but did you ever think your app’s performance could affect the environment even more? This talk is summarising my research on developing energy efficient and offline-first apps to reduce carbon and energy footprints via Xcode 11 Instruments and other tools.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/NeoZ-lI-w0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Maintaining a high level of quality for an Android application can be quite a challenge given the large array of operating systems, device types and screen sizes available.This is compounded as the application grows in complexity. As with any system, it’s important to maintain good Unit &amp; Integration test coverage - and this is usually not too difficult. UI and System tests, however, can be non-trivial when taking into consideration the multitudes of available frameworks. In this situation, how much time do we spend evaluating each framework? How much time do we spend developing and integrating them into our CI flow, and how do we make sure we get value from doing so? In this talk, I will be showing how we have gone through this process for both the Android, and AndroidTV applications for NRKTV. I will mention which frameworks we use and why, where and when we run these tests, and what value this has given us. Hopefully, this can inspire others to invest time and energy to try and achieve a similar level of quality control in their applications.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -395,13 +395,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/alSkj8LuYq0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/NeoZ-lI-w0Y&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -409,13 +409,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Souroush Kanlou - From Problem to Solution</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Souroush-Kanlou-From-Problem-to-Solution/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Souroush-Kanlou-From-Problem-to-Solution/</id>
-    <published>2019-11-13T07:22:37.000Z</published>
-    <updated>2019-11-14T20:08:17.102Z</updated>
+    <title>Ellie Shin No Strings Attached at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Ellie-Shin-No-Strings-Attached-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Ellie-Shin-No-Strings-Attached-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.444Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/H9XBua2jeaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Soroush Khanlou will discuss abstraction — what it is, and what it isn’t. He’ll define a language that we can use to discuss abstraction, and we’ll step through the process of building one. How do we build an abstraction from code that isn’t abstract? What qualities are we looking for in our abstractions? How do we make good code out of bad?</p><p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/Pragma_conference_2019_Soroush_Khanlou_From_problem_to_solution.pdf" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/Pragma_conference_2019_Soroush_Khanlou_From_problem_to_solution.pdf</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/2DKnyda2SZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Swift String is one of the most commonly used fundamental types in the Swift standard library, but it has pitfalls that are easily overlooked. At Uber, we work with multiple apps that are deployed in multiple markets and localized in over 50 languages, which rely heavily on correctness and safety of String. We’ve also built multiple code generators and other developer tools that involve a large amount of String processing, and thus String performance can have a huge impact. This talk will discuss various scenarios where we encountered pitfalls of Swift Strings, and the methods we used to resolve challenges from both the correctness and performance perspectives. It will also cover what you can do for your apps or tools to safeguard and optimize if you use Strings a lot.</p><p>About the speaker<br>Ellie is a senior iOS Engineer at Uber on the mobile platform team. She has worked on building Uber’s rider app and tools including code generators. She cares deeply about optimizing iOS apps and frameworks at scale. She has previously worked at Spotify and Microsoft among other companies, primarily on iOS. She has given talks at UIKonf, NSSpain, and other conferences, on iOS app binary size optimization, efficient code generation, and Swift String performance.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -423,13 +423,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/H9XBua2jeaU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/2DKnyda2SZE&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -437,13 +437,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Kate Castellano - How to raise a template</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Kate-Castellano-How-to-raise-a-template/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Kate-Castellano-How-to-raise-a-template/</id>
-    <published>2019-11-13T07:13:37.000Z</published>
-    <updated>2019-11-14T20:08:17.101Z</updated>
+    <title>Teodor Elstad Making the pixels dance at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Teodor-Elstad-Making-the-pixels-dance-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Teodor-Elstad-Making-the-pixels-dance-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.449Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/e7-HnYSMBhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>On the first edition of the Backend Driven UI talk (initially named “What to expect when you are templating”) Kate explained the approach taken and the challenges faced by the iOS Team at Clue when implementing a templating system to dynamically render UI Components assembled and delivered by the Backend.  Now, on “How to raise a Template” she will talk more in depth about how the team managed to make architectural decisions to enhance the functionality of their component into a tool that can be used by several departments.</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Eur8M2n0Pkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Playing around with shaders can be a creative and satisfying way to explore visual programming, and with WebGL being supported on most mobile and desktop browsers, it’s more accessible than ever. Still, writing shaders might seem intimidating at first glance. What is this strange GLSL-language, and why does all the examples resemble a badly formatted math paper? Let’s take a quick dive into shader programming, and get familiar with the basics of fragment shaders, how to create more or less planned effects, and how to use audio to breath life into simple visualizations. Although shaders might take a lifetime to master, there’s plenty of room for casual exploration and happy accidents for those of us just starting out.</p><p>About the speaker<br>Teodor works at Computas, where he’s currently busy telling everybody that Charles Moore ran a very successful consulting firm using Forth, among other things. He’s passionate about programming as an creative process, and he strongly believe that fun fosters innovation. When he’s not coding for hire, he enjoys making programs that run for a while and only makes the machine hot. In the future he hopes to eliminate this unfortunate side-effect as well.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -451,13 +451,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/e7-HnYSMBhY&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/Eur8M2n0Pkc&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -465,13 +465,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Maciej Piotrowski - Code Archeology</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Maciej-Piotrowski-Code-Archeology/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Maciej-Piotrowski-Code-Archeology/</id>
-    <published>2019-11-13T07:11:08.000Z</published>
-    <updated>2019-11-14T20:08:17.101Z</updated>
+    <title>Kristaps Grinbergs How to tame Core Animation at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Kristaps-Grinbergs-How-to-tame-Core-Animation-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Kristaps-Grinbergs-How-to-tame-Core-Animation-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.446Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/U1YHtDFxid8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>“Engineers love to work with the newest technologies introduced at WWDC. In reality,when you start a new job and dive into an existing project, changing a line written by someone else can break things. The Talk is about dealing with legacy code and not being scared by files which are 8000 lines long.</p><p>When Apple announces a new framework at WWDC it is welcomed with tremendous applause. <code>Core ML</code> or <code>ARKit</code> were and still are what many developers crave to try out in their projects. On a daily basis, we engineers may encounter slightly <strong>different problems</strong>.</p><p>Many of us work with the code that somebody has written in the past. Due to our limited perception and limited ability to predict the actual execution of a program after changing a line of code, we don’t know what the ripple effect of the change will be. Sometimes you need to do an <strong>archaeological dig</strong> on the codebase to understand how the code works. If you find a Chinese vase from Ming dynasty you don’t want to break it. The same applies to the application you work on.<br>This talk will be about the importance of writing <strong>unit tests</strong> when there are none for <strong>legacy codebases</strong>. Unit tests help preserve the artifacts discovered during an archaeological dig through the code. I will present a <strong>TDD</strong> approach to building new features on top of the legacy code. I will share tips and tricks related to refactoring and dealing with problems I have experienced when working in multi-language project that uses <strong>Objective-C</strong>, <strong>Objective-C++</strong> and <strong>Swift</strong> on top of that.”</p><p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019-code_archeology.pdf" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019-code_archeology.pdf</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/x1dKG_7eke4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Core Animation is a wild animal - powerful and beautiful but hard to familiarize and tame. Yet, when you befriend this animal, you can do great things with app visuals. Here’s my story on creating a powerful animation for Apple devices in Swift with lots of experiments, limit testing and some math.</p><p>About the speaker<br>Co-Founder, Swift developer at Qminder. Passionate about mobile applications and open source. 14+ years’ worth of experience in programming, Bachelors and Masters in Computer Science. Currently leading mobile development for the easiest waiting line management system in the world — Qminder. Involved in open source by maintaining libraries and contributing to Swift Weekly Brief.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -479,13 +479,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/U1YHtDFxid8&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/x1dKG_7eke4&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -493,13 +493,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Aleksandar Vacić - SwiftUI for UIKit developers</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Aleksandar-Vacic-SwiftUI-for-UIKit-developers/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Aleksandar-Vacic-SwiftUI-for-UIKit-developers/</id>
-    <published>2019-11-13T07:04:49.000Z</published>
-    <updated>2019-11-14T20:08:17.099Z</updated>
+    <title>Oussama Ben Wafi Modular Architecture on Android at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Oussama-Ben-Wafi-Modular-Architecture-on-Android-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Oussama-Ben-Wafi-Modular-Architecture-on-Android-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.448Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/xgya_xBlYRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>SwiftUI concepts are very different from what we used to know. In this talk, you’ll hear explanation of those major concepts from UIKit angle, which will help you understand this brave new world.</p><p>SwiftUI is not based on MVC anymore since C &amp; V are removed from developer’s control. There is no way to directly initiate screen redraw or re-layout. All of that is moved away from developer’s reach and the only thing we need to care about is how to manage our own data. </p><p>Implementation of data flow in SwiftUI is a wild combination of global singleton references injected into declarative view hierarchy, among other things. Learn, among other things, how <code>@EnvironmentObject var customer: Customer</code> is nothing more than <code>Environment.shared.customer</code>. </p><p>Re-implementing these concepts using technology and techniques we do know, as UIKit developers, will help to internalize the way SwiftUI works.</p><p>Slides: <a href="https://github.com/pragmamark/pragmaconf19" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19</a></p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/gkyX-30vpCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>As the mobile app grows, the codebase gets larger and the maintainability becomes harder. One of the most adopted solutions is modular architecture.In this talk, we will walk you through the modular Android architecture, and how much efficient it is to solve this problem.Through demos and live coding we will see in details how to apply the modular architecture, then we will cover it’s pros and cons.</p><p>About the speaker<br>Oussama is an experienced Android engineer since the ages of Java and ADT. He likes the native approach for mobile development and Kotlin is his favorite programming language. He loves talking to people from around the world about anything mobile or culture.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -507,13 +507,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/xgya_xBlYRA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/gkyX-30vpCM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -521,13 +521,13 @@
   </entry>
   
   <entry>
-    <title>Pragma Conference 2019 - Daniel Steinberg - Understanding Combine</title>
-    <link href="http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Daniel-Steinberg-Understanding-Combine/"/>
-    <id>http://learntalks.com/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Daniel-Steinberg-Understanding-Combine/</id>
-    <published>2019-11-13T06:58:32.000Z</published>
-    <updated>2019-11-14T20:08:17.100Z</updated>
+    <title>Christian Falch Fluid User Interfaces in React Native at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Christian-Falch-Fluid-User-Interfaces-in-React-Native-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Christian-Falch-Fluid-User-Interfaces-in-React-Native-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.444Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/iDlCU-AdXNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Whether you are ready to go all in on SwiftUI or you prefer to stay with UIKit for now you’ll want to begin using the Combine framework in your apps. In this talk we build on your insights from working with Swift sequences such as Arrays, Dictionaries, and Sets to build an intuition about Combine. We’ll transform the way you talk about the flow of data into code. You’ll apply what we know about collections that are indexed over space to those that are indexed over time.</p><p>Slides</p>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/1q58iyGEoWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>The talk will focus on how to create fluid and dynamic user experiences using animations and transitions in React Native. It starts off with some basic principles about motion and user perception and dives deep into how to we can leverage existing libraries to make it easy to implement solutions like this in our apps. It covers topics like appear/disappear animations, transitions and changes in states, shared element transitions and transitions during navigation.</p><p>About the speaker<br>CEO/Co-founder of Fram X. Author and maintainer of the Fluid Transitions React Native npm package with over 1800 stars on GitHub, active React Native contributor, previously held talks on Mobile Era 2016, meetup organizer and speaker, long time mobile developer from back in the days where the Palm Pilot was the hot stuff.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -535,13 +535,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/iDlCU-AdXNQ&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/1q58iyGEoWQ&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="Pragma Mark" scheme="http://learntalks.com/categories/Pragma-Mark/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
@@ -549,13 +549,13 @@
   </entry>
   
   <entry>
-    <title>This is not rocket (data) science - Hervé Berenger</title>
-    <link href="http://learntalks.com/FrenchKit/2019/FrenchKit-2019-This-is-not-rocket-data-science-Herve-Berenger/"/>
-    <id>http://learntalks.com/FrenchKit/2019/FrenchKit-2019-This-is-not-rocket-data-science-Herve-Berenger/</id>
-    <published>2019-10-28T09:40:39.000Z</published>
-    <updated>2019-11-14T20:08:16.954Z</updated>
+    <title>Samuel Giddins Empowering iOS Developers at Mobile Era</title>
+    <link href="http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Samuel-Giddins-Empowering-iOS-Developers-at-Mobile-Era/"/>
+    <id>http://learntalks.com/Mobile-Era/2019/Mobile-Era-2019-Samuel-Giddins-Empowering-iOS-Developers-at-Mobile-Era/</id>
+    <published>2019-11-18T15:17:09.000Z</published>
+    <updated>2019-11-23T21:01:19.449Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/niXOISgAP8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/glaOw9VgHO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>We often think of “platform engineering” as a discipline reserved for back-end engineers, but investing in developer happiness is valuable, no matter which part of the stack they work on. As a Mobile Developer Experience engineer, it has become my job to turn “it would be nice…” into production products &amp; processes that save every iOS engineer time. From investing in CI architecture, build tools, and internal documentation, we’ll cover all the ways you can help empower your team to be productive, and turn complaints into quality-of-life improvements on a daily basis.</p><p>About the speaker<br>Samuel is a developer well-versed in the rituals of writing developer tools that occasionally work. By day, Samuel works on making the mobile developer experience at Square less arduous; by night he can be found breaking Bundler and CocoaPods. Before this whole “developer” thing, Samuel studied in the highly impractical Mathematics &amp; Economics departments at UChicago, learning subjects such as “numbers”, “social theory”, and “memes”. When not coding, Samuel is often in the kitchen, marveling at the fact that dinner smells better than it looks.</p><p>About Mobile Era<br>Mobile Era is organized by a team of enthusiasts across several technology companies in Oslo. We’re passionate about developing mobile apps and want to see a kick-ass event in Oslo for people like ourselves. The organizing committee consists of developers who are also active in organizing open events, conferences and meetups in the Oslo developer community.</p><p>Our topics: iOS / Android, Mobile web / PWA, Cross-platform / JS-to-Native, IoT / Hardware, Mobile UX / Accessibility</p><p>Follow us on:</p><p>Website: mobileera.rocks<br>Twitter: <a href="https://twitter.com/mobileeraconf" target="_blank" rel="noopener">https://twitter.com/mobileeraconf</a><br>Facebook: <a href="https://www.facebook.com/mobileeraconf/" target="_blank" rel="noopener">https://www.facebook.com/mobileeraconf/</a><br>Instagram: <a href="https://instagram.com/mobileeraconf" target="_blank" rel="noopener">https://instagram.com/mobileeraconf</a></p>]]></content>
     
     <summary type="html">
     
@@ -563,13 +563,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/niXOISgAP8I&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/glaOw9VgHO8&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="FrenchKit" scheme="http://learntalks.com/categories/FrenchKit/"/>
+      <category term="Mobile Era" scheme="http://learntalks.com/categories/Mobile-Era/"/>
     
     
       <category term="2019" scheme="http://learntalks.com/tags/2019/"/>
