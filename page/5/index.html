@@ -165,7 +165,7 @@
                 <span class="level-item has-text-grey">
                     
                     
-                    a few seconds read (About 51 words)
+                    3 minutes read (About 418 words)
                 </span>
                 
                 
@@ -174,20 +174,47 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/Pragma-Mark/2019/Pragma-Mark-2019-Matteo-Rattotti-Kostantin-Erokhin-KISS-AKA-Keep-It-Simple-Soyoucancomplicateitlater/">Matteo Rattotti, Kostantin Erokhin - KISS AKA Keep It Simple, Soyoucancomplicateitlater</a>
+                <a class="has-link-black-ter" href="/Pragma-Mark/2019/Pragma-Mark-2019-Dario-Carlomagno-How-we-made-QAs-lifes-easier-by-providing-builds-conversing-with-a-slack-bot/">Dario Carlomagno - How we made QA’s life’s easier by providing builds conversing with a slack-bot</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://www.youtube.com/embed/Dg1T_Wmq8Xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://www.youtube.com/embed/NlQqJpJdAEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>One developer loves to build new tools, another thinks we waste time reinventing the wheel. They’ll argue it out in this panel and cover some of the many shiny wheels that are already available to us.</p>
-<p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_KISS.key" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_KISS.key</a></p>
+<h2 id="In-our-company-we’re-licensing-our-product-to-several-clients-and-the-approach-we-have-with-them-might-vary-based-on-the-needs-of-the-individuals-…"><a href="#In-our-company-we’re-licensing-our-product-to-several-clients-and-the-approach-we-have-with-them-might-vary-based-on-the-needs-of-the-individuals-…" class="headerlink" title="In our company, we’re licensing our product to several clients and the approach we have with them might vary based on the needs of the individuals […]"></a>In our company, we’re licensing our product to several clients and the approach we have with them might vary based on the needs of the individuals […]</h2><p>How we did it</p>
+<p>We got some knowledge about Fastlane (link fastlane) and internally we have a robust team of devops which likes automate stuff with Jenkins.<br>On a first instance we dreamt to get the world and automate all the things (appropriate meme).</p>
+<h2 id="Then-we’ve-realised-that-considering-the-amount-of-client-that-we-had-at-that-time-plus-the-possibility-to-grow-in-terms-of-numbers-of-clients-it-would-have-been-better-to-start-with-little-objectives-…"><a href="#Then-we’ve-realised-that-considering-the-amount-of-client-that-we-had-at-that-time-plus-the-possibility-to-grow-in-terms-of-numbers-of-clients-it-would-have-been-better-to-start-with-little-objectives-…" class="headerlink" title="Then we’ve realised that considering the amount of client that we had at that time (plus the possibility to grow in terms of numbers of clients) it would have been better to start with little objectives. […]"></a>Then we’ve realised that considering the amount of client that we had at that time (plus the possibility to grow in terms of numbers of clients) it would have been better to start with little objectives. […]</h2><p>Here comes the interesting part…</p>
+<p>Internally, for texting about work, planning afterwork 🍻, sending nice memes, we use Slack (link to slack) (noooo really? 😂) and for us it’s the most used software after each specific one per component.</p>
+<h2 id="Then-I-ran-into-a-quite-interesting-Slack-Bot-…"><a href="#Then-I-ran-into-a-quite-interesting-Slack-Bot-…" class="headerlink" title="Then I ran into a quite interesting Slack Bot […]"></a>Then I ran into a quite interesting Slack Bot […]</h2><p>What tools have we involved in</p>
+<ul>
+<li>Fastlane</li>
+<li>Jenkins</li>
+<li>Corebot</li>
+<li>Docker (dependency in order to run a instance of the bot)</li>
+<li>Ngrock to get Jenkins accessible from outside (for the docker’s bot’s instance)</li>
+<li>.env methodology</li>
+<li>Slack</li>
+<li>a spare macbook (possibly Pro)</li>
+<li>remote control / VNC (to get access from remote and check </li>
+<li>🍻</li>
+<li>🍔🍕</li>
+<li>🚀</li>
+</ul>
+<hr>
+<p>How much time did we save by developing it</p>
+<p>Hard to say, but I’ll make this point.<br>Given the process we have, every single ticket that needs to be tested, needs a build to be deployed to certain environment for a dedicated client (maybe two in some cases).<br>Previously, for every single ticket, we had to follow the steps written above.<br>So you can imagine…</p>
+<p>Now:</p>
+<ul>
+<li>A build can be triggered directly from a QA guy by sending a message to the Slack bot</li>
+<li>Builds can be queued so there’s no need to wait one to finish before launching another one</li>
+</ul>
+<p>I’d say - previously for each ticket, to follow those steps, we were taking from 30 mins up to 1 hour (depending on the complexity of the ticket and the number of client to test against).<br>Now? 😆<br>From 0 to 2 mins - just the time for a good Italian ☕️<br>If something goes wrong, we’ll inspect what went wrong into the Jenkins build - but it’s just an isolated case.</p>
+<p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_dario_carlomagno.pdf" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_dario_carlomagno.pdf</a></p>
 
         </div>
         
@@ -219,7 +246,7 @@
                 <span class="level-item has-text-grey">
                     
                     
-                    a minute read (About 118 words)
+                    a few seconds read (About 51 words)
                 </span>
                 
                 
@@ -228,20 +255,20 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-John-Sundell-The-Developer-Journey/">Pragma Conference 2019 - John Sundell - The Developer Journey</a>
+                <a class="has-link-black-ter" href="/Pragma-Mark/2019/Pragma-Mark-2019-Matteo-Rattotti-Kostantin-Erokhin-KISS-AKA-Keep-It-Simple-Soyoucancomplicateitlater/">Matteo Rattotti, Kostantin Erokhin - KISS AKA Keep It Simple, Soyoucancomplicateitlater</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://www.youtube.com/embed/b5IFgHc2pno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://www.youtube.com/embed/Dg1T_Wmq8Xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>One of the most exciting things about being a developer is that there’s constantly new techniques, patterns, tools and technologies to explore and learn. However, finding the time for all of that learning and experimentation can be quite challenging, and sometimes it can feel like we’re constantly struggling to catch up with all of the industry’s rapid changes.</p>
-<p>During this talk, John will talk about the many different journeys that we can take as developers, how he decides what to focus on, and how we continues to evolve his own personal career by learning new tools and skills. You can look forward to lots of tips, learnings, and inspiration in this year’s opening keynote.</p>
+<p>One developer loves to build new tools, another thinks we waste time reinventing the wheel. They’ll argue it out in this panel and cover some of the many shiny wheels that are already available to us.</p>
+<p>Slides<br><a href="https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_KISS.key" target="_blank" rel="noopener">https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conference_2019_KISS.key</a></p>
 
         </div>
         
@@ -327,7 +354,7 @@
                 <span class="level-item has-text-grey">
                     
                     
-                    a few seconds read (About 66 words)
+                    a few seconds read (About 67 words)
                 </span>
                 
                 
@@ -336,19 +363,19 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Janina-Kutyn-Building-an-App-for-every-iOS-Device-and-Beyond/">Pragma Conference 2019 - Janina Kutyn - Building an App for every iOS Device and Beyond</a>
+                <a class="has-link-black-ter" href="/Pragma-Mark/2019/Pragma-Mark-2019-Pragma-Conference-2019-Rachid-El-Khayari-App-Security-Essentials/">Pragma Conference 2019 - Rachid El Khayari - App Security Essentials</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://www.youtube.com/embed/SS9MTkCxj28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://www.youtube.com/embed/miBrJaib_Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>In the good old days we only had two screen sizes to worry about: 320x480 for the iPhone and 1024x768 for the iPad. But modern apps have to look good on every screen from iPhone SE to iPad Pro. Let’s discuss some approaches for making the most of the screen real estate of any iOS device, and extending it to macOS using Mac Catalyst.</p>
+<p>Creating an excellent and meaningful app can be a very time consuming and exhausting task. Only if you achieve mastery in the coding, testing and debugging loop, you will be able to build a stable app, that can persist. But what about app security? Did you build and test, keeping Satan’s iPhone in mind? This talk will teach you the essentials of secure iOS app development.</p>
 
         </div>
         
@@ -710,7 +737,7 @@
             
             <li><span class="pagination-ellipsis has-text-black-ter">&hellip;</span></li>
             
-            <li><a class="pagination-link has-text-black-ter" href="/page/104/">104</a></li>
+            <li><a class="pagination-link has-text-black-ter" href="/page/105/">105</a></li>
             
         </ul>
     </nav>
@@ -759,7 +786,7 @@
                         Posts
                     </p>
                     <p class="title has-text-weight-normal">
-                        1040
+                        1048
                     </p>
                 </div>
             </div>
@@ -769,7 +796,7 @@
                         Categories
                     </p>
                     <p class="title has-text-weight-normal">
-                        26
+                        27
                     </p>
                 </div>
             </div>
@@ -896,6 +923,14 @@
             </span>
             <span class="level-end">
                 <span class="level-item tag">10</span>
+            </span>
+        </a></li><li>
+        <a class="level is-marginless" href="/categories/Hacking-with-Swift/">
+            <span class="level-start">
+                <span class="level-item">Hacking with Swift</span>
+            </span>
+            <span class="level-end">
+                <span class="level-item tag">8</span>
             </span>
         </a></li><li>
         <a class="level is-marginless" href="/categories/KotlinConf/">
@@ -1241,7 +1276,7 @@
                     <span class="level-item">July 2019</span>
                 </span>
                 <span class="level-end">
-                    <span class="level-item tag">1</span>
+                    <span class="level-item tag">9</span>
                 </span>
             </a>
         </li>
@@ -1902,7 +1937,7 @@
                 <div class="control">
                     <a class="tags has-addons" href="/tags/2019/">
                         <span class="tag">2019</span>
-                        <span class="tag is-grey">336</span>
+                        <span class="tag is-grey">344</span>
                     </a>
                 </div>
                 
@@ -2086,7 +2121,7 @@
                     <span class="level-item">July 2019</span>
                 </span>
                 <span class="level-end">
-                    <span class="level-item tag">1</span>
+                    <span class="level-item tag">9</span>
                 </span>
             </a>
         </li>
@@ -2747,7 +2782,7 @@
                 <div class="control">
                     <a class="tags has-addons" href="/tags/2019/">
                         <span class="tag">2019</span>
-                        <span class="tag is-grey">336</span>
+                        <span class="tag is-grey">344</span>
                     </a>
                 </div>
                 
