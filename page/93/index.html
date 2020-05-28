@@ -155,7 +155,7 @@
         
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
             <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-09-22T10:50:32.000Z">2017-09-22</time>
+                <time class="level-item has-text-grey" datetime="2017-09-25T07:37:47.000Z">2017-09-25</time>
                 
                 <div class="level-item">
                 <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
@@ -165,7 +165,7 @@
                 <span class="level-item has-text-grey">
                     
                     
-                    a minute read (About 214 words)
+                    a minute read (About 163 words)
                 </span>
                 
                 
@@ -174,31 +174,21 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Why-You-Shouldn't-Write-Tests-Yes-We're-Going-There-Dave-Schukin/">Why You Shouldn&#39;t Write Tests (Yes, We&#39;re Going There) - Dave Schukin</a>
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Asymmetric-Cryptography-Between-iOS-and-the-Rest-of-the-World-Ignacio-Nieto/">Asymmetric Cryptography Between iOS and the Rest of the World - Ignacio Nieto</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://player.vimeo.com/video/235002959?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://player.vimeo.com/video/235315284?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>The iOS development community is generally split into two factions when it comes to writing automated tests:</p>
-<ul>
-<li>Those that timidly don’t write tests, mostly due to the difficulty of doing so on iOS, but quietly recognize their value</li>
-<li>Those that vocally advocate for writing tests, and continuously build new tools &amp; frameworks for testing, as well as educate the rest of the community</li>
-</ul>
-<p>For the most part, those in group B are correct, as tested code is generally better code. (The title of this talk is intentionally misleading.) However, there are many scenarios in which writing tests can actually be detrimental to your app, to your team, to your launch, to your users, and to the success of your company.</p>
-<p>This talk will cover:</p>
-<ul>
-<li>A brief history of testing in iOS</li>
-<li>When &amp; why you <em>should</em> write tests</li>
-<li>When &amp; why you should <em>skip</em> writing tests: Building apps for pre-seed startups, building experimental features that will be rolled out to 1% of users, features that are almost entirely UI, and many other scenarios. A comparison of different team structures, application types, and in which of these testing is best skipped.</li>
-</ul>
-<p>This is intended to be a controversial yet educational talk, that is both technical &amp; humorous in nature. :)</p>
+<p>Apple deprecated and then discontinued OpenSSL for its platforms and OS some years ago, leaving us with access to cryptography only through the Security framework. Unless, of course, you want to do some nasty hacks with custom built openssl libraries.</p>
+<p>Unfortunately, the Security framework is not well documented, isn’t specially developer friendly, and has not been thought to interact with 3rd parties, such as external servers making use of standard public key infrastructures and libraries such as OpenSSL.</p>
+<p>However, nowadays, it’s a common requisite for our apps to interact with secure backends and RESTful APIs making use of asymmetric cryptography, KPIs or public key systems. In this presentation, I will explain how to make your iOS application interact with these external public key infrastructures, importing keys from external entities (probably generated via OpenSSL) and exporting the keys generated at the device so they can be used in signature and verification operations externally.</p>
 <p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
 
         </div>
@@ -221,7 +211,7 @@
         
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
             <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-09-22T03:31:18.000Z">2017-09-22</time>
+                <time class="level-item has-text-grey" datetime="2017-09-25T07:14:17.000Z">2017-09-25</time>
                 
                 <div class="level-item">
                 <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
@@ -240,13 +230,13 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Everyone-is-an-API-designer-John-Sundell/">Everyone is an API designer - John Sundell</a>
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Facing-the-VIPER-Esteban-Torres/">Facing the VIPER - Esteban Torres</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://player.vimeo.com/video/234961067?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://player.vimeo.com/video/235312913?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
@@ -274,7 +264,177 @@
         
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
             <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-09-21T05:27:37.000Z">2017-09-21</time>
+                <time class="level-item has-text-grey" datetime="2017-09-25T06:36:43.000Z">2017-09-25</time>
+                
+                <div class="level-item">
+                <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
+                </div>
+                
+                
+                <span class="level-item has-text-grey">
+                    
+                    
+                    a few seconds read (About 32 words)
+                </span>
+                
+                
+            </div>
+        </div>
+        
+        <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
+            
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-How-to-get-started-contributing-to-open-source-projects-Felix-Krause/">How to get started contributing to open source projects - Felix Krause</a>
+            
+        </h1>
+        <div class="content">
+            <div style="position:relative;padding-top:56.25%;">
+
+<iframe src="https://player.vimeo.com/video/235309173?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+</iframe>
+
+</div>
+
+
+<p>Felix will talk about why open source is crucial for our ecosystem, how it can benefit you, and how to get started contributing.</p>
+<p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
+
+        </div>
+        
+        
+        
+    </div>
+</div>
+
+
+
+
+
+
+
+
+    <div class="card">
+    
+    <div class="card-content article ">
+        
+        <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
+            <div class="level-left">
+                <time class="level-item has-text-grey" datetime="2017-09-23T13:24:25.000Z">2017-09-23</time>
+                
+                <div class="level-item">
+                <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
+                </div>
+                
+                
+                <span class="level-item has-text-grey">
+                    
+                    
+                    a few seconds read (About 98 words)
+                </span>
+                
+                
+            </div>
+        </div>
+        
+        <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
+            
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Taming-Animations-Sash-Zats/">Taming Animations - Sash Zats</a>
+            
+        </h1>
+        <div class="content">
+            <div style="position:relative;padding-top:56.25%;">
+
+<iframe src="https://player.vimeo.com/video/235147763?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+</iframe>
+
+</div>
+
+
+<p>Animations set iOS apart from Android, they are signature garnish on top of every app recognized by Apple Design Awards. Over the years we accumulated many technologies allowing to build animations from simplest color changes to immersive experiences that make us praise the app on Twitter. But which one is the right for you? Are you sure you know all the options out there? Learn about many 1st and 3rd party frameworks, get to know their strong sides, be aware of their shortcomings. Get your definitive guide on animations!</p>
+<p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
+
+        </div>
+        
+        
+        
+    </div>
+</div>
+
+
+
+
+
+
+
+
+    <div class="card">
+    
+    <div class="card-content article ">
+        
+        <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
+            <div class="level-left">
+                <time class="level-item has-text-grey" datetime="2017-09-23T12:38:17.000Z">2017-09-23</time>
+                
+                <div class="level-item">
+                <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
+                </div>
+                
+                
+                <span class="level-item has-text-grey">
+                    
+                    
+                    a minute read (About 125 words)
+                </span>
+                
+                
+            </div>
+        </div>
+        
+        <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
+            
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Gems-of-GameplayKit-Tobias-Due-Munk/">Gems of GameplayKit - Tobias Due Munk</a>
+            
+        </h1>
+        <div class="content">
+            <div style="position:relative;padding-top:56.25%;">
+
+<iframe src="https://player.vimeo.com/video/235143936?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+</iframe>
+
+</div>
+
+
+<p>GameplayKit might seem to be all about games, but it contains valuable gems that are perfect to be used in regular apps. Some of the things you can use from GameplayKit in a non-game are:</p>
+<ul>
+<li>‘QuadTree’ for clustered of annotations on zoomable views, just like MapKit does in iOS 11.</li>
+<li>‘Procedural Noise’ for natural random animations</li>
+<li>‘Perceptual Randomization’ for better™ shuffled playlists …or, why Steve Jobs said “We’re making it less, to make it feel more random”.</li>
+<li>Non-uniform randomness like Gaussian, when uniform random just isn’t suitable.  </li>
+<li>‘R-Tree’ for performant rubber band selection like MindNode uses for the CALayer backed view hierarchy.</li>
+<li>‘Pathfinding’ for step by step navigation in indoor museums.</li>
+</ul>
+<p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
+
+        </div>
+        
+        
+        
+    </div>
+</div>
+
+
+
+
+
+
+
+
+    <div class="card">
+    
+    <div class="card-content article ">
+        
+        <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
+            <div class="level-left">
+                <time class="level-item has-text-grey" datetime="2017-09-23T12:10:21.000Z">2017-09-23</time>
                 
                 <div class="level-item">
                 <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
@@ -293,19 +453,19 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Hyper-fast-app-development-with-React-Native-Fabio-Pelosin/">Hyper fast app development with React Native - Fabio Pelosin</a>
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Growing-Roy-Marmelstein/">Growing - Roy Marmelstein</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://player.vimeo.com/video/234803621?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://player.vimeo.com/video/235141627?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>The innovation which surrounds the React Native and the larger Javascript community is worth taking a look at. In this talk I’ll explore the speed of development which can be reached with React Native, the unexpected benefits of this stack, and how developing with it is in practice.</p>
+<p>Scale changes everything. In this talk I will share learnings from my experiences of working on projects of varying sizes. We will discuss iOS development when scaling teams on products with a growing user base and a growing codebase and the kind of problems you encounter along the way.</p>
 <p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
 
         </div>
@@ -328,7 +488,7 @@
         
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
             <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-09-21T05:02:09.000Z">2017-09-21</time>
+                <time class="level-item has-text-grey" datetime="2017-09-23T11:27:16.000Z">2017-09-23</time>
                 
                 <div class="level-item">
                 <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
@@ -338,7 +498,7 @@
                 <span class="level-item has-text-grey">
                     
                     
-                    a minute read (About 148 words)
+                    a minute read (About 207 words)
                 </span>
                 
                 
@@ -347,19 +507,25 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Disassembly-for-Fun-and-Profit-Alexsander-Akers/">Disassembly for Fun and Profit - Alexsander Akers</a>
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Building-an-IDE-for-iOS-Mark-Villacampa/">Building an IDE for iOS - Mark Villacampa</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://player.vimeo.com/video/234801463?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://player.vimeo.com/video/235137833?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>Apple’s system frameworks make a lot of functionality available to us developers, from auto layout to calendrical calculations, locales, and formatting. Although the internal workings of these classes are not available to us, some implementation details are actually open source: auto layout is built on the Cassowary project, while NSCalendar, NSLocale, and the NSFormatter subclasses are built on top of the icucore framework. But because these projects are open-source, there’s nothing stopping us from seeing how they work under the hood. However, Apple does keep some goodies to themselves (persistent Touch Bar items) and some system functionalities are only available through opaque mechanisms (AirDrop through UIActivityController). In this talk I detail how to search for hidden functionality, the wonders of disassembly and decompilation, and how to follow the code trails through to the methods you want.</p>
+<p>On iOS 11, iPads are becoming much more useful productivity and content creation tools. With Apple’s push for Playgrounds.app and more permissive AppStore rules towards developer tools, it’s clear Apple wants us to write code on iOS. But is this all that’s needed to have world class IDEs for iOS?</p>
+<p>We’ll start with a walkthrough of the history and state of the art of iOS IDEs and related developer tools (developer-friendly text editors, git clients, terminal emulators, etc.).</p>
+<p>You’ll learn how Playgrounds.app works and what special rules it takes advantage of.</p>
+<p>We’ll go through the AppStore rules for developer tools, and what changed recently to allow more powerful IDEs.</p>
+<p>We’ll imagine how an IDE could look like on a multitouch device with new UIs and interactions, and what iOS 11 features we can leverage.</p>
+<p>A key feature of an IDE is executing code. We’ll learn how this is possible on iOS, its limitations, and the difference between interpreted, JITed and compiled execution.</p>
+<p>We’ll figure out what needs to change before we can have true desktop-grade IDEs on our iOS devices and put together an iOS 12 feature wishlist.</p>
 <p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
 
         </div>
@@ -382,7 +548,7 @@
         
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
             <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-09-20T13:48:22.000Z">2017-09-20</time>
+                <time class="level-item has-text-grey" datetime="2017-09-23T05:50:04.000Z">2017-09-23</time>
                 
                 <div class="level-item">
                 <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
@@ -392,7 +558,7 @@
                 <span class="level-item has-text-grey">
                     
                     
-                    a minute read (About 115 words)
+                    2 minutes read (About 316 words)
                 </span>
                 
                 
@@ -401,20 +567,31 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Creating-a-Computer-Vision-Machine-Learning-App-From-The-Ground-Up-Jorge-Molina-and-George-Karavias/">Creating a Computer Vision Machine Learning App From The Ground Up - Jorge Molina &amp; George Karavias</a>
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Highly-maintainable-App-Architecture-Aleksandar-Vacic/">Highly maintainable App Architecture - Aleksandar Vacić</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://player.vimeo.com/video/234696048?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://player.vimeo.com/video/235115845?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>Core ML, Apple’s new foundational machine learning framework, is blazingly fast not to mention dead easy to incorporate in an app. To top that off Core ML boasts support for a broad variety of machine learning model types and provides a Python package to convert them. But how do you actually create and train a model to begin with?</p>
-<p>Join us as we go step by step through the whole process:<br>Acquiring training data<br>Creating, training and optimising the model<br>Converting the model to Core ML and integrating it<br>Wiring Core ML to the Vision framework<br>To create a computer vision machine learning app.</p>
+<p>There are many contenders for the title of new shiny and best app architecture for iOS apps. Many of them are brought in by developers coming from different programming background - like Java, Ruby, Javascript etc. There are lots of terms flying around like: MVVM, Flux, Redux, RX, VIPER etc. With existing terminology of MVC, Delegate and Singleton patterns and Dependency Injection — it’s not hard to imagine that even senior developers might find themselves overwhelmed.</p>
+<p>Many of the newer architectures are actively trying to replace existing coding practices that Apple continues to actively promote to developers and is implementing them in new APIs on the platform. In this talk I want to present an approach that doesn‘t replace anything - it embraces and builds on top of existing iOS API patterns.</p>
+<p>I will use an example (open-source) live app that shows:</p>
+<ul>
+<li>what’s the correct way to use MVC</li>
+<li>how to efficiently use DI (Dependency Injection) to properly transfer input data/configuration throughout the app<br>how and when to use Delegate pattern</li>
+<li>where and how to use Coordinators to manage data flow and display VCs, with minimum amount of boilerplate code</li>
+<li>where do components like network and API wrappers fit into the app</li>
+<li>how to create single point of data source for any other component in the app</li>
+<li>how to persist data in such a way that you can easily replace all of it with something else (say switch from Core Data to Realm)</li>
+</ul>
+<p>Each of the components is loosely coupled with the rest, each component does not care about the rest of the app. This separation of concern leads to easier testing, simpler maintainance and large degree of freedom to change data flow or even completely replace certain parts.</p>
+<p>If the architecture must have a name, MVC-C-DNA would suffice. :)</p>
 <p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
 
         </div>
@@ -437,17 +614,17 @@
         
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
             <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-07-16T06:31:00.000Z">2017-07-16</time>
+                <time class="level-item has-text-grey" datetime="2017-09-23T05:15:43.000Z">2017-09-23</time>
                 
                 <div class="level-item">
-                <a class="has-link-grey -link" href="/categories/CocoaHeads-Stockholm/">CocoaHeads Stockholm</a>
+                <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
                 </div>
                 
                 
                 <span class="level-item has-text-grey">
                     
                     
-                    a few seconds read (About 69 words)
+                    a few seconds read (About 63 words)
                 </span>
                 
                 
@@ -456,21 +633,20 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/CocoaHeads-Stockholm/2017/CocoaHeads-Stockholm-2017-Swift-GraphQL-with-Apollo-iOS-Alek-Astrom/">Swift GraphQL with Apollo iOS – Alek Åström</a>
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Stop-Making-Average-Apps-Sally-Shepard/">Stop Making Average Apps - Sally Shepard</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://www.youtube.com/embed/ArMgdV-VwJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://player.vimeo.com/video/235113510?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>Alek Åström (<a href="http://twitter.com/misteralek" target="_blank" rel="noopener">http://twitter.com/misteralek</a>) has been using GraphQL at Dooer for the past six months. In this talk, he explains how GraphQL works, its current state on iOS and why you should finally put REST in peace.</p>
-<p>00:02 - Intro<br>02:13 - Background, pains with REST<br>05:02 - What is GraphQL?<br>08:26 - Demo: GitHub API<br>15:36 - Apollo for iOS + demo<br>27:00 - Learnings, conclusion<br>33:35 - Q &amp; A</p>
-<p>Slides: <a href="https://speakerdeck.com/mralek/graphql-on-ios-with-apollo" target="_blank" rel="noopener">https://speakerdeck.com/mralek/graphql-on-ios-with-apollo</a></p>
+<p>If you’re only ever thinking about the “average” user, you’re probably making an app for no one. Each user has different needs, so how do you create interfaces that are simple yet flexible? In this talk you’ll learn why Dynamic Type is important and how to support it in your apps.</p>
+<p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
 
         </div>
         
@@ -492,17 +668,17 @@
         
         <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
             <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-07-16T06:30:57.000Z">2017-07-16</time>
+                <time class="level-item has-text-grey" datetime="2017-09-22T16:49:42.000Z">2017-09-22</time>
                 
                 <div class="level-item">
-                <a class="has-link-grey -link" href="/categories/CocoaHeads-Stockholm/">CocoaHeads Stockholm</a>
+                <a class="has-link-grey -link" href="/categories/NSSpain/">NSSpain</a>
                 </div>
                 
                 
                 <span class="level-item has-text-grey">
                     
                     
-                    a few seconds read (About 30 words)
+                    a few seconds read (About 98 words)
                 </span>
                 
                 
@@ -511,178 +687,22 @@
         
         <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
             
-                <a class="has-link-black-ter" href="/CocoaHeads-Stockholm/2017/CocoaHeads-Stockholm-2017-RX-with-CwlSignal-Andrey-Zhukov/">RX with CwlSignal – Andrey Zhukov</a>
+                <a class="has-link-black-ter" href="/NSSpain/2017/NSSpain-2017-Understanding-code-signing-x509-and-Apple-Marin-Usalj/">Understanding code signing x509 and Apple - Marin Usalj</a>
             
         </h1>
         <div class="content">
             <div style="position:relative;padding-top:56.25%;">
 
-<iframe src="https://www.youtube.com/embed/G1UfN7ik-2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
+<iframe src="https://player.vimeo.com/video/235055677?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
 
 </div>
 
 
-<p>Andrey Zhukov (<a href="http://andrey.se" target="_blank" rel="noopener">http://andrey.se</a>), founder of the app making car ownership obsolete Tapto and founding member Toca Boca, shows us the usefulness of Coordinators &amp; reactive view models with CwlSignal.</p>
-
-        </div>
-        
-        
-        
-    </div>
-</div>
-
-
-
-
-
-
-
-
-    <div class="card">
-    
-    <div class="card-content article ">
-        
-        <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
-            <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-07-16T06:30:48.000Z">2017-07-16</time>
-                
-                <div class="level-item">
-                <a class="has-link-grey -link" href="/categories/CocoaHeads-Stockholm/">CocoaHeads Stockholm</a>
-                </div>
-                
-                
-                <span class="level-item has-text-grey">
-                    
-                    
-                    a few seconds read (About 19 words)
-                </span>
-                
-                
-            </div>
-        </div>
-        
-        <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
-            
-                <a class="has-link-black-ter" href="/CocoaHeads-Stockholm/2017/CocoaHeads-Stockholm-2017-Server-side-Swift-Gabriel-Roupillard/">Server-side Swift – Gabriel Roupillard</a>
-            
-        </h1>
-        <div class="content">
-            <div style="position:relative;padding-top:56.25%;">
-
-<iframe src="https://www.youtube.com/embed/MxzUwLveLzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
-</iframe>
-
-</div>
-
-
-<p>Gabriel Roupillard (<a href="https://twitter.com/Ashitaio" target="_blank" rel="noopener">https://twitter.com/Ashitaio</a>) shows the current state of Swift on the server for web apps &amp; bots.</p>
-
-        </div>
-        
-        
-        
-    </div>
-</div>
-
-
-
-
-
-
-
-
-    <div class="card">
-    
-    <div class="card-content article ">
-        
-        <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
-            <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-05-28T13:56:57.000Z">2017-05-28</time>
-                
-                <div class="level-item">
-                <a class="has-link-grey -link" href="/categories/CocoaHeads-Stockholm/">CocoaHeads Stockholm</a>
-                </div>
-                
-                
-                <span class="level-item has-text-grey">
-                    
-                    
-                    a few seconds read (About 46 words)
-                </span>
-                
-                
-            </div>
-        </div>
-        
-        <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
-            
-                <a class="has-link-black-ter" href="/CocoaHeads-Stockholm/2017/CocoaHeads-Stockholm-2017-Overdrive-Said-Sikira/">Overdrive – Said Sikira</a>
-            
-        </h1>
-        <div class="content">
-            <div style="position:relative;padding-top:56.25%;">
-
-<iframe src="https://www.youtube.com/embed/srCeYztWSFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
-</iframe>
-
-</div>
-
-
-<p>Said Sikira is the author of popular framework Overdrive, which helps create task-based, concurrent flows in your application. In this talk, he will gives an overview of the framework’s features and how you can implement it into your app to add speed and stability.</p>
-
-        </div>
-        
-        
-        
-    </div>
-</div>
-
-
-
-
-
-
-
-
-    <div class="card">
-    
-    <div class="card-content article ">
-        
-        <div class="level article-meta is-size-7 is-uppercase is-mobile is-overflow-x-auto">
-            <div class="level-left">
-                <time class="level-item has-text-grey" datetime="2017-05-28T13:54:41.000Z">2017-05-28</time>
-                
-                <div class="level-item">
-                <a class="has-link-grey -link" href="/categories/CocoaHeads-Stockholm/">CocoaHeads Stockholm</a>
-                </div>
-                
-                
-                <span class="level-item has-text-grey">
-                    
-                    
-                    a few seconds read (About 16 words)
-                </span>
-                
-                
-            </div>
-        </div>
-        
-        <h1 class="title is-size-3 is-size-4-mobile has-text-weight-normal">
-            
-                <a class="has-link-black-ter" href="/CocoaHeads-Stockholm/2017/CocoaHeads-Stockholm-2017-Reactive-Programming-at-Qapital-Mikael-Gransell/">Reactive Programming at Qapital – Mikael Gransell</a>
-            
-        </h1>
-        <div class="content">
-            <div style="position:relative;padding-top:56.25%;">
-
-<iframe src="https://www.youtube.com/embed/PLFm4a3uf6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;">
-</iframe>
-
-</div>
-
-
-<p>Mikael Gransel walks through Qapital’s experience of building their app using the Reactive Programming paradigm.</p>
+<p>Every iOS developer has hit the wall of trying to publish an iOS app. Code signing is one of the most hated topics in the field: it’s obscure, complicated and not well understood.</p>
+<p>The talk will clarify all the components in the code signing process, and show how they play together. It should save you some time in the future, or you get all your money back™! </p>
+<p>The talk will go over private keys, .p12 archives, certificates, CSRs, provisioning profiles, teams, and show some usages in practice.</p>
+<p>–<br>Recorded and produced live by Stefan Völker.<br>NSSpain 2017.</p>
 
         </div>
         
@@ -722,7 +742,7 @@
             
             <li><span class="pagination-ellipsis has-text-black-ter">&hellip;</span></li>
             
-            <li><a class="pagination-link has-text-black-ter" href="/page/112/">112</a></li>
+            <li><a class="pagination-link has-text-black-ter" href="/page/113/">113</a></li>
             
         </ul>
     </nav>
@@ -771,7 +791,7 @@
                         Posts
                     </p>
                     <p class="title has-text-weight-normal">
-                        1114
+                        1126
                     </p>
                 </div>
             </div>
@@ -883,7 +903,7 @@
                 <span class="level-item">App Builders</span>
             </span>
             <span class="level-end">
-                <span class="level-item tag">23</span>
+                <span class="level-item tag">35</span>
             </span>
         </a></li><li>
         <a class="level is-marginless" href="/categories/BA-Swiftable/">
@@ -1122,18 +1142,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tobias-Due-Munk-Prototyping-Custom-UI-in-SwiftUI/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-Story-Session-Paul-Hudson-interviewed-by-Steve-Scott-Scotty-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Tobias Due Munk - Prototyping Custom UI in SwiftUI">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="Story Session Paul Hudson interviewed by Steve Scott (Scotty) - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-12T13:25:48.000Z">2020-02-12</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tobias-Due-Munk-Prototyping-Custom-UI-in-SwiftUI/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Tobias Due Munk - Prototyping Custom UI in SwiftUI</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-13T16:53:59.000Z">2020-05-13</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-Story-Session-Paul-Hudson-interviewed-by-Steve-Scott-Scotty-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Story Session Paul Hudson interviewed by Steve Scott (Scotty) - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -1141,18 +1161,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Vincent-Pradeilles-Implementing-pseudo-keywords-through-functional-programing/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-UI-Mode-Pitch-Black-Lea-Marolt-Sonnenschein-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Vincent Pradeilles - Implementing pseudo-keywords through functional programing">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="UI Mode Pitch Black - Lea Marolt Sonnenschein - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-11T12:44:37.000Z">2020-02-11</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Vincent-Pradeilles-Implementing-pseudo-keywords-through-functional-programing/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Vincent Pradeilles - Implementing pseudo-keywords through functional programing</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-12T07:44:53.000Z">2020-05-12</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-UI-Mode-Pitch-Black-Lea-Marolt-Sonnenschein-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">UI Mode Pitch Black - Lea Marolt Sonnenschein - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -1160,18 +1180,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tim-Condon-BFFs-for-Swift/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-Custom-UI-Components-in-SwiftUI-Chris-Eidhof-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Tim Condon - BFFs for Swift">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="Custom UI Components in SwiftUI - Chris Eidhof - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-11T12:44:37.000Z">2020-02-11</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tim-Condon-BFFs-for-Swift/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Tim Condon - BFFs for Swift</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-12T07:05:03.000Z">2020-05-12</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-Custom-UI-Components-in-SwiftUI-Chris-Eidhof-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Custom UI Components in SwiftUI - Chris Eidhof - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -1179,18 +1199,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Kaya-Thomas-Swift-Techniques-for-Testing/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-Small-Team.-Big-Open-Source.-Rodrigo-Arsuaga-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Kaya Thomas - Swift Techniques for Testing">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="Small Team. Big Open Source. - Rodrigo Arsuaga - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-11T12:44:37.000Z">2020-02-11</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Kaya-Thomas-Swift-Techniques-for-Testing/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Kaya Thomas - Swift Techniques for Testing</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-12T07:01:05.000Z">2020-05-12</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-Small-Team.-Big-Open-Source.-Rodrigo-Arsuaga-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Small Team. Big Open Source. - Rodrigo Arsuaga - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -1198,18 +1218,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Guilherme-Rambo-MVC-Many-View-Controllers/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-Practical-machine-learning-for-iOS-apps-Paris-Buttfield-Addison-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Guilherme Rambo - MVC Many View Controllers">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="Practical machine learning for iOS apps - Paris Buttfield-Addison - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-11T12:44:37.000Z">2020-02-11</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Guilherme-Rambo-MVC-Many-View-Controllers/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Guilherme Rambo - MVC Many View Controllers</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-12T06:52:27.000Z">2020-05-12</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-Practical-machine-learning-for-iOS-apps-Paris-Buttfield-Addison-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Practical machine learning for iOS apps - Paris Buttfield-Addison - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -1226,6 +1246,17 @@
             Archives
         </h3>
         <ul class="menu-list">
+        
+        <li>
+            <a class="level is-marginless" href="/archives/2020/05/">
+                <span class="level-start">
+                    <span class="level-item">May 2020</span>
+                </span>
+                <span class="level-end">
+                    <span class="level-item tag">12</span>
+                </span>
+            </a>
+        </li>
         
         <li>
             <a class="level is-marginless" href="/archives/2020/02/">
@@ -1978,7 +2009,7 @@
                 <div class="control">
                     <a class="tags has-addons" href="/tags/2020/">
                         <span class="tag">2020</span>
-                        <span class="tag is-grey">57</span>
+                        <span class="tag is-grey">69</span>
                     </a>
                 </div>
                 
@@ -2007,18 +2038,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tobias-Due-Munk-Prototyping-Custom-UI-in-SwiftUI/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-Story-Session-Paul-Hudson-interviewed-by-Steve-Scott-Scotty-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Tobias Due Munk - Prototyping Custom UI in SwiftUI">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="Story Session Paul Hudson interviewed by Steve Scott (Scotty) - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-12T13:25:48.000Z">2020-02-12</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tobias-Due-Munk-Prototyping-Custom-UI-in-SwiftUI/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Tobias Due Munk - Prototyping Custom UI in SwiftUI</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-13T16:53:59.000Z">2020-05-13</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-Story-Session-Paul-Hudson-interviewed-by-Steve-Scott-Scotty-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Story Session Paul Hudson interviewed by Steve Scott (Scotty) - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -2026,18 +2057,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Vincent-Pradeilles-Implementing-pseudo-keywords-through-functional-programing/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-UI-Mode-Pitch-Black-Lea-Marolt-Sonnenschein-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Vincent Pradeilles - Implementing pseudo-keywords through functional programing">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="UI Mode Pitch Black - Lea Marolt Sonnenschein - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-11T12:44:37.000Z">2020-02-11</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Vincent-Pradeilles-Implementing-pseudo-keywords-through-functional-programing/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Vincent Pradeilles - Implementing pseudo-keywords through functional programing</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-12T07:44:53.000Z">2020-05-12</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-UI-Mode-Pitch-Black-Lea-Marolt-Sonnenschein-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">UI Mode Pitch Black - Lea Marolt Sonnenschein - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -2045,18 +2076,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tim-Condon-BFFs-for-Swift/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-Custom-UI-Components-in-SwiftUI-Chris-Eidhof-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Tim Condon - BFFs for Swift">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="Custom UI Components in SwiftUI - Chris Eidhof - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-11T12:44:37.000Z">2020-02-11</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tim-Condon-BFFs-for-Swift/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Tim Condon - BFFs for Swift</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-12T07:05:03.000Z">2020-05-12</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-Custom-UI-Components-in-SwiftUI-Chris-Eidhof-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Custom UI Components in SwiftUI - Chris Eidhof - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -2064,18 +2095,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Kaya-Thomas-Swift-Techniques-for-Testing/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-Small-Team.-Big-Open-Source.-Rodrigo-Arsuaga-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Kaya Thomas - Swift Techniques for Testing">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="Small Team. Big Open Source. - Rodrigo Arsuaga - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-11T12:44:37.000Z">2020-02-11</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Kaya-Thomas-Swift-Techniques-for-Testing/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Kaya Thomas - Swift Techniques for Testing</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-12T07:01:05.000Z">2020-05-12</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-Small-Team.-Big-Open-Source.-Rodrigo-Arsuaga-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Small Team. Big Open Source. - Rodrigo Arsuaga - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -2083,18 +2114,18 @@
         
         <article class="media">
             
-            <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Guilherme-Rambo-MVC-Many-View-Controllers/" class="media-left">
+            <a href="/App-Builders/2020/App-Builders-2020-Practical-machine-learning-for-iOS-apps-Paris-Buttfield-Addison-App-Builders-2020/" class="media-left">
                 <p class="image is-64x64">
-                    <img class="thumbnail" src="/images/thumbnail.svg" alt="dotSwift 2020 - Guilherme Rambo - MVC Many View Controllers">
+                    <img class="thumbnail" src="/images/thumbnail.svg" alt="Practical machine learning for iOS apps - Paris Buttfield-Addison - App Builders 2020">
                 </p>
             </a>
             
             <div class="media-content">
                 <div class="content">
-                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-02-11T12:44:37.000Z">2020-02-11</time></div>
-                    <a href="/dotSwift/2020/dotSwift-2020-dotSwift-2020-Guilherme-Rambo-MVC-Many-View-Controllers/" class="title has-link-black-ter is-size-6 has-text-weight-normal">dotSwift 2020 - Guilherme Rambo - MVC Many View Controllers</a>
+                    <div><time class="has-text-grey is-size-7 is-uppercase" datetime="2020-05-12T06:52:27.000Z">2020-05-12</time></div>
+                    <a href="/App-Builders/2020/App-Builders-2020-Practical-machine-learning-for-iOS-apps-Paris-Buttfield-Addison-App-Builders-2020/" class="title has-link-black-ter is-size-6 has-text-weight-normal">Practical machine learning for iOS apps - Paris Buttfield-Addison - App Builders 2020</a>
                     <p class="is-size-7 is-uppercase">
-                        <a class="has-link-grey -link" href="/categories/dotSwift/">dotSwift</a>
+                        <a class="has-link-grey -link" href="/categories/App-Builders/">App Builders</a>
                     </p>
                 </div>
             </div>
@@ -2111,6 +2142,17 @@
             Archives
         </h3>
         <ul class="menu-list">
+        
+        <li>
+            <a class="level is-marginless" href="/archives/2020/05/">
+                <span class="level-start">
+                    <span class="level-item">May 2020</span>
+                </span>
+                <span class="level-end">
+                    <span class="level-item tag">12</span>
+                </span>
+            </a>
+        </li>
         
         <li>
             <a class="level is-marginless" href="/archives/2020/02/">
@@ -2863,7 +2905,7 @@
                 <div class="control">
                     <a class="tags has-addons" href="/tags/2020/">
                         <span class="tag">2020</span>
-                        <span class="tag is-grey">57</span>
+                        <span class="tag is-grey">69</span>
                     </a>
                 </div>
                 

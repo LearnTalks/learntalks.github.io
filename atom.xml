@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://learntalks.com/"/>
-  <updated>2020-03-02T15:24:30.846Z</updated>
+  <updated>2020-05-28T14:08:43.798Z</updated>
   <id>http://learntalks.com/</id>
   
   <author>
@@ -17,11 +17,347 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Story Session Paul Hudson interviewed by Steve Scott (Scotty) - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Story-Session-Paul-Hudson-interviewed-by-Steve-Scott-Scotty-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Story-Session-Paul-Hudson-interviewed-by-Steve-Scott-Scotty-App-Builders-2020/</id>
+    <published>2020-05-13T16:53:59.000Z</published>
+    <updated>2020-05-28T14:08:43.798Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/buhYscjpOvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/buhYscjpOvg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UI Mode Pitch Black - Lea Marolt Sonnenschein - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-UI-Mode-Pitch-Black-Lea-Marolt-Sonnenschein-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-UI-Mode-Pitch-Black-Lea-Marolt-Sonnenschein-App-Builders-2020/</id>
+    <published>2020-05-12T07:44:53.000Z</published>
+    <updated>2020-05-28T14:08:43.798Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/t5UYlyYSf60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/t5UYlyYSf60&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Custom UI Components in SwiftUI - Chris Eidhof - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Custom-UI-Components-in-SwiftUI-Chris-Eidhof-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Custom-UI-Components-in-SwiftUI-Chris-Eidhof-App-Builders-2020/</id>
+    <published>2020-05-12T07:05:03.000Z</published>
+    <updated>2020-05-28T14:08:43.796Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Q75sjvk6VTA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Q75sjvk6VTA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Small Team. Big Open Source. - Rodrigo Arsuaga - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Small-Team.-Big-Open-Source.-Rodrigo-Arsuaga-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Small-Team.-Big-Open-Source.-Rodrigo-Arsuaga-App-Builders-2020/</id>
+    <published>2020-05-12T07:01:05.000Z</published>
+    <updated>2020-05-28T14:08:43.797Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Nf-KOD_5UHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Nf-KOD_5UHU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Practical machine learning for iOS apps - Paris Buttfield-Addison - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Practical-machine-learning-for-iOS-apps-Paris-Buttfield-Addison-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Practical-machine-learning-for-iOS-apps-Paris-Buttfield-Addison-App-Builders-2020/</id>
+    <published>2020-05-12T06:52:27.000Z</published>
+    <updated>2020-05-28T14:08:43.797Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/9NNeaifqrkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/9NNeaifqrkA&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Making Your Voice Heard - Erica Sadun - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Making-Your-Voice-Heard-Erica-Sadun-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Making-Your-Voice-Heard-Erica-Sadun-App-Builders-2020/</id>
+    <published>2020-05-12T06:46:38.000Z</published>
+    <updated>2020-05-28T14:08:43.797Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/ojtddlDCq7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/ojtddlDCq7A&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Accessibility for iOS doing well by doing good - John Fox - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Accessibility-for-iOS-doing-well-by-doing-good-John-Fox-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Accessibility-for-iOS-doing-well-by-doing-good-John-Fox-App-Builders-2020/</id>
+    <published>2020-05-11T12:58:41.000Z</published>
+    <updated>2020-05-28T14:08:43.796Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/N_QjBc_Zuts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/N_QjBc_Zuts&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Apps for All Making Software Accessible - Matthew Bischoff - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Apps-for-All-Making-Software-Accessible-Matthew-Bischoff-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Apps-for-All-Making-Software-Accessible-Matthew-Bischoff-App-Builders-2020/</id>
+    <published>2020-05-11T12:45:32.000Z</published>
+    <updated>2020-05-28T14:08:43.796Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/1g78NWM_GIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/1g78NWM_GIM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Building Swift CLIs - Marek Fořt - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Building-Swift-CLIs-Marek-Fort-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Building-Swift-CLIs-Marek-Fort-App-Builders-2020/</id>
+    <published>2020-05-11T11:05:44.000Z</published>
+    <updated>2020-05-28T14:08:43.796Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/P_Ld_2U6-KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/P_Ld_2U6-KE&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Getting Started with Combine - Shai Mishali - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Getting-Started-with-Combine-Shai-Mishali-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Getting-Started-with-Combine-Shai-Mishali-App-Builders-2020/</id>
+    <published>2020-05-11T08:34:35.000Z</published>
+    <updated>2020-05-28T14:08:43.797Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/R7KgBgvQJ0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/R7KgBgvQJ0c&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Property Wrappers or How Swift decided to become Java - Vincent Pradeilles - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-Property-Wrappers-or-How-Swift-decided-to-become-Java-Vincent-Pradeilles-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-Property-Wrappers-or-How-Swift-decided-to-become-Java-Vincent-Pradeilles-App-Builders-2020/</id>
+    <published>2020-05-11T08:00:38.000Z</published>
+    <updated>2020-05-28T14:08:43.797Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/zBI0XM-xYho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/zBI0XM-xYho&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UI Testing over the years - Peter Steinberger - App Builders 2020</title>
+    <link href="http://learntalks.com/App-Builders/2020/App-Builders-2020-UI-Testing-over-the-years-Peter-Steinberger-App-Builders-2020/"/>
+    <id>http://learntalks.com/App-Builders/2020/App-Builders-2020-UI-Testing-over-the-years-Peter-Steinberger-App-Builders-2020/</id>
+    <published>2020-05-11T07:57:15.000Z</published>
+    <updated>2020-05-28T14:08:43.798Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/LpHah3oQeyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/LpHah3oQeyg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="App Builders" scheme="http://learntalks.com/categories/App-Builders/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
     <title>dotSwift 2020 - Tobias Due Munk - Prototyping Custom UI in SwiftUI</title>
     <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tobias-Due-Munk-Prototyping-Custom-UI-in-SwiftUI/"/>
     <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tobias-Due-Munk-Prototyping-Custom-UI-in-SwiftUI/</id>
     <published>2020-02-12T13:25:48.000Z</published>
-    <updated>2020-03-02T15:24:30.846Z</updated>
+    <updated>2020-05-28T14:08:44.044Z</updated>
     
     <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/1BHHybRnHFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Tobias shares a full story on how to build a prototype for a custom UI that visualizes instantaneous sound level as well as sound level over time. The talk is highly interactive and covers how Swift and SwiftUI are perfect for making prototypes, particularly when building custom UI.</p>]]></content>
     
@@ -45,151 +381,11 @@
   </entry>
   
   <entry>
-    <title>dotSwift 2020 - Vincent Pradeilles - Implementing pseudo-keywords through functional programing</title>
-    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Vincent-Pradeilles-Implementing-pseudo-keywords-through-functional-programing/"/>
-    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Vincent-Pradeilles-Implementing-pseudo-keywords-through-functional-programing/</id>
-    <published>2020-02-11T12:44:37.000Z</published>
-    <updated>2020-03-02T15:24:30.846Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/CYkpF7COpVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Swift is a great language. But we’ve all met situations where a certain feature was missing, and we wished were part of it.<br>Since programs are basically functions, and functions are first-class citizen in Swift, Vincent shows how we can implement “pseudo-keywords” at a short cost and to great value.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/CYkpF7COpVY&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>dotSwift 2020 - Tim Condon - BFFs for Swift</title>
-    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tim-Condon-BFFs-for-Swift/"/>
-    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tim-Condon-BFFs-for-Swift/</id>
-    <published>2020-02-11T12:44:37.000Z</published>
-    <updated>2020-03-02T15:24:30.846Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/XqQJ6-l26QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Many modern apps need to make 10s or even 100s or network calls just to populate the home screen. And they’ll likely be calling multiple different APIs, all requiring different authentication methods, JSON parsing and aggregation. Not only does this increase battery drain and frustration for users on slow and unreliable networks, it places a huge burden on the developer that isn’t easy to update or iterate on quickly. </p><p>Tim looks at the Backend for Frontend pattern and how we can leverage Swift in both our iOS applications and server applications to share code and make development faster. He shows clear examples of how BFFs can dramatically simplify your networking code and how a BFF in Swift can help you develop iOS applications quicker by reducing context switching and being able to share code.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/XqQJ6-l26QM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>dotSwift 2020 - Kaya Thomas - Swift Techniques for Testing</title>
-    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Kaya-Thomas-Swift-Techniques-for-Testing/"/>
-    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Kaya-Thomas-Swift-Techniques-for-Testing/</id>
-    <published>2020-02-11T12:44:37.000Z</published>
-    <updated>2020-03-02T15:24:30.845Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Or6xjaCUCd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Kaya explains two unique techniques to help make your tests easier to read, write and understand. The first technique is using Swift enums to abstract XCUIElementQuery calls and to isolate UI element into cases with each enum representing one screen. The second technique uses function builders to allow you to group multiple calls to XCTAssertTrue() and XCTAssertFalse().</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/Or6xjaCUCd4&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>dotSwift 2020 - Guilherme Rambo - MVC Many View Controllers</title>
-    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Guilherme-Rambo-MVC-Many-View-Controllers/"/>
-    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Guilherme-Rambo-MVC-Many-View-Controllers/</id>
-    <published>2020-02-11T12:44:37.000Z</published>
-    <updated>2020-03-02T15:24:30.845Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/ZShE3toDPIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>App architecture has been a topic of many discussions in the iOS development community. Many developers and companies propose novel architecture options to supposedly improve the development of iOS apps, while Apple keeps supporting the MVC architecture. Guilherme shows what causes people to have problems with that architecture, how to avoid the common pitfalls and why adopting a shiny new architecture might not be the best solution.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/ZShE3toDPIk&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>dotSwift 2020 - Devlin Duldulao - Sign in with Apple</title>
-    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Devlin-Duldulao-Sign-in-with-Apple/"/>
-    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Devlin-Duldulao-Sign-in-with-Apple/</id>
-    <published>2020-02-11T12:44:37.000Z</published>
-    <updated>2020-03-02T15:24:30.844Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/-jEbBkhaRSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Learn about Sign In with Apple, the new identity provider announced at Apple WWDC 2019.</p><p>This authentication option, which Apple has stated will be mandatory for all App Store apps soon, may present some challenges to application developers, but aims to provide a better user experience for those in the Apple ecosystem through enhanced privacy and seamless login across the web and native applications.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/-jEbBkhaRSU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
     <title>dotSwift 2020 - Donny Wals - The Combine Triad</title>
     <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Donny-Wals-The-Combine-Triad/"/>
     <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Donny-Wals-The-Combine-Triad/</id>
     <published>2020-02-11T12:44:37.000Z</published>
-    <updated>2020-03-02T15:24:30.845Z</updated>
+    <updated>2020-05-28T14:08:44.043Z</updated>
     
     <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/0AmNvcxVpKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Combine is Apple’s own Functional Reactive Programming framework. Donny explains three of the main pillars that Combine is built on. By re-implementing Combine’s sink subscriber we explore every aspect Combine’s subscription stream.</p>]]></content>
     
@@ -213,11 +409,67 @@
   </entry>
   
   <entry>
+    <title>dotSwift 2020 - Guilherme Rambo - MVC Many View Controllers</title>
+    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Guilherme-Rambo-MVC-Many-View-Controllers/"/>
+    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Guilherme-Rambo-MVC-Many-View-Controllers/</id>
+    <published>2020-02-11T12:44:37.000Z</published>
+    <updated>2020-05-28T14:08:44.044Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/ZShE3toDPIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>App architecture has been a topic of many discussions in the iOS development community. Many developers and companies propose novel architecture options to supposedly improve the development of iOS apps, while Apple keeps supporting the MVC architecture. Guilherme shows what causes people to have problems with that architecture, how to avoid the common pitfalls and why adopting a shiny new architecture might not be the best solution.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/ZShE3toDPIk&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>dotSwift 2020 - Kaya Thomas - Swift Techniques for Testing</title>
+    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Kaya-Thomas-Swift-Techniques-for-Testing/"/>
+    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Kaya-Thomas-Swift-Techniques-for-Testing/</id>
+    <published>2020-02-11T12:44:37.000Z</published>
+    <updated>2020-05-28T14:08:44.044Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/Or6xjaCUCd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Kaya explains two unique techniques to help make your tests easier to read, write and understand. The first technique is using Swift enums to abstract XCUIElementQuery calls and to isolate UI element into cases with each enum representing one screen. The second technique uses function builders to allow you to group multiple calls to XCTAssertTrue() and XCTAssertFalse().</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/Or6xjaCUCd4&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+      
+    
+    </summary>
+    
+    
+      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
+    
+    
+      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
     <title>dotSwift 2020 - Cory Benfield - Cryptography in Swift</title>
     <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Cory-Benfield-Cryptography-in-Swift/"/>
     <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Cory-Benfield-Cryptography-in-Swift/</id>
     <published>2020-02-11T12:44:37.000Z</published>
-    <updated>2020-03-02T15:24:30.844Z</updated>
+    <updated>2020-05-28T14:08:44.042Z</updated>
     
     <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/OUXC3DLY6QU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>In this session, Cory discusses the tools for using cryptography in Swift, and introduces a new Apple open source project for working with cryptography on all platforms, Swift Crypto.</p>]]></content>
     
@@ -241,13 +493,13 @@
   </entry>
   
   <entry>
-    <title>1.10 - Vincent Pradeilles - The Very Best of iOS Memes</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-1.10-Vincent-Pradeilles-The-Very-Best-of-iOS-Memes/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-1.10-Vincent-Pradeilles-The-Very-Best-of-iOS-Memes/</id>
-    <published>2020-02-09T18:17:44.000Z</published>
-    <updated>2020-03-02T15:24:30.590Z</updated>
+    <title>dotSwift 2020 - Devlin Duldulao - Sign in with Apple</title>
+    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Devlin-Duldulao-Sign-in-with-Apple/"/>
+    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Devlin-Duldulao-Sign-in-with-Apple/</id>
+    <published>2020-02-11T12:44:37.000Z</published>
+    <updated>2020-05-28T14:08:44.043Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/H4Le734glmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/-jEbBkhaRSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Learn about Sign In with Apple, the new identity provider announced at Apple WWDC 2019.</p><p>This authentication option, which Apple has stated will be mandatory for all App Store apps soon, may present some challenges to application developers, but aims to provide a better user experience for those in the Apple ecosystem through enhanced privacy and seamless login across the web and native applications.</p>]]></content>
     
     <summary type="html">
     
@@ -255,13 +507,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/H4Le734glmU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/-jEbBkhaRSU&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
+      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
     
     
       <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
@@ -269,13 +521,13 @@
   </entry>
   
   <entry>
-    <title>2.7 - Michael Rebello - Envoy Mobile &amp; the upcoming networking revolution</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.7-Michael-Rebello-Envoy-Mobile-and-the-upcoming-networking-revolution/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.7-Michael-Rebello-Envoy-Mobile-and-the-upcoming-networking-revolution/</id>
-    <published>2020-02-07T09:09:05.000Z</published>
-    <updated>2020-03-02T15:24:30.595Z</updated>
+    <title>dotSwift 2020 - Tim Condon - BFFs for Swift</title>
+    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tim-Condon-BFFs-for-Swift/"/>
+    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Tim-Condon-BFFs-for-Swift/</id>
+    <published>2020-02-11T12:44:37.000Z</published>
+    <updated>2020-05-28T14:08:44.044Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/rMBrVfoQ7-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/XqQJ6-l26QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Many modern apps need to make 10s or even 100s or network calls just to populate the home screen. And they’ll likely be calling multiple different APIs, all requiring different authentication methods, JSON parsing and aggregation. Not only does this increase battery drain and frustration for users on slow and unreliable networks, it places a huge burden on the developer that isn’t easy to update or iterate on quickly. </p><p>Tim looks at the Backend for Frontend pattern and how we can leverage Swift in both our iOS applications and server applications to share code and make development faster. He shows clear examples of how BFFs can dramatically simplify your networking code and how a BFF in Swift can help you develop iOS applications quicker by reducing context switching and being able to share code.</p>]]></content>
     
     <summary type="html">
     
@@ -283,13 +535,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/rMBrVfoQ7-g&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/XqQJ6-l26QM&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
+      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
     
     
       <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
@@ -297,41 +549,13 @@
   </entry>
   
   <entry>
-    <title>2.3 - Juan Martin Sotuyo - Boosting productivity with Modular Apps</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.3-Juan-Martin-Sotuyo-Boosting-productivity-with-Modular-Apps/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.3-Juan-Martin-Sotuyo-Boosting-productivity-with-Modular-Apps/</id>
-    <published>2020-02-07T08:46:48.000Z</published>
-    <updated>2020-03-02T15:24:30.593Z</updated>
+    <title>dotSwift 2020 - Vincent Pradeilles - Implementing pseudo-keywords through functional programing</title>
+    <link href="http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Vincent-Pradeilles-Implementing-pseudo-keywords-through-functional-programing/"/>
+    <id>http://learntalks.com/dotSwift/2020/dotSwift-2020-dotSwift-2020-Vincent-Pradeilles-Implementing-pseudo-keywords-through-functional-programing/</id>
+    <published>2020-02-11T12:44:37.000Z</published>
+    <updated>2020-05-28T14:08:44.045Z</updated>
     
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/CxpeJ6PfoRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/CxpeJ6PfoRg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2.9 - Francisco Diaz - Working effectively at scale</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.9-Francisco-Diaz-Working-effectively-at-scale/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.9-Francisco-Diaz-Working-effectively-at-scale/</id>
-    <published>2020-02-07T08:46:48.000Z</published>
-    <updated>2020-03-02T15:24:30.595Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/KhZcSRXJHFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/CYkpF7COpVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p>Filmed at <a href="https://2020.dotswift.io" target="_blank" rel="noopener">https://2020.dotswift.io</a> on February 3, 2020 in Paris. More talks on <a href="https://dotconferences.com/talks" target="_blank" rel="noopener">https://dotconferences.com/talks</a></p><p>Swift is a great language. But we’ve all met situations where a certain feature was missing, and we wished were part of it.<br>Since programs are basically functions, and functions are first-class citizen in Swift, Vincent shows how we can implement “pseudo-keywords” at a short cost and to great value.</p>]]></content>
     
     <summary type="html">
     
@@ -339,237 +563,13 @@
       
         &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/KhZcSRXJHFs&quot; frameborder=&quot;0&quot; allow=&quot;accelero
+&lt;iframe src=&quot;https://www.youtube.com/embed/CYkpF7COpVY&quot; frameborder=&quot;0&quot; allow=&quot;accelero
       
     
     </summary>
     
     
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2.8 - Aline Borges - Feature flag all things</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.8-Aline-Borges-Feature-flag-all-things/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.8-Aline-Borges-Feature-flag-all-things/</id>
-    <published>2020-02-07T08:46:48.000Z</published>
-    <updated>2020-03-02T15:24:30.595Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/vVUodmYoFu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/vVUodmYoFu0&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2.1 - Amie Kweon - Routing Airbnb</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.1-Amie-Kweon-Routing-Airbnb/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.1-Amie-Kweon-Routing-Airbnb/</id>
-    <published>2020-02-07T08:46:48.000Z</published>
-    <updated>2020-03-02T15:24:30.592Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/ray2vMjg2ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/ray2vMjg2ug&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2.2 - Kryzysztof Zablocki - Improving Developer Experience through tools and techniques</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.2-Kryzysztof-Zablocki-Improving-Developer-Experience-through-tools-and-techniques/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.2-Kryzysztof-Zablocki-Improving-Developer-Experience-through-tools-and-techniques/</id>
-    <published>2020-02-07T08:46:48.000Z</published>
-    <updated>2020-03-02T15:24:30.593Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/UXuh4UEDrW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/UXuh4UEDrW8&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2.6 - Keith Smiley - An alternative approach to building &amp; shipping Swift apps</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.6-Keith-Smiley-An-alternative-approach-to-building-and-shipping-Swift-apps/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.6-Keith-Smiley-An-alternative-approach-to-building-and-shipping-Swift-apps/</id>
-    <published>2020-02-07T08:46:48.000Z</published>
-    <updated>2020-03-02T15:24:30.595Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/-u40WqvdRsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/-u40WqvdRsg&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2.4 - Mathias Claassen y Rodrigo Arsuaga - Creating forms with SwiftUI</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.4-Mathias-Claassen-y-Rodrigo-Arsuaga-Creating-forms-with-SwiftUI/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.4-Mathias-Claassen-y-Rodrigo-Arsuaga-Creating-forms-with-SwiftUI/</id>
-    <published>2020-02-07T08:46:48.000Z</published>
-    <updated>2020-03-02T15:24:30.593Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/2eoOsmBf1wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/2eoOsmBf1wI&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2.5 - Julian Gutierrez Ferrara - VIPER What could possibly go wrong?</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.5-Julian-Gutierrez-Ferrara-VIPER-What-could-possibly-go-wrong/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-2.5-Julian-Gutierrez-Ferrara-VIPER-What-could-possibly-go-wrong/</id>
-    <published>2020-02-07T08:46:48.000Z</published>
-    <updated>2020-03-02T15:24:30.594Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/g5kHqXlTlWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/g5kHqXlTlWo&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>1.4 - Sally Shepard - The Accessibility API</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-1.4-Sally-Shepard-The-Accessibility-API/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-1.4-Sally-Shepard-The-Accessibility-API/</id>
-    <published>2020-02-07T04:05:49.000Z</published>
-    <updated>2020-03-02T15:24:30.591Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/blstJq8Dn7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/blstJq8Dn7M&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
-    
-    
-      <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>1.11 - Peter Steinberger - Shipping a Mac Catalyst app The good, the bad and the ugly</title>
-    <link href="http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-1.11-Peter-Steinberger-Shipping-a-Mac-Catalyst-app-The-good-the-bad-and-the-ugly/"/>
-    <id>http://learntalks.com/BA-Swiftable/2020/BA-Swiftable-2020-1.11-Peter-Steinberger-Shipping-a-Mac-Catalyst-app-The-good-the-bad-and-the-ugly/</id>
-    <published>2020-02-07T04:05:49.000Z</published>
-    <updated>2020-03-02T15:24:30.591Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/EK0O8_Tt6TE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div style=&quot;position:relative;padding-top:56.25%;&quot;&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/EK0O8_Tt6TE&quot; frameborder=&quot;0&quot; allow=&quot;accelero
-      
-    
-    </summary>
-    
-    
-      <category term="BA Swiftable" scheme="http://learntalks.com/categories/BA-Swiftable/"/>
+      <category term="dotSwift" scheme="http://learntalks.com/categories/dotSwift/"/>
     
     
       <category term="2020" scheme="http://learntalks.com/tags/2020/"/>
